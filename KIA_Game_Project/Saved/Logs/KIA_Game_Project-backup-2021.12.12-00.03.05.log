@@ -1,0 +1,1767 @@
+﻿Log file open, 12/11/21 23:08:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: KIA_Game_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282721
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/epic games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.11-23.08.49:337][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.11-23.08.49:337][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.11-23.08.49:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.11-23.08.49:338][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.11-23.08.49:375][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:375][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.11-23.08.49:375][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.11-23.08.49:376][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.11-23.08.49:377][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.11-23.08.49:377][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.11-23.08.49:377][  0]LogHAL: Display: Platform has ~ 64 GB [68645998592 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.11-23.08.49:377][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.11-23.08.49:377][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.11-23.08.49:377][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.11-23.08.49:378][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.11-23.08.49:379][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.11-23.08.49:379][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.11-23.08.49:379][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.11-23.08.49:379][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.11-23.08.49:379][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Config/Windows/Editor.ini]
+[2021.12.11-23.08.49:379][  0]LogInit: Computer: DESKTOP-9LD5IM5
+[2021.12.11-23.08.49:379][  0]LogInit: User: keiro
+[2021.12.11-23.08.49:379][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.12.11-23.08.49:379][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.11-23.08.49:379][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2021.12.11-23.08.49:379][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.11-23.08.49:379][  0]LogMemory: Process Physical Memory: 146.77 MB used, 146.78 MB peak
+[2021.12.11-23.08.49:379][  0]LogMemory: Process Virtual Memory: 131.32 MB used, 131.32 MB peak
+[2021.12.11-23.08.49:379][  0]LogMemory: Physical Memory: 11885.59 MB used,  53580.34 MB free, 65465.93 MB total
+[2021.12.11-23.08.49:379][  0]LogMemory: Virtual Memory: 134159600.00 MB used,  58127.09 MB free, 134217728.00 MB total
+[2021.12.11-23.08.49:385][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.11-23.08.49:428][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.11-23.08.49:433][  0]LogInit: Using OS detected language (en-GB).
+[2021.12.11-23.08.49:433][  0]LogInit: Using OS detected locale (en-GB).
+[2021.12.11-23.08.49:435][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.12.11-23.08.49:645][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.11-23.08.49:657][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.11-23.08.49:680][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.11-23.08.49:680][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.11-23.08.49:863][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.12.11-23.08.49:866][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.11-23.08.49:866][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.11-23.08.49:866][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.11-23.08.49:866][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.11-23.08.50:025][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2021.12.11-23.08.50:025][  0]LogD3D11RHI:       8031/0/32732 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI:       0/0/32732 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060 SUPER
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI:     DeviceId    : 1f06
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI:     SubSysId    : 87301043
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI:     SharedSystemMemory : 34322999296 bytes
+[2021.12.11-23.08.50:028][  0]LogD3D11RHI:     AdapterLuid : 0 42615
+[2021.12.11-23.08.50:037][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.11-23.08.50:037][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.11-23.08.50:037][  0]LogWindows: EnumDisplayDevices:
+[2021.12.11-23.08.50:038][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:1)
+[2021.12.11-23.08.50:038][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:1)
+[2021.12.11-23.08.50:038][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2021.12.11-23.08.50:038][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.12.11-23.08.50:038][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.12.11-23.08.50:038][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI:   Driver Version: 472.47 (internal:30.0.14.7247, unified:472.47)
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI:      Driver Date: 10-26-2021
+[2021.12.11-23.08.50:039][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060 SUPER
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI:     DeviceId    : 1f06
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI:     SubSysId    : 87301043
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI:     SharedSystemMemory : 34322999296 bytes
+[2021.12.11-23.08.50:039][  0]LogD3D11RHI:     AdapterLuid : 0 42615
+[2021.12.11-23.08.50:137][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.11-23.08.50:137][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.11-23.08.50:137][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.11-23.08.50:167][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.11-23.08.50:198][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.11-23.08.50:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.11-23.08.50:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.11-23.08.50:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.11-23.08.50:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.11-23.08.50:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.11-23.08.50:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.11-23.08.50:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.11-23.08.50:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.11-23.08.50:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.11-23.08.50:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.11-23.08.50:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.11-23.08.50:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.11-23.08.50:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.11-23.08.50:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.11-23.08.50:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.11-23.08.50:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.11-23.08.50:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.11-23.08.50:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.11-23.08.50:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.11-23.08.50:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.11-23.08.50:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.11-23.08.50:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.11-23.08.50:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.11-23.08.50:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.11-23.08.50:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.11-23.08.50:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.11-23.08.50:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.11-23.08.50:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.11-23.08.50:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.11-23.08.50:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.11-23.08.50:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.11-23.08.50:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.11-23.08.50:745][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.11-23.08.50:752][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.11-23.08.50:783][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.12.11-23.08.50:816][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.11-23.08.50:817][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Intermediate/Shaders/WorkingDirectory/5696/).
+[2021.12.11-23.08.50:817][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/keiro/AppData/Local/Temp/UnrealShaderWorkingDir/D7096DDE4C4F93524F0907A924851F6C/'.
+[2021.12.11-23.08.50:817][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.11-23.08.50:817][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.11-23.08.50:817][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.11-23.08.51:608][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.11-23.08.51:664][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/keiro/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.11-23.08.51:664][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/keiro/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.12.11-23.08.51:665][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.11-23.08.51:665][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.11-23.08.51:665][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.11-23.08.51:665][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.11-23.08.51:683][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.11-23.08.51:684][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.11-23.08.51:684][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.11-23.08.51:694][  0]LogDerivedDataCache: Speed tests for C:/Users/keiro/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.12.11-23.08.51:694][  0]LogDerivedDataCache: Display: Performance to C:/Users/keiro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=715.31MBs, RandomWriteSpeed=114.84MBs. Assigned SpeedClass 'Local'
+[2021.12.11-23.08.51:695][  0]LogDerivedDataCache: Using Local data cache path C:/Users/keiro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.11-23.08.51:695][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.11-23.08.51:695][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.11-23.08.51:745][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.11-23.08.51:746][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.11-23.08.51:768][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2021.12.11-23.08.52:019][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.11-23.08.52:019][  0]LogInit: Active device profile: [0000021A709AC900][0000021A6DB77740 49] Windows
+[2021.12.11-23.08.52:019][  0]LogInit: Profiles: [0000021A709AC900][0000021A6DB77740 49] Windows, [0000021A70967800][0000021A6DB358C0 49] WindowsNoEditor, [0000021A709AF500][0000021A633D1A40 49] WindowsServer, [0000021A70964E00][0000021A65FBBBC0 49] WindowsClient, [0000021A709AF800][0000021A6EDBA1C0 49] IOS, [0000021A70966800][0000021A6EDBE340 49] iPadAir, [0000021A709AE000][0000021A633B44C0 49] iPadAir2, [0000021A70918A00][0000021A6EFD0740 49] IPadPro, [0000021A70918B00][0000021A633B8780 49] iPadAir3, [0000021A70965700][0000021A633BC8C0 49] iPadAir4, [0000021A7091B400][0000021A633C0A00 49] iPadMini2, [0000021A70966A00][0000021A633C4B40 49] iPadMini3, [0000021A70919700][0000021A633CCCC0 49] iPadMini4, [0000021A709ACF00][0000021A63A10E40 49] iPadMini5, [0000021A7092C300][0000021A63A19100 49] iPhone6, [0000021A7092C400][0000021A63A15140 49] iPodTouch6, [0000021A7091B600][0000021A63A21400 49] iPhone7, [0000021A70919800][0000021A63A1D440 49] iPodTouch7, [0000021A7092FF00][0000021A63A255C0 49] iPhone5S, [0000021A70966300][0000021A63A29740 49] iPhone6Plus, [0000021A70918200][0000021A63A2D8C0 49] iPhone6S, [0000021A70966200][0000021A6EFFBA40 49] iPhone6SPlus, [0000021A7091BC00][0000021A6EFFFBC0 49] iPhone7Plus, [0000021A70967D00][0000021A6F0021C0 49] iPhoneSE, [0000021A7091B500][0000021A6F006340 49] iPhone8, [0000021A70965E00][0000021A6F00A4C0 49] iPhone8Plus, [0000021A7091A600][0000021A6F00E640 49] iPhoneX, [0000021A70966500][0000021A6F0127C0 49] iPhoneXS, [0000021A7091A000][0000021A6F016940 49] iPhoneXSMax, [0000021A70967A00][0000021A633C8A80 49] iPhoneXR, [0000021A7091B700][0000021A6F01ABC0 49] iPhone11, [0000021A70964D00][0000021A6F01ED00 49] iPhone11Pro, [0000021A7091B800][0000021A70798E80 49] iPhone11ProMax, [0000021A70964F00][0000021A7079D000 49] iPhoneSE2, [0000021A7091AE00][0000021A707A1180 49] iPhone12Mini, [0000021A70966700][0000021A707A5300 49] iPhone12, [0000021A70919100][0000021A707A9480 49] iPhone12Pro, [0000021A70967600][0000021A707AD600 49] iPhone12ProMax, [0000021A7091A300][0000021A707B1780 49] iPadPro105, [0000021A70964C00][0000021A707B5900 49] iPadPro129, [0000021A7091B300][0000021A707B9A80 49] iPadPro97, [0000021A70965F00][0000021A707BDC00 49] iPadPro2_129, [0000021A70919400][0000021A707C0200 49] iPad5, [0000021A70967400][0000021A707C4380 49] iPad6, [0000021A7091B100][0000021A707C8500 49] iPad7, [0000021A70965A00][0000021A707CC680 49] iPad8, [0000021A7091A800][0000021A707FC800 49] iPadPro11, [0000021A70965B00][0000021A70800980 49] iPadPro2_11, [0000021A70919B00][0000021A70804B00 49] iPadPro3_129, [0000021A70967900][0000021A70794C40 49] iPadPro4_129, [0000021A70919500][0000021A70808D80 49] AppleTV, [0000021A70966000][0000021A7080CEC0 49] AppleTV4K, [0000021A70918100][0000021A70815040 49] TVOS, [0000021A70966600][0000021A708191C0 49] Mac, [0000021A7091A700][0000021A7081D340 49] MacClient, [0000021A70966F00][0000021A708214C0 49] MacNoEditor, [0000021A7091B900][0000021A70825640 49] MacServer, [0000021A70967500][0000021A708297C0 49] Linux, [0000021A7091A200][0000021A7082D940 49] LinuxAArch64, [0000021A70964B00][0000021A70831AC0 49] LinuxNoEditor, [0000021A7091BB00][0000021A708340C0 49] LinuxAArch64NoEditor, [0000021A70964100][0000021A70838240 49] LinuxClient, [0000021A70919D00][0000021A7083C3C0 49] LinuxAArch64Client, [0000021A70965600][0000021A70840540 49] LinuxServer, [0000021A7091A100][0000021A708446C0 49] LinuxAArch64Server, [0000021A70965300][0000021A70848840 49] Android, [0000021A70918500][0000021A7084C9C0 49] Android_Low, [0000021A70966B00][0000021A6EEC4B40 49] Android_Mid, [0000021A709AFA00][0000021A6EEC8CC0 49] Android_High, [0000021A7092DC00][0000021A70810E00 49] Android_Default, [0000021A709AE100][0000021A6EECCF40 49] Android_Adreno4xx, [0000021A7092E700][0000021A6EED1080 49] Android_Adreno5xx_Low, [0000021A709ACB00][0000021A6EED51C0 49] Android_Adreno5xx, [0000021A7092ED00][0000021A6EEDD340 49] Android_Adreno6xx, [0000021A709AD200][0000021A6EEE14C0 49] Android_Adreno6xx_Vulkan, [0000021A7092E800][0000021A6EEE5640 49] Android_Mali_T6xx, [0000021A709AF200][0000021A6EEE97C0 49] Android_Mali_T7xx, [0000021A7092EE00][0000021A6EEED940 49] Android_Mali_T8xx, [0000021A709AE500][0000021A6EEF1AC0 49] Android_Mali_G71, [0000021A7092FE00][0000021A6EEF40C0 49] Android_Mali_G72, [0000021A709AEA00][0000021A6EEF8240 49] Android_Mali_G72_Vulkan, [0000021A7092DB00][0000021A6EEFC3C0 49] Android_Mali_G76, [0000021A709ADD00][0000021A6EF00540 49] Android_Mali_G76_Vulkan, [0000021A7092F000][0000021A6EF046C0 49] Android_Mali_G77, [0000021A709AED00][0000021A6EF08840 49] Android_Mali_G77_Vulkan, [0000021A7092FA00][0000021A6EF0C9C0 49] Android_Mali_G78, [0000021A709ACD00][0000021A6EF10B40 49] Android_Mali_G78_Vulkan, [0000021A7092C500][0000021A6EF14CC0 49] Android_Mali_G710, [0000021A709AD300][0000021A6EF18E40 49] Android_Mali_G710_Vulkan, [0000021A7092F500][0000021A6EED8F80 49] Android_Vulkan_SM5, [0000021A709AF300][0000021A6EF1D0C0 49] Android_PowerVR_G6xxx, [0000021A7092EC00][0000021A6EF21200 49] Android_PowerVR_GT7xxx, [0000021A709AFC00][0000021A6EF25340 49] Android_PowerVR_GE8xxx, [0000021A7092D200][0000021A6EF2D4C0 49] Android_PowerVR_GM9xxx, [0000021A709AF000][0000021A6EF31640 49] Android_PowerVR_GM9xxx_Vulkan, [0000021A7092E900][0000021A6EF357C0 49] Android_TegraK1, [0000021A709AD100][0000021A6EF39940 49] Android_Unknown_Vulkan, [0000021A70964600][0000021A6EF3DAC0 49] Lumin, [0000021A709AE900][0000021A6EF400C0 49] Lumin_Desktop, [0000021A70965200][0000021A6EF44240 49] HoloLens, 
+[2021.12.11-23.08.52:141][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.11-23.08.52:141][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.11-23.08.52:141][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.11-23.08.52:141][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.11-23.08.52:141][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.11-23.08.52:164][  0]LogNetVersion: KIA_Game_Project 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2241242739)
+[2021.12.11-23.08.52:549][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.11-23.08.52:604][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.11-23.08.52:611][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.12.11-23.08.52:611][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2021.12.11-23.08.52:611][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.11-23.08.52:901][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 94BEEC5F4EDD7C2C32228981BB2FA263 | Instance: F92DC11A4D895D609A7EA0B59C32DE78 (DESKTOP-9LD5IM5-5696).
+[2021.12.11-23.08.52:949][  0]LogPython: Using Python 3.7.7
+[2021.12.11-23.08.53:594][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.11-23.08.53:601][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.11-23.08.53:940][  0]LogOpenImageDenoise: OIDN starting up
+[2021.12.11-23.08.53:988][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.11-23.08.54:010][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.11-23.08.54:010][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.11-23.08.54:131][  0]SourceControl: Source control is disabled
+[2021.12.11-23.08.54:131][  0]SourceControl: Source control is disabled
+[2021.12.11-23.08.54:135][  0]SourceControl: Source control is disabled
+[2021.12.11-23.08.54:137][  0]SourceControl: Source control is disabled
+[2021.12.11-23.08.54:144][  0]SourceControl: Source control is disabled
+[2021.12.11-23.08.54:151][  0]LogUProjectInfo: Found projects:
+[2021.12.11-23.08.54:168][  0]LogCollectionManager: Loaded 0 collections in 0.000795 seconds
+[2021.12.11-23.08.54:192][  0]LogFileCache: Scanning file cache for directory 'C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Collections/' took 0.00s
+[2021.12.11-23.08.54:192][  0]LogFileCache: Scanning file cache for directory 'C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/Developers/keiro/Collections/' took 0.00s
+[2021.12.11-23.08.54:192][  0]LogFileCache: Scanning file cache for directory 'C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/Collections/' took 0.00s
+[2021.12.11-23.08.54:192][  0]LogOcInput: OculusInput pre-init called
+[2021.12.11-23.08.54:402][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::Handle is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2021.12.11-23.08.54:402][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::VendorID is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2021.12.11-23.08.54:402][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::ProductID is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2021.12.11-23.08.54:403][  0]LogClass: Display: 3 Uninitialized script struct members found including 0 object properties
+[2021.12.11-23.08.54:404][  0]LogEngine: Initializing Engine...
+[2021.12.11-23.08.54:406][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.12.11-23.08.54:406][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.11-23.08.54:406][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.11-23.08.54:407][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.11-23.08.54:519][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.11-23.08.54:528][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.11-23.08.54:535][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.11-23.08.54:538][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.12.11-23.08.54:539][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.12.11-23.08.54:539][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.11-23.08.54:539][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.11-23.08.54:539][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.11-23.08.54:539][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.11-23.08.54:539][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.11-23.08.54:539][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.11-23.08.54:539][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.11-23.08.54:539][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.11-23.08.54:539][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.11-23.08.54:539][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.11-23.08.54:540][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.11-23.08.54:540][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.11-23.08.54:540][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.11-23.08.54:540][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.11-23.08.54:550][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.11-23.08.54:550][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.11-23.08.54:566][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.12.11-23.08.54:568][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.11-23.08.54:570][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.11-23.08.54:570][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.11-23.08.54:571][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.11-23.08.54:571][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.11-23.08.54:571][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.11-23.08.54:572][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.11-23.08.54:572][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.11-23.08.54:572][  0]LogInit: FAudioDevice initialized.
+[2021.12.11-23.08.54:573][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.11-23.08.54:573][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.11-23.08.54:643][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/keiro/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.11-23.08.54:643][  0]LogInit: Texture streaming: Enabled
+[2021.12.11-23.08.54:656][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2021.12.11-23.08.54:660][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.11-23.08.54:660][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.11-23.08.54:662][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.11-23.08.54:697][  0]LogInit: Transaction tracking system initialized
+[2021.12.11-23.08.54:717][  0]BlueprintLog: New page: Editor Load
+[2021.12.11-23.08.54:778][  0]LocalizationService: Localization service is disabled
+[2021.12.11-23.08.54:803][  0]TimingProfiler: Initialize
+[2021.12.11-23.08.54:803][  0]TimingProfiler: OnSessionChanged
+[2021.12.11-23.08.54:803][  0]LoadingProfiler: Initialize
+[2021.12.11-23.08.54:803][  0]LoadingProfiler: OnSessionChanged
+[2021.12.11-23.08.54:803][  0]NetworkingProfiler: Initialize
+[2021.12.11-23.08.54:803][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.11-23.08.54:803][  0]MemoryProfiler: Initialize
+[2021.12.11-23.08.54:803][  0]MemoryProfiler: OnSessionChanged
+[2021.12.11-23.08.54:972][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.11-23.08.54:972][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.11-23.08.55:980][  0]LogFileCache: Scanning file cache for directory 'C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/' took 0.01s
+[2021.12.11-23.08.56:315][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.11-23.08.56:318][  0]SourceControl: Source control is disabled
+[2021.12.11-23.08.56:318][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.227
+[2021.12.11-23.08.56:318][  0]Cmd: MAP LOAD FILE="C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.11-23.08.56:318][  0]LogEditorServer: Warning: Can't find file 'C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.12.11-23.08.56:318][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.11-23.08.56:318][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2021.12.11-23.08.56:319][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 0.001
+[2021.12.11-23.08.56:320][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.230
+[2021.12.11-23.08.56:463][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-23.08.56:470][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-23.08.56:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-23.08.56:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-23.08.56:499][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0115 seconds. Added 3824 classes and 931 folders.
+[2021.12.11-23.08.56:519][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.11-23.08.56:520][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.11-23.08.56:520][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:520][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.11-23.08.56:520][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:520][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.12.11-23.08.56:520][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.12.11-23.08.56:521][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.11-23.08.56:521][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:521][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.11-23.08.56:521][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:521][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.12.11-23.08.56:521][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.12.11-23.08.56:521][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.11-23.08.56:521][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:521][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.11-23.08.56:521][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.12.11-23.08.56:522][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.12.11-23.08.56:522][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.11-23.08.56:522][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:522][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.11-23.08.56:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.11-23.08.56:522][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.12.11-23.08.56:523][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.11-23.08.56:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.11-23.08.56:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.12.11-23.08.56:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.12.11-23.08.56:523][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.11-23.08.56:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.11-23.08.56:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.12.11-23.08.56:524][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.12.11-23.08.56:524][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.11-23.08.56:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.11-23.08.56:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.12.11-23.08.56:524][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.12.11-23.08.56:525][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.11-23.08.56:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.11-23.08.56:525][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:525][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.12.11-23.08.56:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.12.11-23.08.56:525][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.11-23.08.56:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.11-23.08.56:525][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:525][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.12.11-23.08.56:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.12.11-23.08.56:526][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.11-23.08.56:526][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:526][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.11-23.08.56:526][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:526][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.12.11-23.08.56:526][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.12.11-23.08.56:527][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.11-23.08.56:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.11-23.08.56:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.12.11-23.08.56:527][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.12.11-23.08.56:527][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.11-23.08.56:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.11-23.08.56:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.12.11-23.08.56:527][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.11-23.08.56:528][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.11-23.08.56:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.11-23.08.56:528][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:528][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.12.11-23.08.56:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.11-23.08.56:529][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.11-23.08.56:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.11-23.08.56:529][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:529][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.12.11-23.08.56:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.11-23.08.56:530][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.11-23.08.56:530][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:530][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.11-23.08.56:530][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:530][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.12.11-23.08.56:530][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.12.11-23.08.56:530][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.11-23.08.56:530][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:530][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.11-23.08.56:530][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:530][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.12.11-23.08.56:530][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.12.11-23.08.56:531][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.11-23.08.56:531][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:531][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.11-23.08.56:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.12.11-23.08.56:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.12.11-23.08.56:532][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.11-23.08.56:532][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:532][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.11-23.08.56:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.12.11-23.08.56:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.11-23.08.56:532][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.11-23.08.56:532][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:532][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.11-23.08.56:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.12.11-23.08.56:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.12.11-23.08.56:533][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.11-23.08.56:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.11-23.08.56:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.12.11-23.08.56:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.12.11-23.08.56:533][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.11-23.08.56:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.11-23.08.56:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.12.11-23.08.56:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.12.11-23.08.56:534][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.11-23.08.56:534][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:534][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.11-23.08.56:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.12.11-23.08.56:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.12.11-23.08.56:535][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.11-23.08.56:535][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:535][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.11-23.08.56:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.12.11-23.08.56:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.12.11-23.08.56:535][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.11-23.08.56:535][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:535][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.11-23.08.56:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.12.11-23.08.56:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.12.11-23.08.56:536][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.11-23.08.56:536][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:536][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.11-23.08.56:536][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:536][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.12.11-23.08.56:536][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.11-23.08.56:536][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.11-23.08.56:536][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-23.08.56:536][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.11-23.08.56:537][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/epic games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-23.08.56:537][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/epic games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.11-23.08.56:537][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.12.11-23.08.56:598][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.11-23.08.56:599][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.12.11-23.08.56:645][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.11-23.08.56:646][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.11-23.08.56:648][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.11-23.08.56:769][  0]LogRenderer: Reallocating scene render targets to support 944x572 Format 10 NumSamples 1 (Frame:1).
+[2021.12.11-23.08.57:359][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.11-23.08.57:421][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.11-23.08.57:421][  0]LogLoad: (Engine Initialization) Total time: 9.33 seconds
+[2021.12.11-23.08.57:421][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.11-23.08.57:437][  0]LogRawInputWindows: Warning: Found device 11 devices
+[2021.12.11-23.08.57:437][  0]LogRawInputWindows: Warning: Found device 11 devices
+[2021.12.11-23.08.57:437][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2021.12.11-23.08.57:438][  0]LogRawInputWindows: Warning: Found device 11 devices
+[2021.12.11-23.08.57:438][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2021.12.11-23.08.57:472][  0]LogAssetRegistry: Asset discovery search completed in 5.7062 seconds
+[2021.12.11-23.08.57:478][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.12.11-23.08.57:480][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.11-23.09.02:668][290]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.11-23.09.02:698][290]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.11-23.09.04:694][519]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2021.12.11-23.09.04:694][519]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.11-23.09.09:539][691]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.11-23.09.09:558][691]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../3d/tree_pine/faketrain.fbx)
+[2021.12.11-23.09.09:569][691]LogFbx: Loading FBX Scene from ../../../../../3d/tree_pine/faketrain.fbx
+[2021.12.11-23.09.09:584][691]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.11-23.09.16:118][691]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.11-23.09.16:133][691]LogFbx: Valid bind pose for Pose (Cylinder.019) - TC_FL_Wheel
+[2021.12.11-23.09.16:133][691]LogFbx: Valid bind pose for Pose (Cylinder.004) - TC_FL_Wheel
+[2021.12.11-23.09.16:133][691]LogFbx: Valid bind pose for Pose (Cylinder.006) - TC_FL_Wheel
+[2021.12.11-23.09.16:133][691]LogFbx: Valid bind pose for Pose (Cylinder.007) - TC_FL_Wheel
+[2021.12.11-23.09.16:133][691]LogFbx: Valid bind pose for Pose (Cylinder.008) - TC_FL_Wheel
+[2021.12.11-23.09.16:138][691]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/Wheel.Wheel needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.09.16:140][691]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 2FF414821FBC1236859149A88AB7B2FEC01932E8), compiling. 
+[2021.12.11-23.09.16:189][691]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.09.16:191][691]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 517ABF3A2C2FB27A3C24A3C5631EBBD2C9DD54E0), compiling. 
+[2021.12.11-23.09.16:193][691]LogFbx: Triangulating skeletal mesh TC_FL_Wheel
+[2021.12.11-23.09.16:202][691]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/Car.Car needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.09.16:203][691]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 0C25CB8265180D9772CB8BF74B54FD4592E5DE97), compiling. 
+[2021.12.11-23.09.16:222][691]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.09.16:224][691]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: B0AF8E30091A0246684DADB400953A97DF36B92F), compiling. 
+[2021.12.11-23.09.16:226][691]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/Exhausts.Exhausts needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.09.16:227][691]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: 473A1C3163B6BE132DFDD770010BBBE0FED34316), compiling. 
+[2021.12.11-23.09.16:246][691]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.09.16:248][691]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: 0FEF511E6889DA07529BA2D6AEFF27025244F65A), compiling. 
+[2021.12.11-23.09.16:250][691]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.003
+[2021.12.11-23.09.16:468][691]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.001
+[2021.12.11-23.09.16:476][691]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.002
+[2021.12.11-23.09.16:484][691]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.004
+[2021.12.11-23.09.16:513][691]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2021.12.11-23.09.16:777][691]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.09.16:777][691]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.09.16:777][691]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.09.16:779][691]LogSkeletalMesh: Building Skeletal Mesh faketrain...
+[2021.12.11-23.09.17:023][691]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.09.17:023][691]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.09.17:023][691]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.09.17:045][691]LogSkeletalMesh: Built Skeletal Mesh [0.27s] /Game/KIA_Game/assets/testCR/faketrain.faketrain
+[2021.12.11-23.09.28:913][691]LogSlate: Window 'Message' being destroyed
+[2021.12.11-23.09.28:917][691]Message dialog closed, result: Yes, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2021.12.11-23.09.36:756][691]LogSlate: Window 'Message' being destroyed
+[2021.12.11-23.09.36:760][691]Message dialog closed, result: Yes, title: Message, text: Would you like to merge all SkeletalMeshes using this skeleton to ensure all bones are merged? This will require to load those SkeletalMeshes.
+[2021.12.11-23.09.38:351][691]LogSlate: Window 'Message' being destroyed
+[2021.12.11-23.09.38:356][691]Message dialog closed, result: Ok, title: Message, text: Failed to merge SkeletalMesh 'testcar'.
+[2021.12.11-23.09.38:401][691]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.11-23.09.38:401][691]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.09.38:401][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.09.38:409][691]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.09.38:409][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.09.38:610][692]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.38:616][692]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.12.11-23.09.38:616][692]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.12.11-23.09.38:616][692]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.38:629][692]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.38:632][692]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 30
+[2021.12.11-23.09.38:632][692]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 27
+[2021.12.11-23.09.38:632][692]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 24
+[2021.12.11-23.09.38:632][692]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 21
+[2021.12.11-23.09.38:632][692]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2021.12.11-23.09.38:632][692]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2021.12.11-23.09.38:632][692]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2021.12.11-23.09.38:632][692]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.12.11-23.09.38:632][692]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.12.11-23.09.38:632][692]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.12.11-23.09.38:632][692]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.38:636][692]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.38:658][692]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.38:668][692]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.38:694][692]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.39:369][731]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.12.11-23.09.39:369][731]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.39:628][744]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2021.12.11-23.09.39:628][744]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.39:942][750]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.12.11-23.09.39:942][750]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.40:001][752]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.12.11-23.09.40:001][752]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.40:104][753]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.12.11-23.09.40:105][753]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.40:202][755]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.12.11-23.09.40:202][755]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.40:251][756]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.12.11-23.09.40:251][756]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.40:450][762]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.12.11-23.09.40:450][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.09.40:559][764]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 56
+[2021.12.11-23.09.40:559][764]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 51
+[2021.12.11-23.09.40:559][764]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.40:659][768]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 46
+[2021.12.11-23.09.40:659][768]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.40:696][769]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 42
+[2021.12.11-23.09.40:696][769]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.40:769][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 38
+[2021.12.11-23.09.40:769][770]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.40:850][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 34
+[2021.12.11-23.09.40:850][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 31
+[2021.12.11-23.09.40:850][770]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.40:945][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 28
+[2021.12.11-23.09.40:945][770]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.41:044][773]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 25
+[2021.12.11-23.09.41:045][773]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.41:066][773]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2021.12.11-23.09.41:066][773]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.41:293][779]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/KIA_Game/assets/testCR/faketrain.faketrain
+[2021.12.11-23.09.41:321][779]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2021.12.11-23.09.41:334][779]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.12.11-23.09.41:437][779]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.11-23.09.41:531][779]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 20
+[2021.12.11-23.09.41:531][779]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.41:543][779]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2021.12.11-23.09.41:543][779]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.41:573][779]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.09.41:575][779]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2021.12.11-23.09.42:386][779]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2021.12.11-23.09.42:386][779]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.42:386][779]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2021.12.11-23.09.42:386][779]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.42:386][779]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2021.12.11-23.09.42:386][779]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.42:386][779]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.11-23.09.42:396][779]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.12.11-23.09.42:396][779]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.42:473][779]LogRenderer: Reallocating scene render targets to support 1144x884 Format 10 NumSamples 1 (Frame:1).
+[2021.12.11-23.09.42:630][780]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.12.11-23.09.42:630][780]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.42:898][784]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.12.11-23.09.42:898][784]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.43:078][785]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2021.12.11-23.09.43:078][785]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.43:139][786]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.12.11-23.09.43:139][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.43:145][786]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2021.12.11-23.09.43:145][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.43:191][787]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.12.11-23.09.43:191][787]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.43:245][788]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2021.12.11-23.09.43:245][788]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.43:415][791]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.12.11-23.09.43:415][791]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.12.11-23.09.43:415][791]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.09.50:950][573]LogSlate: Window 'faketrain' being destroyed
+[2021.12.11-23.09.50:955][573]LogSlate: Window 'faketrain' being destroyed
+[2021.12.11-23.09.50:956][573]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.09.50:956][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.09.54:369][939]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/faketrain_PhysicsAsset.faketrain_PhysicsAsset
+[2021.12.11-23.09.54:375][939]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.11-23.09.54:382][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.09.54:641][939]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.11-23.10.03:676][902]LogSlate: Window 'faketrain_PhysicsAsset' being destroyed
+[2021.12.11-23.10.03:682][902]LogSlate: Window 'faketrain_PhysicsAsset' being destroyed
+[2021.12.11-23.10.03:682][902]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.10.03:683][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.10.12:993][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.12.11-23.10.14:604][840]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.11-23.10.14:699][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.11-23.10.19:893][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.12.11-23.10.21:544][408]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.11-23.10.21:591][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.11-23.10.35:223][306]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../3d/tree_pine/faketrain.fbx)
+[2021.12.11-23.10.35:231][306]LogFbx: Loading FBX Scene from ../../../../../3d/tree_pine/faketrain.fbx
+[2021.12.11-23.10.35:244][306]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.11-23.10.39:988][306]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.11-23.10.40:011][306]LogFbx: Valid bind pose for Pose (Cylinder.019) - TC_FL_Wheel
+[2021.12.11-23.10.40:011][306]LogFbx: Valid bind pose for Pose (Cylinder.004) - TC_FL_Wheel
+[2021.12.11-23.10.40:011][306]LogFbx: Valid bind pose for Pose (Cylinder.006) - TC_FL_Wheel
+[2021.12.11-23.10.40:011][306]LogFbx: Valid bind pose for Pose (Cylinder.007) - TC_FL_Wheel
+[2021.12.11-23.10.40:011][306]LogFbx: Valid bind pose for Pose (Cylinder.008) - TC_FL_Wheel
+[2021.12.11-23.10.40:012][306]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.10.40:013][306]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 739F44E635F1C7704C51B00A2AA373D31D1FE13C), compiling. 
+[2021.12.11-23.10.40:033][306]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.10.40:036][306]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: B0A088D3A3D17536A4695A064104318C8FE108E3), compiling. 
+[2021.12.11-23.10.40:037][306]LogFbx: Triangulating skeletal mesh TC_FL_Wheel
+[2021.12.11-23.10.40:047][306]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Car.Car needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.10.40:048][306]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 5EB43A995B904FA4E8462F620E759B3014229D87), compiling. 
+[2021.12.11-23.10.40:070][306]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.10.40:072][306]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 3F487537074A933EA3B8529B3CF1869984028CDF), compiling. 
+[2021.12.11-23.10.40:074][306]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.10.40:076][306]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: 6DF42133E613E4465176E183717520C125544FA4), compiling. 
+[2021.12.11-23.10.40:096][306]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.10.40:099][306]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: D11B5549498050A77CDD604A5E51C06CD03ACF5E), compiling. 
+[2021.12.11-23.10.40:101][306]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.003
+[2021.12.11-23.10.40:287][306]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.001
+[2021.12.11-23.10.40:294][306]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.002
+[2021.12.11-23.10.40:302][306]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.004
+[2021.12.11-23.10.40:331][306]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2021.12.11-23.10.40:592][306]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.10.40:592][306]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.10.40:592][306]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.10.40:594][306]LogSkeletalMesh: Building Skeletal Mesh faketrain...
+[2021.12.11-23.10.40:832][306]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.10.40:832][306]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.10.40:832][306]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.10.40:850][306]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/KIA_Game/assets/testCR/NewFolder/faketrain.faketrain
+[2021.12.11-23.10.40:860][306]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.11-23.10.40:860][306]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.10.40:860][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.10.40:866][306]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.10.40:866][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.10.43:151][516]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/NewFolder/faketrain_PhysicsAsset.faketrain_PhysicsAsset
+[2021.12.11-23.10.43:155][516]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.11.00:321][413]LogSlate: Window 'faketrain_PhysicsAsset' being destroyed
+[2021.12.11-23.11.00:327][413]LogSlate: Window 'faketrain_PhysicsAsset' being destroyed
+[2021.12.11-23.11.00:327][413]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.11.00:327][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.11.01:854][584]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/KIA_Game/assets/testCR/NewFolder/faketrain_Skeleton.faketrain_Skeleton
+[2021.12.11-23.11.01:857][584]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.11.12:969][805]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/NewFolder/faketrain_PhysicsAsset.faketrain_PhysicsAsset
+[2021.12.11-23.11.12:975][805]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.11.17:946][324]LogSlate: Window 'faketrain_PhysicsAsset' being destroyed
+[2021.12.11-23.11.17:952][324]LogSlate: Window 'faketrain_PhysicsAsset' being destroyed
+[2021.12.11-23.11.17:952][324]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.11.17:952][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.11.17:997][324]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.11.17:997][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.11.27:936][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.12.11-23.11.29:502][443]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.11-23.11.29:522][443]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Car.Car
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain.faketrain
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain_PhysicsAsset.faketrain_PhysicsAsset
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain_Skeleton.faketrain_Skeleton
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel
+[2021.12.11-23.11.31:156][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.12.11-23.14.25:607][362]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../3d/raceblock 1/faketrain2.fbx)
+[2021.12.11-23.14.25:616][362]LogFbx: Loading FBX Scene from ../../../../../3d/raceblock 1/faketrain2.fbx
+[2021.12.11-23.14.25:631][362]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.11-23.14.30:416][362]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.11-23.14.30:437][362]LogFbx: Valid bind pose for Pose (Cylinder.019) - TC_FL_Wheel
+[2021.12.11-23.14.30:437][362]LogFbx: Valid bind pose for Pose (Cylinder.004) - TC_FL_Wheel
+[2021.12.11-23.14.30:437][362]LogFbx: Valid bind pose for Pose (Cylinder.006) - TC_FL_Wheel
+[2021.12.11-23.14.30:437][362]LogFbx: Valid bind pose for Pose (Cylinder.007) - TC_FL_Wheel
+[2021.12.11-23.14.30:437][362]LogFbx: Valid bind pose for Pose (Cylinder.008) - TC_FL_Wheel
+[2021.12.11-23.14.30:437][362]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.14.30:439][362]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 497D822D171D1C81A7AB5C87EFBFB3735B4BDDEE), compiling. 
+[2021.12.11-23.14.30:458][362]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.14.30:460][362]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 23F66D3498EB4FAC5A1ECE2563762645B9233A65), compiling. 
+[2021.12.11-23.14.30:462][362]LogFbx: Triangulating skeletal mesh TC_FL_Wheel
+[2021.12.11-23.14.30:471][362]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Car.Car needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.14.30:472][362]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 538D8C157B771EF45B491B704E101AD9D7361E2D), compiling. 
+[2021.12.11-23.14.30:491][362]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.14.30:493][362]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 0C7BA0C22B2DE1A3E2D8C756A2D4397F0B99EC4A), compiling. 
+[2021.12.11-23.14.30:495][362]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.14.30:496][362]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: 73C7905A9E26A7101B5420FF82F6467F0A2A1BF5), compiling. 
+[2021.12.11-23.14.30:515][362]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.14.30:518][362]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: 4D09A7F7529BCFAFB8D212895964AD6D271C2BD4), compiling. 
+[2021.12.11-23.14.30:519][362]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.003
+[2021.12.11-23.14.30:690][362]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.001
+[2021.12.11-23.14.30:697][362]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.002
+[2021.12.11-23.14.30:704][362]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.004
+[2021.12.11-23.14.30:732][362]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2021.12.11-23.14.30:995][362]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.14.30:995][362]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.14.30:995][362]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.14.30:996][362]LogSkeletalMesh: Building Skeletal Mesh faketrain2...
+[2021.12.11-23.14.31:235][362]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.14.31:235][362]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.14.31:235][362]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.14.31:255][362]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/KIA_Game/assets/testCR/NewFolder/faketrain2.faketrain2
+[2021.12.11-23.14.31:274][362]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.11-23.14.31:274][362]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.14.31:274][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.14.31:278][362]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.14.31:278][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.14.31:324][363]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.11-23.14.31:324][363]LogShaderCompilers: Display: Total job queries 527, among them cache hits 143 (27.13%)
+[2021.12.11-23.14.31:324][363]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 23 distinct outputs (23.96%)
+[2021.12.11-23.14.31:324][363]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2021.12.11-23.14.31:324][363]LogShaderCompilers: Display: ================================================
+[2021.12.11-23.14.40:642][611]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/NewFolder/faketrain2_PhysicsAsset.faketrain2_PhysicsAsset
+[2021.12.11-23.14.40:647][611]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.19.03:060][313]LogSlate: Window 'faketrain2_PhysicsAsset' being destroyed
+[2021.12.11-23.19.03:065][313]LogSlate: Window 'faketrain2_PhysicsAsset' being destroyed
+[2021.12.11-23.19.03:066][313]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.19.03:066][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.19.10:301][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.12.11-23.19.12:098][ 71]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.11-23.19.12:118][ 71]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Car.Car
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain2.faketrain2
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain2_PhysicsAsset.faketrain2_PhysicsAsset
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain2_Skeleton.faketrain2_Skeleton
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel
+[2021.12.11-23.19.12:351][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.11-23.19.51:536][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.12.11-23.19.51:537][191]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.008
+[2021.12.11-23.19.51:538][191]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KIA_Game/assets/testCR/testcar_Skeleton] ([1] browsable assets)...
+[2021.12.11-23.19.51:538][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/KIA_Game/assets/testCR/testcar_Skeleton]
+[2021.12.11-23.19.51:539][191]LogSavePackage: Moving 'C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/testcar_Skeleton_Auto1CADB5AE2499EC0335C225193B85115F2.tmp' to 'C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/assets/testCR/testcar_Skeleton_Auto1.uasset'
+[2021.12.11-23.19.51:541][191]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.12.11-23.27.08:344][813]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../3d/raceblock 1/faketrain2.fbx)
+[2021.12.11-23.27.08:352][813]LogFbx: Loading FBX Scene from ../../../../../3d/raceblock 1/faketrain2.fbx
+[2021.12.11-23.27.08:366][813]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.11-23.27.10:262][813]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.11-23.27.10:276][813]LogFbx: Valid bind pose for Pose (Cylinder.019) - TC_FL_Wheel
+[2021.12.11-23.27.10:276][813]LogFbx: Valid bind pose for Pose (Cylinder.004) - TC_FL_Wheel
+[2021.12.11-23.27.10:276][813]LogFbx: Valid bind pose for Pose (Cylinder.006) - TC_FL_Wheel
+[2021.12.11-23.27.10:276][813]LogFbx: Valid bind pose for Pose (Cylinder.007) - TC_FL_Wheel
+[2021.12.11-23.27.10:276][813]LogFbx: Valid bind pose for Pose (Cylinder.008) - TC_FL_Wheel
+[2021.12.11-23.27.10:276][813]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.27.10:277][813]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 021D1E089D32F51E0DE9CFAD0E7788EB183DB3E7), compiling. 
+[2021.12.11-23.27.10:297][813]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.27.10:299][813]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: BB4D62C0D9C96F8DD37F893CA613ECAE889B3B47), compiling. 
+[2021.12.11-23.27.10:301][813]LogFbx: Triangulating skeletal mesh TC_FL_Wheel
+[2021.12.11-23.27.10:310][813]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Car.Car needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.27.10:311][813]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 3BB5CD14F940C92E0409226585279B60D4C2F310), compiling. 
+[2021.12.11-23.27.10:331][813]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.27.10:334][813]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: EF6A99105941A65D2C6675063B52BB87F9B14C12), compiling. 
+[2021.12.11-23.27.10:336][813]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.27.10:337][813]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: A02E3D05B05737BCA276CC67C8FE3B796CC3D3C4), compiling. 
+[2021.12.11-23.27.10:356][813]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.27.10:358][813]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: 59AA429116E9714D3656CE58F3DF00CDDA87AB61), compiling. 
+[2021.12.11-23.27.10:360][813]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.003
+[2021.12.11-23.27.10:539][813]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.001
+[2021.12.11-23.27.10:547][813]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.002
+[2021.12.11-23.27.10:555][813]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.004
+[2021.12.11-23.27.10:584][813]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2021.12.11-23.27.10:848][813]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.27.10:848][813]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.27.10:848][813]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.27.10:850][813]LogSkeletalMesh: Building Skeletal Mesh faketrain2...
+[2021.12.11-23.27.11:097][813]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.27.11:097][813]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.27.11:097][813]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.27.11:116][813]LogSkeletalMesh: Built Skeletal Mesh [0.27s] /Game/KIA_Game/assets/testCR/NewFolder/faketrain2.faketrain2
+[2021.12.11-23.27.11:127][813]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.11-23.27.11:152][813]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.27.11:152][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.27.11:157][813]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.27.11:157][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.27.11:211][814]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.11-23.27.11:211][814]LogShaderCompilers: Display: Total job queries 721, among them cache hits 241 (33.43%)
+[2021.12.11-23.27.11:212][814]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 23 distinct outputs (23.96%)
+[2021.12.11-23.27.11:212][814]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2021.12.11-23.27.11:212][814]LogShaderCompilers: Display: ================================================
+[2021.12.11-23.27.13:355][ 38]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/NewFolder/faketrain2_PhysicsAsset.faketrain2_PhysicsAsset
+[2021.12.11-23.27.13:360][ 38]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.27.35:394][468]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.11-23.27.35:394][468]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.27.35:394][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.27.36:260][468]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.27.36:260][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.28.34:638][623]LogSlate: Window 'faketrain2_PhysicsAsset' being destroyed
+[2021.12.11-23.28.34:644][623]LogSlate: Window 'faketrain2_PhysicsAsset' being destroyed
+[2021.12.11-23.28.34:644][623]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.28.34:644][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.28.41:228][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.12.11-23.28.42:640][367]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.11-23.28.42:660][367]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Car.Car
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain2.faketrain2
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain2_PhysicsAsset.faketrain2_PhysicsAsset
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain2_Skeleton.faketrain2_Skeleton
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel
+[2021.12.11-23.28.42:890][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.12.11-23.29.31:407][946]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/testcar_PhysicsAsset.testcar_PhysicsAsset
+[2021.12.11-23.29.31:410][946]LoadErrors: Error: The Skeleton  testcar_Skeleton is missing bones that SkeletalMesh  testcar needs. They will be added now. Please save the Skeleton!
+[2021.12.11-23.29.38:480][946]LogSlate: Window 'Message' being destroyed
+[2021.12.11-23.29.38:486][946]Message dialog closed, result: No, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.12.11-23.29.38:887][946]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.11-23.29.44:767][442]LogSlate: Window 'testcar_PhysicsAsset' being destroyed
+[2021.12.11-23.29.44:774][442]LogSlate: Window 'testcar_PhysicsAsset' being destroyed
+[2021.12.11-23.29.44:775][442]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.29.44:775][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.29.49:307][937]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/KIA_Game/assets/testCR/testcar_Skeleton.testcar_Skeleton
+[2021.12.11-23.29.51:175][937]LogSlate: Window 'Message' being destroyed
+[2021.12.11-23.29.51:179][937]Message dialog closed, result: Yes, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.12.11-23.29.51:180][937]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.29.59:695][816]LogSlate: Window 'testcar_Skeleton' being destroyed
+[2021.12.11-23.29.59:703][816]LogSlate: Window 'testcar_Skeleton' being destroyed
+[2021.12.11-23.29.59:703][816]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.29.59:703][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.30.01:662][ 45]LogSlate: Window 'Message Log' being destroyed
+[2021.12.11-23.30.01:669][ 45]LogSlate: Window 'Message Log' being destroyed
+[2021.12.11-23.30.40:534][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.11-23.30.40:538][807]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.011
+[2021.12.11-23.30.40:539][807]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KIA_Game/assets/testCR/testcar_Skeleton] ([1] browsable assets)...
+[2021.12.11-23.30.40:539][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/KIA_Game/assets/testCR/testcar_Skeleton]
+[2021.12.11-23.30.40:540][807]LogSavePackage: Moving 'C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/testcar_Skeleton_Auto28DF71F6B4C49776C8089C0A661D1F440.tmp' to 'C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/assets/testCR/testcar_Skeleton_Auto2.uasset'
+[2021.12.11-23.30.40:542][807]LogFileHelpers: Auto-saving content packages took 0.003
+[2021.12.11-23.30.55:713][ 85]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../3d/raceblock 1/faketrain3.fbx)
+[2021.12.11-23.30.55:721][ 85]LogFbx: Loading FBX Scene from ../../../../../3d/raceblock 1/faketrain3.fbx
+[2021.12.11-23.30.55:736][ 85]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.11-23.31.08:524][ 85]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.11-23.31.08:538][ 85]LogFbx: Valid bind pose for Pose (Cylinder.019) - TC_FL_Wheel
+[2021.12.11-23.31.08:538][ 85]LogFbx: Valid bind pose for Pose (Cylinder.004) - TC_FL_Wheel
+[2021.12.11-23.31.08:538][ 85]LogFbx: Valid bind pose for Pose (Cylinder.006) - TC_FL_Wheel
+[2021.12.11-23.31.08:538][ 85]LogFbx: Valid bind pose for Pose (Cylinder.007) - TC_FL_Wheel
+[2021.12.11-23.31.08:538][ 85]LogFbx: Valid bind pose for Pose (Cylinder.008) - TC_FL_Wheel
+[2021.12.11-23.31.08:539][ 85]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.31.08:540][ 85]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 06BF0CC844764B0115608AFD108B78864448E7E2), compiling. 
+[2021.12.11-23.31.08:561][ 85]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.31.08:564][ 85]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 62D74073063B37BD39CACF534E352DAB6416761F), compiling. 
+[2021.12.11-23.31.08:566][ 85]LogFbx: Triangulating skeletal mesh TC_FL_Wheel
+[2021.12.11-23.31.08:575][ 85]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Car.Car needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.31.08:576][ 85]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: B8B99F97AB9E0171B3EBC2E760856A12923F4206), compiling. 
+[2021.12.11-23.31.08:596][ 85]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.31.08:599][ 85]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 0FB40E95A18C793C3E6FAF42AB86609A75059F66), compiling. 
+[2021.12.11-23.31.08:601][ 85]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.31.08:602][ 85]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: CB5419D956B134C7F080269166C599F39ED93CB2), compiling. 
+[2021.12.11-23.31.08:622][ 85]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.31.08:625][ 85]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: 883B9C49C1A0EEA07EDB3847D5E566C278A8FCD3), compiling. 
+[2021.12.11-23.31.08:626][ 85]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.003
+[2021.12.11-23.31.08:806][ 85]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.001
+[2021.12.11-23.31.08:814][ 85]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.002
+[2021.12.11-23.31.08:822][ 85]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.004
+[2021.12.11-23.31.08:853][ 85]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2021.12.11-23.31.09:120][ 85]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.31.09:121][ 85]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.31.09:121][ 85]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.31.09:122][ 85]LogSkeletalMesh: Building Skeletal Mesh faketrain3...
+[2021.12.11-23.31.09:365][ 85]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.31.09:365][ 85]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.31.09:365][ 85]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.31.09:384][ 85]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/KIA_Game/assets/testCR/NewFolder/faketrain3.faketrain3
+[2021.12.11-23.31.09:394][ 85]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.11-23.31.09:395][ 85]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.31.09:395][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.31.09:400][ 85]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.31.09:400][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.31.09:624][ 90]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.11-23.31.09:624][ 90]LogShaderCompilers: Display: Total job queries 1009, among them cache hits 433 (42.91%)
+[2021.12.11-23.31.09:624][ 90]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 23 distinct outputs (23.96%)
+[2021.12.11-23.31.09:624][ 90]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2021.12.11-23.31.09:624][ 90]LogShaderCompilers: Display: ================================================
+[2021.12.11-23.31.12:993][442]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/NewFolder/faketrain3_PhysicsAsset.faketrain3_PhysicsAsset
+[2021.12.11-23.31.12:998][442]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.31.33:936][687]LogSlate: Window 'faketrain3_PhysicsAsset' being destroyed
+[2021.12.11-23.31.33:944][687]LogSlate: Window 'faketrain3_PhysicsAsset' being destroyed
+[2021.12.11-23.31.33:945][687]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.31.33:945][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.31.41:357][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.11-23.31.42:638][475]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.11-23.31.42:662][475]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Car.Car
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain3.faketrain3
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain3_PhysicsAsset.faketrain3_PhysicsAsset
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain3_Skeleton.faketrain3_Skeleton
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel
+[2021.12.11-23.31.42:890][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.12.11-23.35.38:595][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.12.11-23.35.39:855][231]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.11-23.35.39:876][231]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/KIA_Game/assets/testCR/Material.Material
+	Asset Name: /Game/KIA_Game/assets/testCR/NewBlueprint.NewBlueprint
+	Asset Name: /Game/KIA_Game/assets/testCR/testcar.testcar
+	Asset Name: /Game/KIA_Game/assets/testCR/testcar_PhysicsAsset.testcar_PhysicsAsset
+	Asset Name: /Game/KIA_Game/assets/testCR/testcar_Skeleton.testcar_Skeleton
+[2021.12.11-23.35.40:014][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.11-23.35.40:050][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.11-23.35.40:055][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.12.11-23.35.40:059][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.12.11-23.35.40:063][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.12.11-23.35.40:067][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.12.11-23.35.40:072][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.12.11-23.35.40:076][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.12.11-23.36.11:496][ 32]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../3d/tree_pine/testcar.fbx)
+[2021.12.11-23.36.11:503][ 32]LogFbx: Loading FBX Scene from ../../../../../3d/tree_pine/testcar.fbx
+[2021.12.11-23.36.11:511][ 32]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.11-23.36.13:293][ 32]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.11-23.36.13:314][ 32]LogFbx: Valid bind pose for Pose (Cube) - body
+[2021.12.11-23.36.13:314][ 32]LogFbx: Valid bind pose for Pose (Cylinder) - body
+[2021.12.11-23.36.13:314][ 32]LogFbx: Valid bind pose for Pose (Cylinder.001) - body
+[2021.12.11-23.36.13:314][ 32]LogFbx: Valid bind pose for Pose (Cylinder.002) - body
+[2021.12.11-23.36.13:314][ 32]LogFbx: Valid bind pose for Pose (Cylinder.003) - body
+[2021.12.11-23.36.13:314][ 32]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.36.13:315][ 32]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 8C9F7A80E6E58441B4A2661A83F863745969BD85), compiling. 
+[2021.12.11-23.36.13:335][ 32]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.36.13:338][ 32]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 69A1601A8F19DFE49FC6C7168318D4FEC8F13AD5), compiling. 
+[2021.12.11-23.36.13:340][ 32]LogFbx: Triangulating skeletal mesh body
+[2021.12.11-23.36.13:342][ 32]LogFbx: Triangulating skeletal mesh wheel
+[2021.12.11-23.36.13:344][ 32]LogFbx: Triangulating skeletal mesh wheel.001
+[2021.12.11-23.36.13:345][ 32]LogFbx: Triangulating skeletal mesh wheel.002
+[2021.12.11-23.36.13:347][ 32]LogFbx: Triangulating skeletal mesh wheel.003
+[2021.12.11-23.36.13:349][ 32]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2021.12.11-23.36.13:356][ 32]LogSkeletalMesh: Section 0: Material=0, 444 triangles
+[2021.12.11-23.36.13:357][ 32]LogSkeletalMesh: Building Skeletal Mesh testcar...
+[2021.12.11-23.36.13:363][ 32]LogSkeletalMesh: Section 0: Material=0, 444 triangles
+[2021.12.11-23.36.13:364][ 32]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/KIA_Game/assets/testCR/testcar.testcar
+[2021.12.11-23.36.13:369][ 32]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.11-23.36.13:401][ 32]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.36.13:401][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.36.13:406][ 32]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.36.13:406][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.36.13:412][ 32]FBXImport: FBX File Loading: Found name clash, node 'body' was renamed to 'body1' 
+[2021.12.11-23.36.13:575][ 37]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.36.13:575][ 37]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.12.11-23.36.13:575][ 37]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.12.11-23.36.13:575][ 37]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.36.13:594][ 37]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.36.13:594][ 37]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.12.11-23.36.13:594][ 37]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.12.11-23.36.13:594][ 37]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-23.36.13:614][ 37]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2021.12.11-23.36.13:614][ 37]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 28
+[2021.12.11-23.36.13:614][ 37]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2021.12.11-23.36.13:614][ 37]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2021.12.11-23.36.13:614][ 37]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2021.12.11-23.36.13:614][ 37]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2021.12.11-23.36.13:614][ 37]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2021.12.11-23.36.13:614][ 37]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2021.12.11-23.36.13:614][ 37]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2021.12.11-23.36.13:614][ 37]LogShaderCompilers: Display: Started 24 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.36.14:145][ 54]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.12.11-23.36.14:145][ 54]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.36.14:145][ 54]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.11-23.36.14:145][ 54]LogShaderCompilers: Display: Total job queries 1073, among them cache hits 433 (40.35%)
+[2021.12.11-23.36.14:145][ 54]LogShaderCompilers: Display: Tracking 97 distinct input hashes that result in 23 distinct outputs (23.71%)
+[2021.12.11-23.36.14:145][ 54]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2021.12.11-23.36.14:146][ 54]LogShaderCompilers: Display: ================================================
+[2021.12.11-23.36.14:320][ 60]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.12.11-23.36.14:320][ 60]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.36.14:349][ 61]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2021.12.11-23.36.14:349][ 61]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.36.14:548][ 67]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.12.11-23.36.14:548][ 67]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.11-23.36.19:940][662]LogSlate: Window 'Message Log' being destroyed
+[2021.12.11-23.36.19:946][662]LogSlate: Window 'Message Log' being destroyed
+[2021.12.11-23.36.21:226][795]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/KIA_Game/assets/testCR/testcar_Skeleton.testcar_Skeleton
+[2021.12.11-23.36.21:230][795]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.36.26:442][333]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/testcar_PhysicsAsset.testcar_PhysicsAsset
+[2021.12.11-23.36.26:446][333]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.37.19:997][ 12]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../3d/raceblock 1/faketrain3.fbx)
+[2021.12.11-23.37.20:006][ 12]LogFbx: Loading FBX Scene from ../../../../../3d/raceblock 1/faketrain3.fbx
+[2021.12.11-23.37.20:021][ 12]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.11-23.37.30:048][ 12]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.11-23.37.30:064][ 12]LogFbx: Valid bind pose for Pose (Cylinder.019) - TC_FL_Wheel
+[2021.12.11-23.37.30:064][ 12]LogFbx: Valid bind pose for Pose (Cylinder.004) - TC_FL_Wheel
+[2021.12.11-23.37.30:064][ 12]LogFbx: Valid bind pose for Pose (Cylinder.006) - TC_FL_Wheel
+[2021.12.11-23.37.30:064][ 12]LogFbx: Valid bind pose for Pose (Cylinder.007) - TC_FL_Wheel
+[2021.12.11-23.37.30:064][ 12]LogFbx: Valid bind pose for Pose (Cylinder.008) - TC_FL_Wheel
+[2021.12.11-23.37.30:065][ 12]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.37.30:067][ 12]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: B2312ADE84AFB692676D9A38F0D89AD715775530), compiling. 
+[2021.12.11-23.37.30:088][ 12]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.37.30:091][ 12]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 0FF43A42AB9ED82295E020B2119809A275578AFC), compiling. 
+[2021.12.11-23.37.30:092][ 12]LogFbx: Triangulating skeletal mesh TC_FL_Wheel
+[2021.12.11-23.37.30:102][ 12]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Car.Car needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.37.30:103][ 12]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: E62EAFD465A5574ADE10808A0A104C26094D95B6), compiling. 
+[2021.12.11-23.37.30:122][ 12]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 32
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 23
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.12.11-23.37.30:123][ 12]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-23.37.30:124][ 12]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 5B1942E18AFBE8FB636B0B39C270D799CD7B0BFB), compiling. 
+[2021.12.11-23.37.30:126][ 12]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.37.30:127][ 12]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: A360730C22CCED71819576CCCDBC1268D0861FC2), compiling. 
+[2021.12.11-23.37.30:148][ 12]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.37.30:150][ 12]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: 3F6B15DC4103746FA08A2FDFE0362F48FEF4AD6D), compiling. 
+[2021.12.11-23.37.30:152][ 12]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.003
+[2021.12.11-23.37.30:458][ 12]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.001
+[2021.12.11-23.37.30:473][ 12]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.002
+[2021.12.11-23.37.30:496][ 12]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.004
+[2021.12.11-23.37.30:547][ 12]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2021.12.11-23.37.31:029][ 12]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.37.31:029][ 12]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.37.31:029][ 12]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.37.31:032][ 12]LogSkeletalMesh: Building Skeletal Mesh faketrain3...
+[2021.12.11-23.37.31:456][ 12]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.37.31:456][ 12]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.37.31:456][ 12]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.37.31:495][ 12]LogSkeletalMesh: Built Skeletal Mesh [0.46s] /Game/KIA_Game/assets/testCR/NewFolder/faketrain3.faketrain3
+[2021.12.11-23.37.31:507][ 12]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.11-23.37.31:507][ 12]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.37.31:507][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.37.31:516][ 12]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.37.31:516][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.37.34:026][248]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/NewFolder/faketrain3_PhysicsAsset.faketrain3_PhysicsAsset
+[2021.12.11-23.37.34:030][248]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.37.51:735][244]LogSlate: Window 'faketrain3_PhysicsAsset' being destroyed
+[2021.12.11-23.37.51:741][244]LogSlate: Window 'faketrain3_PhysicsAsset' being destroyed
+[2021.12.11-23.37.51:741][244]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.37.51:741][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.37.51:778][244]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.37.51:778][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.37.51:823][244]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.37.51:823][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.38.02:600][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.12.11-23.38.04:095][412]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.11-23.38.04:115][412]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Car.Car
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain3.faketrain3
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain3_PhysicsAsset.faketrain3_PhysicsAsset
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain3_Skeleton.faketrain3_Skeleton
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel
+[2021.12.11-23.38.04:348][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.11-23.38.11:447][900]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../3d/raceblock 1/faketrain3.fbx)
+[2021.12.11-23.38.11:456][900]LogFbx: Loading FBX Scene from ../../../../../3d/raceblock 1/faketrain3.fbx
+[2021.12.11-23.38.11:472][900]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.11-23.38.23:539][900]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.11-23.38.23:559][900]LogFbx: Valid bind pose for Pose (Cylinder.019) - TC_FL_Wheel
+[2021.12.11-23.38.23:559][900]LogFbx: Valid bind pose for Pose (Cylinder.004) - TC_FL_Wheel
+[2021.12.11-23.38.23:559][900]LogFbx: Valid bind pose for Pose (Cylinder.006) - TC_FL_Wheel
+[2021.12.11-23.38.23:559][900]LogFbx: Valid bind pose for Pose (Cylinder.007) - TC_FL_Wheel
+[2021.12.11-23.38.23:559][900]LogFbx: Valid bind pose for Pose (Cylinder.008) - TC_FL_Wheel
+[2021.12.11-23.38.23:560][900]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.38.23:561][900]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: EAC871A2B4652CD5275EB349697EE85E13267626), compiling. 
+[2021.12.11-23.38.23:580][900]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.38.23:583][900]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 6341C67C65CA2DCAAA5171AEC9FD078C706BB52F), compiling. 
+[2021.12.11-23.38.23:585][900]LogFbx: Triangulating skeletal mesh TC_FL_Wheel
+[2021.12.11-23.38.23:593][900]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Car.Car needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.38.23:594][900]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: EF355B63A25BD336DE8341CFBE2FA9F9974BC3A3), compiling. 
+[2021.12.11-23.38.23:615][900]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 4C59F707C9A9EFA7387E32C8088F284871C554CE), compiling. 
+[2021.12.11-23.38.23:617][900]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.38.23:618][900]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: 458A82F999163E4A4C8338E5BFB6F1B0F76EA7AD), compiling. 
+[2021.12.11-23.38.23:637][900]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.38.23:640][900]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: 186E1681696CEAF6D6BDE84C6B128F26F9A6B3A0), compiling. 
+[2021.12.11-23.38.23:642][900]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.003
+[2021.12.11-23.38.23:816][900]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.001
+[2021.12.11-23.38.23:824][900]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.002
+[2021.12.11-23.38.23:831][900]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.004
+[2021.12.11-23.38.23:854][900]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2021.12.11-23.38.24:113][900]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.38.24:113][900]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.38.24:113][900]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.38.24:116][900]LogSkeletalMesh: Building Skeletal Mesh faketrain3...
+[2021.12.11-23.38.24:361][900]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.38.24:361][900]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.38.24:361][900]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.38.24:379][900]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/KIA_Game/assets/testCR/NewFolder/faketrain3.faketrain3
+[2021.12.11-23.38.33:045][900]LogSlate: Window 'Message' being destroyed
+[2021.12.11-23.38.33:050][900]Message dialog closed, result: NoAll, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2021.12.11-23.38.33:056][900]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.11-23.38.33:092][900]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.38.33:092][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.38.33:097][900]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.38.33:097][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.38.34:962][ 86]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/NewFolder/faketrain3_PhysicsAsset.faketrain3_PhysicsAsset
+[2021.12.11-23.38.34:967][ 86]LoadErrors: Error: The Skeleton  testcar_Skeleton is missing bones that SkeletalMesh  faketrain3 needs. They will be added now. Please save the Skeleton!
+[2021.12.11-23.38.37:829][ 86]LogSlate: Window 'Message' being destroyed
+[2021.12.11-23.38.37:835][ 86]Message dialog closed, result: Yes, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.12.11-23.38.37:836][ 86]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.38.41:546][420]LogSlate: Window 'faketrain3_PhysicsAsset' being destroyed
+[2021.12.11-23.38.41:551][420]LogSlate: Window 'faketrain3_PhysicsAsset' being destroyed
+[2021.12.11-23.38.41:551][420]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.38.41:551][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.38.47:397][ 83]LogSlate: Window 'Message Log' being destroyed
+[2021.12.11-23.38.47:401][ 83]LogSlate: Window 'Message Log' being destroyed
+[2021.12.11-23.38.52:597][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.11-23.38.54:093][625]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.11-23.38.54:112][625]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Car.Car
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Exhausts.Exhausts
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain3.faketrain3
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/faketrain3_PhysicsAsset.faketrain3_PhysicsAsset
+	Asset Name: /Game/KIA_Game/assets/testCR/NewFolder/Wheel.Wheel
+[2021.12.11-23.38.54:317][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.12.11-23.39.00:044][172]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/KIA_Game/assets/testCR/testcar_Skeleton.testcar_Skeleton
+[2021.12.11-23.39.01:621][172]LogSlate: Window 'Message' being destroyed
+[2021.12.11-23.39.01:625][172]Message dialog closed, result: No, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.12.11-23.39.03:852][358]LogSlate: Window 'testcar_Skeleton' being destroyed
+[2021.12.11-23.39.03:858][358]LogSlate: Window 'testcar_Skeleton' being destroyed
+[2021.12.11-23.39.03:858][358]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.39.03:858][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.39.08:426][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.12.11-23.39.09:691][833]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.11-23.39.09:711][833]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/KIA_Game/assets/testCR/Material.Material
+	Asset Name: /Game/KIA_Game/assets/testCR/testcar.testcar
+	Asset Name: /Game/KIA_Game/assets/testCR/testcar_PhysicsAsset.testcar_PhysicsAsset
+	Asset Name: /Game/KIA_Game/assets/testCR/testcar_Skeleton.testcar_Skeleton
+[2021.12.11-23.39.09:869][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.11-23.57.42:067][499]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../3d/raceblock 1/faketrain4.fbx)
+[2021.12.11-23.57.42:076][499]LogFbx: Loading FBX Scene from ../../../../../3d/raceblock 1/faketrain4.fbx
+[2021.12.11-23.57.42:090][499]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.11-23.57.44:780][499]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.11-23.57.44:805][499]LogFbx: Valid bind pose for Pose (Cylinder.019) - TC_FL_Wheel
+[2021.12.11-23.57.44:805][499]LogFbx: Valid bind pose for Pose (Cylinder.004) - TC_FL_Wheel
+[2021.12.11-23.57.44:805][499]LogFbx: Valid bind pose for Pose (Cylinder.006) - TC_FL_Wheel
+[2021.12.11-23.57.44:805][499]LogFbx: Valid bind pose for Pose (Cylinder.007) - TC_FL_Wheel
+[2021.12.11-23.57.44:805][499]LogFbx: Valid bind pose for Pose (Cylinder.008) - TC_FL_Wheel
+[2021.12.11-23.57.44:806][499]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/Wheel.Wheel needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.57.44:807][499]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 97DA2C55CB42C2E1360938C14D4F8FC67B9835F8), compiling. 
+[2021.12.11-23.57.44:828][499]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.57.44:831][499]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 84437B1E30B6D07B207CDD55C963B1C78DCF278D), compiling. 
+[2021.12.11-23.57.44:832][499]LogFbx: Triangulating skeletal mesh TC_FL_Wheel
+[2021.12.11-23.57.44:842][499]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/Car.Car needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.57.44:843][499]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: BB911FFE034895C86857EC57CBEB2E87C61B5D49), compiling. 
+[2021.12.11-23.57.44:865][499]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 12A174A4D9A1CB925ED8B307D00FF5CEA5D7C2AD), compiling. 
+[2021.12.11-23.57.44:867][499]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/Exhausts.Exhausts needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.57.44:868][499]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: B638BAE3989548737BEA08FD378E5D46BCC2E5DD), compiling. 
+[2021.12.11-23.57.44:889][499]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.57.44:891][499]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: AE363EFB1BE9E085D62EF126A7CACB9287D721F6), compiling. 
+[2021.12.11-23.57.44:893][499]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.003
+[2021.12.11-23.57.45:087][499]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.001
+[2021.12.11-23.57.45:095][499]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.002
+[2021.12.11-23.57.45:103][499]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.004
+[2021.12.11-23.57.45:126][499]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2021.12.11-23.57.45:382][499]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.57.45:382][499]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.57.45:382][499]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.57.45:384][499]LogSkeletalMesh: Building Skeletal Mesh faketrain4...
+[2021.12.11-23.57.45:627][499]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.57.45:628][499]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.57.45:628][499]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.57.45:646][499]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/KIA_Game/assets/testCR/faketrain4.faketrain4
+[2021.12.11-23.57.45:651][499]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.11-23.57.45:651][499]LogShaderCompilers: Display: Total job queries 1566, among them cache hits 702 (44.83%)
+[2021.12.11-23.57.45:651][499]LogShaderCompilers: Display: Tracking 160 distinct input hashes that result in 42 distinct outputs (26.25%)
+[2021.12.11-23.57.45:651][499]LogShaderCompilers: Display: RAM used: 0.24 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.01%
+[2021.12.11-23.57.45:651][499]LogShaderCompilers: Display: ================================================
+[2021.12.11-23.57.45:652][499]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.11-23.57.45:652][499]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.57.45:653][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.57.45:657][499]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.57.45:658][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.57.47:397][666]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/faketrain4_PhysicsAsset.faketrain4_PhysicsAsset
+[2021.12.11-23.57.47:401][666]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.11-23.58.22:908][721]LogSlate: Window 'faketrain4_PhysicsAsset' being destroyed
+[2021.12.11-23.58.22:916][721]LogSlate: Window 'faketrain4_PhysicsAsset' being destroyed
+[2021.12.11-23.58.22:916][721]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.58.22:916][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.58.35:038][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.12.11-23.58.36:588][102]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.11-23.58.36:608][102]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/KIA_Game/assets/testCR/Car.Car
+	Asset Name: /Game/KIA_Game/assets/testCR/Exhausts.Exhausts
+	Asset Name: /Game/KIA_Game/assets/testCR/faketrain4.faketrain4
+	Asset Name: /Game/KIA_Game/assets/testCR/faketrain4_PhysicsAsset.faketrain4_PhysicsAsset
+	Asset Name: /Game/KIA_Game/assets/testCR/faketrain4_Skeleton.faketrain4_Skeleton
+	Asset Name: /Game/KIA_Game/assets/testCR/Wheel.Wheel
+[2021.12.11-23.58.36:836][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.12.11-23.59.49:952][862]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../3d/raceblock 1/faketrain5.fbx)
+[2021.12.11-23.59.49:961][862]LogFbx: Loading FBX Scene from ../../../../../3d/raceblock 1/faketrain5.fbx
+[2021.12.11-23.59.49:976][862]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.11-23.59.51:705][862]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.11-23.59.51:725][862]LogFbx: Valid bind pose for Pose (Cylinder.019) - TC_FL_Wheel
+[2021.12.11-23.59.51:725][862]LogFbx: Valid bind pose for Pose (Cylinder.004) - TC_FL_Wheel
+[2021.12.11-23.59.51:725][862]LogFbx: Valid bind pose for Pose (Cylinder.006) - TC_FL_Wheel
+[2021.12.11-23.59.51:725][862]LogFbx: Valid bind pose for Pose (Cylinder.007) - TC_FL_Wheel
+[2021.12.11-23.59.51:725][862]LogFbx: Valid bind pose for Pose (Cylinder.008) - TC_FL_Wheel
+[2021.12.11-23.59.51:725][862]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/Wheel.Wheel needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.59.51:726][862]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 719B933035B378A399E9672C65C94CF0167058BB), compiling. 
+[2021.12.11-23.59.51:746][862]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.59.51:749][862]LogMaterial: Display: Missing cached shadermap for Wheel in PCD3D_SM5, Default, SM5 (DDC key hash: 2CA795CAB394CA0BB0636B50E63E40807C81E3E6), compiling. 
+[2021.12.11-23.59.51:750][862]LogFbx: Triangulating skeletal mesh TC_FL_Wheel
+[2021.12.11-23.59.51:759][862]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/Car.Car needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.59.51:759][862]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 252EF52BB89FB0DA336F3868A036B7D5646D3778), compiling. 
+[2021.12.11-23.59.51:781][862]LogMaterial: Display: Missing cached shadermap for Car in PCD3D_SM5, Default, SM5 (DDC key hash: 073A9DB2C0633C4EAFCD88233319DBA7E48974A9), compiling. 
+[2021.12.11-23.59.51:782][862]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/Exhausts.Exhausts needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.11-23.59.51:784][862]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: 36E20BD896A26CDCFDA9020CDBEAF4518561F4A5), compiling. 
+[2021.12.11-23.59.51:803][862]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-23.59.51:805][862]LogMaterial: Display: Missing cached shadermap for Exhausts in PCD3D_SM5, Default, SM5 (DDC key hash: CF357BA6248187A54AF7DB1E9A1494A4259337F5), compiling. 
+[2021.12.11-23.59.51:807][862]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.003
+[2021.12.11-23.59.51:980][862]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.001
+[2021.12.11-23.59.51:987][862]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.002
+[2021.12.11-23.59.51:994][862]LogFbx: Triangulating skeletal mesh TC_FL_Wheel.004
+[2021.12.11-23.59.52:027][862]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2021.12.11-23.59.52:289][862]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.59.52:290][862]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.59.52:290][862]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.59.52:291][862]LogSkeletalMesh: Building Skeletal Mesh faketrain5...
+[2021.12.11-23.59.52:530][862]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2021.12.11-23.59.52:530][862]LogSkeletalMesh: Section 1: Material=1, 6510 triangles
+[2021.12.11-23.59.52:530][862]LogSkeletalMesh: Section 2: Material=2, 1682 triangles
+[2021.12.11-23.59.52:548][862]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/KIA_Game/assets/testCR/faketrain5.faketrain5
+[2021.12.11-23.59.52:554][862]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_41:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.11-23.59.52:554][862]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.59.52:555][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.59.52:559][862]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.59.52:559][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.59.54:800][ 83]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/faketrain5_PhysicsAsset.faketrain5_PhysicsAsset
+[2021.12.11-23.59.54:806][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.12-00.00.28:836][708]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../3d/tree_pine/testcar.fbx)
+[2021.12.12-00.00.28:844][708]LogFbx: Loading FBX Scene from ../../../../../3d/tree_pine/testcar.fbx
+[2021.12.12-00.00.28:852][708]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.12-00.00.30:860][708]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.12-00.00.30:872][708]LogFbx: Valid bind pose for Pose (Cube) - body
+[2021.12.12-00.00.30:872][708]LogFbx: Valid bind pose for Pose (Cylinder) - body
+[2021.12.12-00.00.30:872][708]LogFbx: Valid bind pose for Pose (Cylinder.001) - body
+[2021.12.12-00.00.30:872][708]LogFbx: Valid bind pose for Pose (Cylinder.002) - body
+[2021.12.12-00.00.30:872][708]LogFbx: Valid bind pose for Pose (Cylinder.003) - body
+[2021.12.12-00.00.30:873][708]LogMaterial: Display: Material /Game/KIA_Game/assets/testCR/NewFolder/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2021.12.12-00.00.30:875][708]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 638E2323DB587A45E0FE53FF7076307293B90ED0), compiling. 
+[2021.12.12-00.00.30:895][708]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.12-00.00.30:897][708]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: B57051F3E687CFD311C7B2E79849E74E65DC66CB), compiling. 
+[2021.12.12-00.00.30:899][708]LogFbx: Triangulating skeletal mesh body
+[2021.12.12-00.00.30:901][708]LogFbx: Triangulating skeletal mesh wheel
+[2021.12.12-00.00.30:903][708]LogFbx: Triangulating skeletal mesh wheel.001
+[2021.12.12-00.00.30:905][708]LogFbx: Triangulating skeletal mesh wheel.002
+[2021.12.12-00.00.30:907][708]LogFbx: Triangulating skeletal mesh wheel.003
+[2021.12.12-00.00.30:909][708]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2021.12.12-00.00.30:916][708]LogSkeletalMesh: Section 0: Material=0, 444 triangles
+[2021.12.12-00.00.30:917][708]LogSkeletalMesh: Building Skeletal Mesh testcar...
+[2021.12.12-00.00.30:923][708]LogSkeletalMesh: Section 0: Material=0, 444 triangles
+[2021.12.12-00.00.30:924][708]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/KIA_Game/assets/testCR/NewFolder/testcar.testcar
+[2021.12.12-00.00.30:929][708]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.12-00.00.30:929][708]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-00.00.30:929][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-00.00.30:932][708]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-00.00.30:932][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-00.00.30:940][708]FBXImport: FBX File Loading: Found name clash, node 'body' was renamed to 'body1' 
+[2021.12.12-00.00.33:322][951]LogSlate: Window 'Message Log' being destroyed
+[2021.12.12-00.00.33:327][951]LogSlate: Window 'Message Log' being destroyed
+[2021.12.12-00.00.35:165][133]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KIA_Game/assets/testCR/NewFolder/testcar_PhysicsAsset.testcar_PhysicsAsset
+[2021.12.12-00.00.35:170][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.12-00.02.35:367][755]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_47:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.12.12-00.02.35:368][755]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-00.02.35:368][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-00.02.36:216][755]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-00.02.36:216][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-00.03.03:640][536]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.12.12-00.03.03:641][536]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.12.12-00.03.05:237][536]LogWindows: Error: === Critical error: ===
+[2021.12.12-00.03.05:237][536]LogWindows: Error: 
+[2021.12.12-00.03.05:237][536]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Editor/PhysicsAssetEditor/Private/PhysicsAssetEditorSharedData.cpp] [Line: 493] 
+[2021.12.12-00.03.05:237][536]LogWindows: Error: Body Setup with No Primitives!
+[2021.12.12-00.03.05:237][536]LogWindows: Error: 
+[2021.12.12-00.03.05:237][536]LogWindows: Error: 
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff9a0554f69 KERNELBASE.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff966730216 UE4Editor-Core.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff966734218 UE4Editor-Core.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff96645242d UE4Editor-Core.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff8b6c5a475 UE4Editor-PhysicsAssetEditor.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff8b6c402aa UE4Editor-PhysicsAssetEditor.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff8b6c5471a UE4Editor-PhysicsAssetEditor.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff8b6c0d236 UE4Editor-PhysicsAssetEditor.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff96512cf28 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff965151b21 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff965158370 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff96512c587 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff9651ca6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff9651e280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff965159ae5 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff96503421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff9650ae104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff965097097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff965089b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff97158c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff9715792b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff97158e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff971574410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff9a10ce7e8 USER32.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff9a10ce229 USER32.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff97158fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff677517621 UE4Editor.exe!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff677530fcc UE4Editor.exe!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff6775310ba UE4Editor.exe!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff6775340dd UE4Editor.exe!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff677545984 UE4Editor.exe!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff67754853a UE4Editor.exe!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff9a1657034 KERNEL32.DLL!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: [Callstack] 0x00007ff9a27c2651 ntdll.dll!UnknownFunction []
+[2021.12.12-00.03.05:237][536]LogWindows: Error: 
+[2021.12.12-00.03.05:240][536]LogExit: Executing StaticShutdownAfterError
+[2021.12.12-00.03.05:243][536]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.12.12-00.03.05:243][536]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2021.12.12-00.03.05:243][536]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.12.12-00.03.05:249][536]Log file closed, 12/12/21 00:03:05
