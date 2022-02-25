@@ -14,7 +14,7 @@ bShowCompilerLogOnCompileError=False
 DataSourceFolder=(Path="")
 bAnimationReimportWarnings=False
 bSCSEditorShowFloor=False
-SCSViewportCameraSpeed=4
+SCSViewportCameraSpeed=3
 AssetViewerProfileName=
 MaterialQualityLevel=1
 PreviewFeatureLevel=3
@@ -124,7 +124,7 @@ SplineLineThicknessAdjustment=0.000000
 SplineTangentHandleSizeAdjustment=0.000000
 SplineTangentScale=1.000000
 PerInstanceSettings=(ConfigName="FourPanes2x2.Viewport 1.Viewport0",ConfigSettings=(ViewportType=LVT_OrthoYZ,PerspViewModeIndex=VMI_Lit,OrthoViewModeIndex=VMI_BrushWireframe,EditorShowFlagsString="PostProcessing=0,Bloom=1,Tonemapper=1,AntiAliasing=1,TemporalAA=1,AmbientCubemap=1,EyeAdaptation=1,VisualizeHDR=0,LensFlares=1,GlobalIllumination=1,Vignette=1,Grain=1,AmbientOcclusion=1,Decals=1,CameraImperfections=1,OnScreenDebug=1,OverrideDiffuseAndSpecular=0,LightingOnlyOverride=0,ReflectionOverride=0,VisualizeBuffer=0,DirectLighting=1,DirectionalLights=1,PointLights=1,SpotLights=1,RectLights=1,ColorGrading=1,VectorFields=0,DepthOfField=1,GBufferHints=0,MotionBlur=0,CompositeEditorPrimitives=1,TestImage=0,VisualizeDOF=0,VertexColors=0,PhysicalMaterialMasks=0,Refraction=1,CameraInterpolation=1,SceneColorFringe=1,ToneCurve=1,SeparateTranslucency=1,ScreenPercentage=0,VisualizeMotionBlur=0,ReflectionEnvironment=1,VisualizeOutOfBoundsPixels=0,Diffuse=1,Specular=1,SelectionOutline=1,ScreenSpaceReflections=1,ContactShadows=1,RayTracedDistanceFieldShadows=1,CapsuleShadows=1,SubsurfaceScattering=1,VisualizeSSS=0,VolumetricLightmap=1,IndirectLightingCache=1,DebugAI=0,VisLog=1,Navigation=0,GameplayDebug=1,TexturedLightProfiles=1,LightFunctions=1,Tessellation=1,InstancedStaticMeshes=1,InstancedFoliage=1,HISMCOcclusionBounds=0,HISMCClusterTree=0,InstancedGrass=1,DynamicShadows=1,Particles=1,Niagara=1,SkeletalMeshes=1,BuilderBrush=1,Translucency=1,BillboardSprites=1,LOD=1,LightComplexity=0,ShaderComplexity=0,StationaryLightOverlap=0,LightMapDensity=0,StreamingBounds=0,Constraints=0,MassProperties=0,CameraFrustums=0,AudioRadius=1,ForceFeedbackRadius=1,BSPSplit=0,Brushes=1,Lighting=1,DeferredLighting=1,Editor=1,BSPTriangles=0,LargeVertices=0,Grid=1,Snap=0,MeshEdges=0,Cover=0,Splines=1,Selection=1,ModeWidgets=1,Bounds=0,HitProxies=0,PropertyColoration=0,LightInfluences=0,Pivot=1,ShadowFrustums=0,Wireframe=1,Materials=1,StaticMeshes=1,Landscape=1,LightRadius=1,Fog=1,Volumes=1,Game=0,LevelColoration=0,BSP=1,Collision=0,CollisionVisibility=0,CollisionPawn=0,LightShafts=1,PostProcessMaterial=1,Atmosphere=1,CameraAspectRatioBars=0,CameraSafeFrames=0,TextRender=1,Rendering=1,HMDDistortion=0,StereoRendering=0,DistanceCulledPrimitives=1,VisualizeLightCulling=0,PrecomputedVisibility=1,SkyLighting=1,VisualizeLPV=0,PreviewShadowsIndicator=1,PrecomputedVisibilityCells=0,VisualizeVolumetricLightmap=0,VolumeLightingSamples=0,Paper2DSprites=1,VisualizeDistanceFieldAO=0,VisualizeMeshDistanceFields=0,VisualizeGlobalDistanceField=0,ScreenSpaceAO=1,DistanceFieldAO=1,VolumetricFog=1,VisualizeSSR=0,VisualizeShadingModels=0,VisualizeSenses=1,LODColoration=0,HLODColoration=0,QuadOverdraw=0,ShaderComplexityWithQuadOverdraw=0,PrimitiveDistanceAccuracy=0,MeshUVDensityAccuracy=0,MaterialTextureScaleAccuracy=0,OutputMaterialTextureScales=0,RequiredTextureResolution=0,WidgetComponents=1,Bones=0,ServerDrawDebug=0,MediaPlanes=1,VREditing=0,OcclusionMeshes=0,PathTracing=0,RayTracingDebug=0,VisualizeSkyAtmosphere=0,VisualizeCalibrationColor=0,VisualizeCalibrationGrayscale=0,VisualizeCalibrationCustom=0,VirtualTexturePrimitives=0,VisualizeVolumetricCloudConservativeDensity=0,SingleLayerWaterRefractionFullPrecision=0",GameShowFlagsString="PostProcessing=0,Bloom=1,Tonemapper=1,AntiAliasing=1,TemporalAA=1,AmbientCubemap=1,EyeAdaptation=1,VisualizeHDR=0,LensFlares=1,GlobalIllumination=1,Vignette=1,Grain=1,AmbientOcclusion=1,Decals=1,CameraImperfections=1,OnScreenDebug=1,OverrideDiffuseAndSpecular=0,LightingOnlyOverride=0,ReflectionOverride=0,VisualizeBuffer=0,DirectLighting=1,DirectionalLights=1,PointLights=1,SpotLights=1,RectLights=1,ColorGrading=1,VectorFields=0,DepthOfField=1,GBufferHints=0,MotionBlur=0,CompositeEditorPrimitives=1,TestImage=0,VisualizeDOF=0,VertexColors=0,PhysicalMaterialMasks=0,Refraction=1,CameraInterpolation=1,SceneColorFringe=1,ToneCurve=1,SeparateTranslucency=1,ScreenPercentage=0,VisualizeMotionBlur=0,ReflectionEnvironment=1,VisualizeOutOfBoundsPixels=0,Diffuse=1,Specular=1,SelectionOutline=0,ScreenSpaceReflections=1,ContactShadows=1,RayTracedDistanceFieldShadows=1,CapsuleShadows=1,SubsurfaceScattering=1,VisualizeSSS=0,VolumetricLightmap=1,IndirectLightingCache=1,DebugAI=0,VisLog=1,Navigation=0,GameplayDebug=1,TexturedLightProfiles=1,LightFunctions=1,Tessellation=1,InstancedStaticMeshes=1,InstancedFoliage=1,HISMCOcclusionBounds=0,HISMCClusterTree=0,InstancedGrass=1,DynamicShadows=1,Particles=1,Niagara=1,SkeletalMeshes=1,BuilderBrush=1,Translucency=1,BillboardSprites=1,LOD=1,LightComplexity=0,ShaderComplexity=0,StationaryLightOverlap=0,LightMapDensity=0,StreamingBounds=0,Constraints=0,MassProperties=0,CameraFrustums=0,AudioRadius=0,ForceFeedbackRadius=1,BSPSplit=0,Brushes=1,Lighting=1,DeferredLighting=1,Editor=1,BSPTriangles=0,LargeVertices=0,Grid=0,Snap=0,MeshEdges=0,Cover=0,Splines=0,Selection=1,ModeWidgets=0,Bounds=0,HitProxies=0,PropertyColoration=0,LightInfluences=0,Pivot=1,ShadowFrustums=0,Wireframe=1,Materials=1,StaticMeshes=1,Landscape=1,LightRadius=0,Fog=1,Volumes=0,Game=0,LevelColoration=0,BSP=1,Collision=0,CollisionVisibility=0,CollisionPawn=0,LightShafts=1,PostProcessMaterial=1,Atmosphere=1,CameraAspectRatioBars=0,CameraSafeFrames=0,TextRender=1,Rendering=1,HMDDistortion=0,StereoRendering=0,DistanceCulledPrimitives=0,VisualizeLightCulling=0,PrecomputedVisibility=1,SkyLighting=1,VisualizeLPV=0,PreviewShadowsIndicator=1,PrecomputedVisibilityCells=0,VisualizeVolumetricLightmap=0,VolumeLightingSamples=0,Paper2DSprites=1,VisualizeDistanceFieldAO=0,VisualizeMeshDistanceFields=0,VisualizeGlobalDistanceField=0,ScreenSpaceAO=1,DistanceFieldAO=1,VolumetricFog=1,VisualizeSSR=0,VisualizeShadingModels=0,VisualizeSenses=1,LODColoration=0,HLODColoration=0,QuadOverdraw=0,ShaderComplexityWithQuadOverdraw=0,PrimitiveDistanceAccuracy=0,MeshUVDensityAccuracy=0,MaterialTextureScaleAccuracy=0,OutputMaterialTextureScales=0,RequiredTextureResolution=0,WidgetComponents=1,Bones=0,ServerDrawDebug=0,MediaPlanes=1,VREditing=1,OcclusionMeshes=0,PathTracing=0,RayTracingDebug=0,VisualizeSkyAtmosphere=0,VisualizeCalibrationColor=0,VisualizeCalibrationGrayscale=0,VisualizeCalibrationCustom=0,VirtualTexturePrimitives=0,VisualizeVolumetricCloudConservativeDensity=0,SingleLayerWaterRefractionFullPrecision=0",BufferVisualizationMode="",RayTracingDebugVisualizationMode="",ExposureSettings=(FixedEV100=1.000000,bFixed=False),FOVAngle=90.000000,FarViewPlane=0.000000,bIsRealtime=False,bShowOnScreenStats=True,EnabledStats=,bShowFullToolbar=True))
-PerInstanceSettings=(ConfigName="FourPanes2x2.Viewport 1.Viewport1",ConfigSettings=(ViewportType=LVT_Perspective,PerspViewModeIndex=VMI_Lit,OrthoViewModeIndex=VMI_BrushWireframe,EditorShowFlagsString="PostProcessing=1,Bloom=1,Tonemapper=1,AntiAliasing=1,TemporalAA=1,AmbientCubemap=1,EyeAdaptation=1,VisualizeHDR=0,LensFlares=1,GlobalIllumination=1,Vignette=1,Grain=1,AmbientOcclusion=1,Decals=1,CameraImperfections=1,OnScreenDebug=1,OverrideDiffuseAndSpecular=0,LightingOnlyOverride=0,ReflectionOverride=0,VisualizeBuffer=0,DirectLighting=1,DirectionalLights=1,PointLights=1,SpotLights=1,RectLights=1,ColorGrading=1,VectorFields=0,DepthOfField=1,GBufferHints=0,MotionBlur=0,CompositeEditorPrimitives=1,TestImage=0,VisualizeDOF=0,VertexColors=0,PhysicalMaterialMasks=0,Refraction=1,CameraInterpolation=1,SceneColorFringe=1,ToneCurve=1,SeparateTranslucency=1,ScreenPercentage=0,VisualizeMotionBlur=0,ReflectionEnvironment=1,VisualizeOutOfBoundsPixels=0,Diffuse=1,Specular=1,SelectionOutline=1,ScreenSpaceReflections=1,ContactShadows=1,RayTracedDistanceFieldShadows=1,CapsuleShadows=1,SubsurfaceScattering=1,VisualizeSSS=0,VolumetricLightmap=1,IndirectLightingCache=1,DebugAI=0,VisLog=1,Navigation=0,GameplayDebug=1,TexturedLightProfiles=1,LightFunctions=1,Tessellation=1,InstancedStaticMeshes=1,InstancedFoliage=1,HISMCOcclusionBounds=0,HISMCClusterTree=0,InstancedGrass=1,DynamicShadows=1,Particles=1,Niagara=1,SkeletalMeshes=1,BuilderBrush=1,Translucency=1,BillboardSprites=1,LOD=1,LightComplexity=0,ShaderComplexity=0,StationaryLightOverlap=0,LightMapDensity=0,StreamingBounds=0,Constraints=0,MassProperties=0,CameraFrustums=0,AudioRadius=1,ForceFeedbackRadius=1,BSPSplit=0,Brushes=0,Lighting=1,DeferredLighting=1,Editor=1,BSPTriangles=1,LargeVertices=0,Grid=1,Snap=0,MeshEdges=0,Cover=0,Splines=1,Selection=1,ModeWidgets=1,Bounds=0,HitProxies=0,PropertyColoration=0,LightInfluences=0,Pivot=1,ShadowFrustums=0,Wireframe=0,Materials=1,StaticMeshes=1,Landscape=1,LightRadius=1,Fog=1,Volumes=1,Game=0,LevelColoration=0,BSP=1,Collision=0,CollisionVisibility=0,CollisionPawn=0,LightShafts=1,PostProcessMaterial=1,Atmosphere=1,CameraAspectRatioBars=0,CameraSafeFrames=0,TextRender=1,Rendering=1,HMDDistortion=0,StereoRendering=0,DistanceCulledPrimitives=1,VisualizeLightCulling=0,PrecomputedVisibility=1,SkyLighting=1,VisualizeLPV=0,PreviewShadowsIndicator=1,PrecomputedVisibilityCells=0,VisualizeVolumetricLightmap=0,VolumeLightingSamples=0,Paper2DSprites=1,VisualizeDistanceFieldAO=0,VisualizeMeshDistanceFields=0,VisualizeGlobalDistanceField=0,ScreenSpaceAO=1,DistanceFieldAO=1,VolumetricFog=1,VisualizeSSR=0,VisualizeShadingModels=0,VisualizeSenses=1,LODColoration=0,HLODColoration=0,QuadOverdraw=0,ShaderComplexityWithQuadOverdraw=0,PrimitiveDistanceAccuracy=0,MeshUVDensityAccuracy=0,MaterialTextureScaleAccuracy=0,OutputMaterialTextureScales=0,RequiredTextureResolution=0,WidgetComponents=1,Bones=0,ServerDrawDebug=0,MediaPlanes=1,VREditing=0,OcclusionMeshes=0,PathTracing=0,RayTracingDebug=0,VisualizeSkyAtmosphere=0,VisualizeCalibrationColor=0,VisualizeCalibrationGrayscale=0,VisualizeCalibrationCustom=0,VirtualTexturePrimitives=0,VisualizeVolumetricCloudConservativeDensity=0,SingleLayerWaterRefractionFullPrecision=0",GameShowFlagsString="PostProcessing=1,Bloom=1,Tonemapper=1,AntiAliasing=1,TemporalAA=1,AmbientCubemap=1,EyeAdaptation=1,VisualizeHDR=0,LensFlares=1,GlobalIllumination=1,Vignette=1,Grain=1,AmbientOcclusion=1,Decals=1,CameraImperfections=1,OnScreenDebug=1,OverrideDiffuseAndSpecular=0,LightingOnlyOverride=0,ReflectionOverride=0,VisualizeBuffer=0,DirectLighting=1,DirectionalLights=1,PointLights=1,SpotLights=1,RectLights=1,ColorGrading=1,VectorFields=0,DepthOfField=1,GBufferHints=0,MotionBlur=0,CompositeEditorPrimitives=1,TestImage=0,VisualizeDOF=0,VertexColors=0,PhysicalMaterialMasks=0,Refraction=1,CameraInterpolation=1,SceneColorFringe=1,ToneCurve=1,SeparateTranslucency=1,ScreenPercentage=0,VisualizeMotionBlur=0,ReflectionEnvironment=1,VisualizeOutOfBoundsPixels=0,Diffuse=1,Specular=1,SelectionOutline=0,ScreenSpaceReflections=1,ContactShadows=1,RayTracedDistanceFieldShadows=1,CapsuleShadows=1,SubsurfaceScattering=1,VisualizeSSS=0,VolumetricLightmap=1,IndirectLightingCache=1,DebugAI=0,VisLog=1,Navigation=0,GameplayDebug=1,TexturedLightProfiles=1,LightFunctions=1,Tessellation=1,InstancedStaticMeshes=1,InstancedFoliage=1,HISMCOcclusionBounds=0,HISMCClusterTree=0,InstancedGrass=1,DynamicShadows=1,Particles=1,Niagara=1,SkeletalMeshes=1,BuilderBrush=1,Translucency=1,BillboardSprites=1,LOD=1,LightComplexity=0,ShaderComplexity=0,StationaryLightOverlap=0,LightMapDensity=0,StreamingBounds=0,Constraints=0,MassProperties=0,CameraFrustums=0,AudioRadius=0,ForceFeedbackRadius=1,BSPSplit=0,Brushes=0,Lighting=1,DeferredLighting=1,Editor=1,BSPTriangles=1,LargeVertices=0,Grid=0,Snap=0,MeshEdges=0,Cover=0,Splines=0,Selection=1,ModeWidgets=0,Bounds=0,HitProxies=0,PropertyColoration=0,LightInfluences=0,Pivot=1,ShadowFrustums=0,Wireframe=0,Materials=1,StaticMeshes=1,Landscape=1,LightRadius=0,Fog=1,Volumes=0,Game=0,LevelColoration=0,BSP=1,Collision=0,CollisionVisibility=0,CollisionPawn=0,LightShafts=1,PostProcessMaterial=1,Atmosphere=1,CameraAspectRatioBars=0,CameraSafeFrames=0,TextRender=1,Rendering=1,HMDDistortion=0,StereoRendering=0,DistanceCulledPrimitives=0,VisualizeLightCulling=0,PrecomputedVisibility=1,SkyLighting=1,VisualizeLPV=0,PreviewShadowsIndicator=1,PrecomputedVisibilityCells=0,VisualizeVolumetricLightmap=0,VolumeLightingSamples=0,Paper2DSprites=1,VisualizeDistanceFieldAO=0,VisualizeMeshDistanceFields=0,VisualizeGlobalDistanceField=0,ScreenSpaceAO=1,DistanceFieldAO=1,VolumetricFog=1,VisualizeSSR=0,VisualizeShadingModels=0,VisualizeSenses=1,LODColoration=0,HLODColoration=0,QuadOverdraw=0,ShaderComplexityWithQuadOverdraw=0,PrimitiveDistanceAccuracy=0,MeshUVDensityAccuracy=0,MaterialTextureScaleAccuracy=0,OutputMaterialTextureScales=0,RequiredTextureResolution=0,WidgetComponents=1,Bones=0,ServerDrawDebug=0,MediaPlanes=1,VREditing=1,OcclusionMeshes=0,PathTracing=0,RayTracingDebug=0,VisualizeSkyAtmosphere=0,VisualizeCalibrationColor=0,VisualizeCalibrationGrayscale=0,VisualizeCalibrationCustom=0,VirtualTexturePrimitives=0,VisualizeVolumetricCloudConservativeDensity=0,SingleLayerWaterRefractionFullPrecision=0",BufferVisualizationMode="FinalImage",RayTracingDebugVisualizationMode="",ExposureSettings=(FixedEV100=1.000000,bFixed=False),FOVAngle=90.000000,FarViewPlane=0.000000,bIsRealtime=True,bShowOnScreenStats=False,EnabledStats=,bShowFullToolbar=True))
+PerInstanceSettings=(ConfigName="FourPanes2x2.Viewport 1.Viewport1",ConfigSettings=(ViewportType=LVT_Perspective,PerspViewModeIndex=VMI_Lit,OrthoViewModeIndex=VMI_BrushWireframe,EditorShowFlagsString="PostProcessing=1,Bloom=1,Tonemapper=1,AntiAliasing=1,TemporalAA=1,AmbientCubemap=1,EyeAdaptation=1,VisualizeHDR=0,LensFlares=1,GlobalIllumination=1,Vignette=1,Grain=1,AmbientOcclusion=1,Decals=1,CameraImperfections=1,OnScreenDebug=1,OverrideDiffuseAndSpecular=0,LightingOnlyOverride=0,ReflectionOverride=0,VisualizeBuffer=0,DirectLighting=1,DirectionalLights=1,PointLights=1,SpotLights=1,RectLights=1,ColorGrading=1,VectorFields=0,DepthOfField=1,GBufferHints=0,MotionBlur=0,CompositeEditorPrimitives=1,TestImage=0,VisualizeDOF=0,VertexColors=0,PhysicalMaterialMasks=0,Refraction=1,CameraInterpolation=1,SceneColorFringe=1,ToneCurve=1,SeparateTranslucency=1,ScreenPercentage=0,VisualizeMotionBlur=0,ReflectionEnvironment=1,VisualizeOutOfBoundsPixels=0,Diffuse=1,Specular=1,SelectionOutline=1,ScreenSpaceReflections=1,ContactShadows=1,RayTracedDistanceFieldShadows=1,CapsuleShadows=1,SubsurfaceScattering=1,VisualizeSSS=0,VolumetricLightmap=1,IndirectLightingCache=1,DebugAI=0,VisLog=1,Navigation=0,GameplayDebug=1,TexturedLightProfiles=1,LightFunctions=1,Tessellation=1,InstancedStaticMeshes=1,InstancedFoliage=1,HISMCOcclusionBounds=0,HISMCClusterTree=0,InstancedGrass=1,DynamicShadows=1,Particles=1,Niagara=1,SkeletalMeshes=1,BuilderBrush=1,Translucency=1,BillboardSprites=1,LOD=1,LightComplexity=0,ShaderComplexity=0,StationaryLightOverlap=0,LightMapDensity=0,StreamingBounds=0,Constraints=0,MassProperties=0,CameraFrustums=0,AudioRadius=1,ForceFeedbackRadius=1,BSPSplit=0,Brushes=0,Lighting=1,DeferredLighting=1,Editor=1,BSPTriangles=1,LargeVertices=0,Grid=1,Snap=0,MeshEdges=0,Cover=0,Splines=1,Selection=1,ModeWidgets=1,Bounds=0,HitProxies=0,PropertyColoration=0,LightInfluences=0,Pivot=1,ShadowFrustums=0,Wireframe=0,Materials=1,StaticMeshes=1,Landscape=1,LightRadius=1,Fog=1,Volumes=1,Game=0,LevelColoration=0,BSP=1,Collision=0,CollisionVisibility=0,CollisionPawn=0,LightShafts=1,PostProcessMaterial=1,Atmosphere=1,CameraAspectRatioBars=0,CameraSafeFrames=0,TextRender=1,Rendering=1,HMDDistortion=0,StereoRendering=0,DistanceCulledPrimitives=1,VisualizeLightCulling=0,PrecomputedVisibility=1,SkyLighting=1,VisualizeLPV=0,PreviewShadowsIndicator=1,PrecomputedVisibilityCells=0,VisualizeVolumetricLightmap=0,VolumeLightingSamples=0,Paper2DSprites=1,VisualizeDistanceFieldAO=0,VisualizeMeshDistanceFields=0,VisualizeGlobalDistanceField=0,ScreenSpaceAO=1,DistanceFieldAO=1,VolumetricFog=1,VisualizeSSR=0,VisualizeShadingModels=0,VisualizeSenses=1,LODColoration=0,HLODColoration=0,QuadOverdraw=0,ShaderComplexityWithQuadOverdraw=0,PrimitiveDistanceAccuracy=0,MeshUVDensityAccuracy=0,MaterialTextureScaleAccuracy=0,OutputMaterialTextureScales=0,RequiredTextureResolution=0,WidgetComponents=1,Bones=0,ServerDrawDebug=0,MediaPlanes=1,VREditing=0,OcclusionMeshes=0,PathTracing=0,RayTracingDebug=0,VisualizeSkyAtmosphere=0,VisualizeCalibrationColor=0,VisualizeCalibrationGrayscale=0,VisualizeCalibrationCustom=0,VirtualTexturePrimitives=0,VisualizeVolumetricCloudConservativeDensity=0,SingleLayerWaterRefractionFullPrecision=0",GameShowFlagsString="PostProcessing=0,Bloom=1,Tonemapper=1,AntiAliasing=1,TemporalAA=1,AmbientCubemap=1,EyeAdaptation=1,VisualizeHDR=0,LensFlares=1,GlobalIllumination=1,Vignette=1,Grain=1,AmbientOcclusion=1,Decals=1,CameraImperfections=1,OnScreenDebug=1,OverrideDiffuseAndSpecular=0,LightingOnlyOverride=0,ReflectionOverride=0,VisualizeBuffer=0,DirectLighting=1,DirectionalLights=1,PointLights=1,SpotLights=1,RectLights=1,ColorGrading=1,VectorFields=0,DepthOfField=1,GBufferHints=0,MotionBlur=0,CompositeEditorPrimitives=1,TestImage=0,VisualizeDOF=0,VertexColors=0,PhysicalMaterialMasks=0,Refraction=1,CameraInterpolation=1,SceneColorFringe=1,ToneCurve=1,SeparateTranslucency=1,ScreenPercentage=0,VisualizeMotionBlur=0,ReflectionEnvironment=1,VisualizeOutOfBoundsPixels=0,Diffuse=1,Specular=1,SelectionOutline=0,ScreenSpaceReflections=1,ContactShadows=1,RayTracedDistanceFieldShadows=1,CapsuleShadows=1,SubsurfaceScattering=1,VisualizeSSS=0,VolumetricLightmap=1,IndirectLightingCache=1,DebugAI=0,VisLog=1,Navigation=0,GameplayDebug=1,TexturedLightProfiles=1,LightFunctions=1,Tessellation=1,InstancedStaticMeshes=1,InstancedFoliage=1,HISMCOcclusionBounds=0,HISMCClusterTree=0,InstancedGrass=1,DynamicShadows=1,Particles=1,Niagara=1,SkeletalMeshes=1,BuilderBrush=1,Translucency=1,BillboardSprites=1,LOD=1,LightComplexity=0,ShaderComplexity=0,StationaryLightOverlap=0,LightMapDensity=0,StreamingBounds=0,Constraints=0,MassProperties=0,CameraFrustums=0,AudioRadius=0,ForceFeedbackRadius=1,BSPSplit=0,Brushes=1,Lighting=1,DeferredLighting=1,Editor=1,BSPTriangles=0,LargeVertices=0,Grid=0,Snap=0,MeshEdges=0,Cover=0,Splines=0,Selection=1,ModeWidgets=0,Bounds=0,HitProxies=0,PropertyColoration=0,LightInfluences=0,Pivot=1,ShadowFrustums=0,Wireframe=1,Materials=1,StaticMeshes=1,Landscape=1,LightRadius=0,Fog=1,Volumes=0,Game=0,LevelColoration=0,BSP=1,Collision=0,CollisionVisibility=0,CollisionPawn=0,LightShafts=1,PostProcessMaterial=1,Atmosphere=1,CameraAspectRatioBars=0,CameraSafeFrames=0,TextRender=1,Rendering=1,HMDDistortion=0,StereoRendering=0,DistanceCulledPrimitives=0,VisualizeLightCulling=0,PrecomputedVisibility=1,SkyLighting=1,VisualizeLPV=0,PreviewShadowsIndicator=1,PrecomputedVisibilityCells=0,VisualizeVolumetricLightmap=0,VolumeLightingSamples=0,Paper2DSprites=1,VisualizeDistanceFieldAO=0,VisualizeMeshDistanceFields=0,VisualizeGlobalDistanceField=0,ScreenSpaceAO=1,DistanceFieldAO=1,VolumetricFog=1,VisualizeSSR=0,VisualizeShadingModels=0,VisualizeSenses=1,LODColoration=0,HLODColoration=0,QuadOverdraw=0,ShaderComplexityWithQuadOverdraw=0,PrimitiveDistanceAccuracy=0,MeshUVDensityAccuracy=0,MaterialTextureScaleAccuracy=0,OutputMaterialTextureScales=0,RequiredTextureResolution=0,WidgetComponents=1,Bones=0,ServerDrawDebug=0,MediaPlanes=1,VREditing=1,OcclusionMeshes=0,PathTracing=0,RayTracingDebug=0,VisualizeSkyAtmosphere=0,VisualizeCalibrationColor=0,VisualizeCalibrationGrayscale=0,VisualizeCalibrationCustom=0,VirtualTexturePrimitives=0,VisualizeVolumetricCloudConservativeDensity=0,SingleLayerWaterRefractionFullPrecision=0",BufferVisualizationMode="FinalImage",RayTracingDebugVisualizationMode="",ExposureSettings=(FixedEV100=1.000000,bFixed=False),FOVAngle=90.000000,FarViewPlane=0.000000,bIsRealtime=True,bShowOnScreenStats=False,EnabledStats=,bShowFullToolbar=True))
 PerInstanceSettings=(ConfigName="FourPanes2x2.Viewport 1.Viewport2",ConfigSettings=(ViewportType=LVT_OrthoXZ,PerspViewModeIndex=VMI_Lit,OrthoViewModeIndex=VMI_BrushWireframe,EditorShowFlagsString="PostProcessing=0,Bloom=1,Tonemapper=1,AntiAliasing=1,TemporalAA=1,AmbientCubemap=1,EyeAdaptation=1,VisualizeHDR=0,LensFlares=1,GlobalIllumination=1,Vignette=1,Grain=1,AmbientOcclusion=1,Decals=1,CameraImperfections=1,OnScreenDebug=1,OverrideDiffuseAndSpecular=0,LightingOnlyOverride=0,ReflectionOverride=0,VisualizeBuffer=0,DirectLighting=1,DirectionalLights=1,PointLights=1,SpotLights=1,RectLights=1,ColorGrading=1,VectorFields=0,DepthOfField=1,GBufferHints=0,MotionBlur=0,CompositeEditorPrimitives=1,TestImage=0,VisualizeDOF=0,VertexColors=0,PhysicalMaterialMasks=0,Refraction=1,CameraInterpolation=1,SceneColorFringe=1,ToneCurve=1,SeparateTranslucency=1,ScreenPercentage=0,VisualizeMotionBlur=0,ReflectionEnvironment=1,VisualizeOutOfBoundsPixels=0,Diffuse=1,Specular=1,SelectionOutline=1,ScreenSpaceReflections=1,ContactShadows=1,RayTracedDistanceFieldShadows=1,CapsuleShadows=1,SubsurfaceScattering=1,VisualizeSSS=0,VolumetricLightmap=1,IndirectLightingCache=1,DebugAI=0,VisLog=1,Navigation=0,GameplayDebug=1,TexturedLightProfiles=1,LightFunctions=1,Tessellation=1,InstancedStaticMeshes=1,InstancedFoliage=1,HISMCOcclusionBounds=0,HISMCClusterTree=0,InstancedGrass=1,DynamicShadows=1,Particles=1,Niagara=1,SkeletalMeshes=1,BuilderBrush=1,Translucency=1,BillboardSprites=1,LOD=1,LightComplexity=0,ShaderComplexity=0,StationaryLightOverlap=0,LightMapDensity=0,StreamingBounds=0,Constraints=0,MassProperties=0,CameraFrustums=0,AudioRadius=1,ForceFeedbackRadius=1,BSPSplit=0,Brushes=1,Lighting=1,DeferredLighting=1,Editor=1,BSPTriangles=0,LargeVertices=0,Grid=1,Snap=0,MeshEdges=0,Cover=0,Splines=1,Selection=1,ModeWidgets=1,Bounds=0,HitProxies=0,PropertyColoration=0,LightInfluences=0,Pivot=1,ShadowFrustums=0,Wireframe=1,Materials=1,StaticMeshes=1,Landscape=1,LightRadius=1,Fog=1,Volumes=1,Game=0,LevelColoration=0,BSP=1,Collision=0,CollisionVisibility=0,CollisionPawn=0,LightShafts=1,PostProcessMaterial=1,Atmosphere=1,CameraAspectRatioBars=0,CameraSafeFrames=0,TextRender=1,Rendering=1,HMDDistortion=0,StereoRendering=0,DistanceCulledPrimitives=1,VisualizeLightCulling=0,PrecomputedVisibility=1,SkyLighting=1,VisualizeLPV=0,PreviewShadowsIndicator=1,PrecomputedVisibilityCells=0,VisualizeVolumetricLightmap=0,VolumeLightingSamples=0,Paper2DSprites=1,VisualizeDistanceFieldAO=0,VisualizeMeshDistanceFields=0,VisualizeGlobalDistanceField=0,ScreenSpaceAO=1,DistanceFieldAO=1,VolumetricFog=1,VisualizeSSR=0,VisualizeShadingModels=0,VisualizeSenses=1,LODColoration=0,HLODColoration=0,QuadOverdraw=0,ShaderComplexityWithQuadOverdraw=0,PrimitiveDistanceAccuracy=0,MeshUVDensityAccuracy=0,MaterialTextureScaleAccuracy=0,OutputMaterialTextureScales=0,RequiredTextureResolution=0,WidgetComponents=1,Bones=0,ServerDrawDebug=0,MediaPlanes=1,VREditing=0,OcclusionMeshes=0,PathTracing=0,RayTracingDebug=0,VisualizeSkyAtmosphere=0,VisualizeCalibrationColor=0,VisualizeCalibrationGrayscale=0,VisualizeCalibrationCustom=0,VirtualTexturePrimitives=0,VisualizeVolumetricCloudConservativeDensity=0,SingleLayerWaterRefractionFullPrecision=0",GameShowFlagsString="PostProcessing=0,Bloom=1,Tonemapper=1,AntiAliasing=1,TemporalAA=1,AmbientCubemap=1,EyeAdaptation=1,VisualizeHDR=0,LensFlares=1,GlobalIllumination=1,Vignette=1,Grain=1,AmbientOcclusion=1,Decals=1,CameraImperfections=1,OnScreenDebug=1,OverrideDiffuseAndSpecular=0,LightingOnlyOverride=0,ReflectionOverride=0,VisualizeBuffer=0,DirectLighting=1,DirectionalLights=1,PointLights=1,SpotLights=1,RectLights=1,ColorGrading=1,VectorFields=0,DepthOfField=1,GBufferHints=0,MotionBlur=0,CompositeEditorPrimitives=1,TestImage=0,VisualizeDOF=0,VertexColors=0,PhysicalMaterialMasks=0,Refraction=1,CameraInterpolation=1,SceneColorFringe=1,ToneCurve=1,SeparateTranslucency=1,ScreenPercentage=0,VisualizeMotionBlur=0,ReflectionEnvironment=1,VisualizeOutOfBoundsPixels=0,Diffuse=1,Specular=1,SelectionOutline=0,ScreenSpaceReflections=1,ContactShadows=1,RayTracedDistanceFieldShadows=1,CapsuleShadows=1,SubsurfaceScattering=1,VisualizeSSS=0,VolumetricLightmap=1,IndirectLightingCache=1,DebugAI=0,VisLog=1,Navigation=0,GameplayDebug=1,TexturedLightProfiles=1,LightFunctions=1,Tessellation=1,InstancedStaticMeshes=1,InstancedFoliage=1,HISMCOcclusionBounds=0,HISMCClusterTree=0,InstancedGrass=1,DynamicShadows=1,Particles=1,Niagara=1,SkeletalMeshes=1,BuilderBrush=1,Translucency=1,BillboardSprites=1,LOD=1,LightComplexity=0,ShaderComplexity=0,StationaryLightOverlap=0,LightMapDensity=0,StreamingBounds=0,Constraints=0,MassProperties=0,CameraFrustums=0,AudioRadius=0,ForceFeedbackRadius=1,BSPSplit=0,Brushes=1,Lighting=1,DeferredLighting=1,Editor=1,BSPTriangles=0,LargeVertices=0,Grid=0,Snap=0,MeshEdges=0,Cover=0,Splines=0,Selection=1,ModeWidgets=0,Bounds=0,HitProxies=0,PropertyColoration=0,LightInfluences=0,Pivot=1,ShadowFrustums=0,Wireframe=1,Materials=1,StaticMeshes=1,Landscape=1,LightRadius=0,Fog=1,Volumes=0,Game=0,LevelColoration=0,BSP=1,Collision=0,CollisionVisibility=0,CollisionPawn=0,LightShafts=1,PostProcessMaterial=1,Atmosphere=1,CameraAspectRatioBars=0,CameraSafeFrames=0,TextRender=1,Rendering=1,HMDDistortion=0,StereoRendering=0,DistanceCulledPrimitives=0,VisualizeLightCulling=0,PrecomputedVisibility=1,SkyLighting=1,VisualizeLPV=0,PreviewShadowsIndicator=1,PrecomputedVisibilityCells=0,VisualizeVolumetricLightmap=0,VolumeLightingSamples=0,Paper2DSprites=1,VisualizeDistanceFieldAO=0,VisualizeMeshDistanceFields=0,VisualizeGlobalDistanceField=0,ScreenSpaceAO=1,DistanceFieldAO=1,VolumetricFog=1,VisualizeSSR=0,VisualizeShadingModels=0,VisualizeSenses=1,LODColoration=0,HLODColoration=0,QuadOverdraw=0,ShaderComplexityWithQuadOverdraw=0,PrimitiveDistanceAccuracy=0,MeshUVDensityAccuracy=0,MaterialTextureScaleAccuracy=0,OutputMaterialTextureScales=0,RequiredTextureResolution=0,WidgetComponents=1,Bones=0,ServerDrawDebug=0,MediaPlanes=1,VREditing=1,OcclusionMeshes=0,PathTracing=0,RayTracingDebug=0,VisualizeSkyAtmosphere=0,VisualizeCalibrationColor=0,VisualizeCalibrationGrayscale=0,VisualizeCalibrationCustom=0,VirtualTexturePrimitives=0,VisualizeVolumetricCloudConservativeDensity=0,SingleLayerWaterRefractionFullPrecision=0",BufferVisualizationMode="",RayTracingDebugVisualizationMode="",ExposureSettings=(FixedEV100=1.000000,bFixed=False),FOVAngle=90.000000,FarViewPlane=0.000000,bIsRealtime=False,bShowOnScreenStats=True,EnabledStats=,bShowFullToolbar=True))
 PerInstanceSettings=(ConfigName="FourPanes2x2.Viewport 1.Viewport3",ConfigSettings=(ViewportType=LVT_OrthoXY,PerspViewModeIndex=VMI_Lit,OrthoViewModeIndex=VMI_BrushWireframe,EditorShowFlagsString="PostProcessing=0,Bloom=1,Tonemapper=1,AntiAliasing=1,TemporalAA=1,AmbientCubemap=1,EyeAdaptation=1,VisualizeHDR=0,LensFlares=1,GlobalIllumination=1,Vignette=1,Grain=1,AmbientOcclusion=1,Decals=1,CameraImperfections=1,OnScreenDebug=1,OverrideDiffuseAndSpecular=0,LightingOnlyOverride=0,ReflectionOverride=0,VisualizeBuffer=0,DirectLighting=1,DirectionalLights=1,PointLights=1,SpotLights=1,RectLights=1,ColorGrading=1,VectorFields=0,DepthOfField=1,GBufferHints=0,MotionBlur=0,CompositeEditorPrimitives=1,TestImage=0,VisualizeDOF=0,VertexColors=0,PhysicalMaterialMasks=0,Refraction=1,CameraInterpolation=1,SceneColorFringe=1,ToneCurve=1,SeparateTranslucency=1,ScreenPercentage=0,VisualizeMotionBlur=0,ReflectionEnvironment=1,VisualizeOutOfBoundsPixels=0,Diffuse=1,Specular=1,SelectionOutline=1,ScreenSpaceReflections=1,ContactShadows=1,RayTracedDistanceFieldShadows=1,CapsuleShadows=1,SubsurfaceScattering=1,VisualizeSSS=0,VolumetricLightmap=1,IndirectLightingCache=1,DebugAI=0,VisLog=1,Navigation=0,GameplayDebug=1,TexturedLightProfiles=1,LightFunctions=1,Tessellation=1,InstancedStaticMeshes=1,InstancedFoliage=1,HISMCOcclusionBounds=0,HISMCClusterTree=0,InstancedGrass=1,DynamicShadows=1,Particles=1,Niagara=1,SkeletalMeshes=1,BuilderBrush=1,Translucency=1,BillboardSprites=1,LOD=1,LightComplexity=0,ShaderComplexity=0,StationaryLightOverlap=0,LightMapDensity=0,StreamingBounds=0,Constraints=0,MassProperties=0,CameraFrustums=0,AudioRadius=1,ForceFeedbackRadius=1,BSPSplit=0,Brushes=1,Lighting=1,DeferredLighting=1,Editor=1,BSPTriangles=0,LargeVertices=0,Grid=1,Snap=0,MeshEdges=0,Cover=0,Splines=1,Selection=1,ModeWidgets=1,Bounds=0,HitProxies=0,PropertyColoration=0,LightInfluences=0,Pivot=1,ShadowFrustums=0,Wireframe=1,Materials=1,StaticMeshes=1,Landscape=1,LightRadius=1,Fog=1,Volumes=1,Game=0,LevelColoration=0,BSP=1,Collision=0,CollisionVisibility=0,CollisionPawn=0,LightShafts=1,PostProcessMaterial=1,Atmosphere=1,CameraAspectRatioBars=0,CameraSafeFrames=0,TextRender=1,Rendering=1,HMDDistortion=0,StereoRendering=0,DistanceCulledPrimitives=1,VisualizeLightCulling=0,PrecomputedVisibility=1,SkyLighting=1,VisualizeLPV=0,PreviewShadowsIndicator=1,PrecomputedVisibilityCells=0,VisualizeVolumetricLightmap=0,VolumeLightingSamples=0,Paper2DSprites=1,VisualizeDistanceFieldAO=0,VisualizeMeshDistanceFields=0,VisualizeGlobalDistanceField=0,ScreenSpaceAO=1,DistanceFieldAO=1,VolumetricFog=1,VisualizeSSR=0,VisualizeShadingModels=0,VisualizeSenses=1,LODColoration=0,HLODColoration=0,QuadOverdraw=0,ShaderComplexityWithQuadOverdraw=0,PrimitiveDistanceAccuracy=0,MeshUVDensityAccuracy=0,MaterialTextureScaleAccuracy=0,OutputMaterialTextureScales=0,RequiredTextureResolution=0,WidgetComponents=1,Bones=0,ServerDrawDebug=0,MediaPlanes=1,VREditing=0,OcclusionMeshes=0,PathTracing=0,RayTracingDebug=0,VisualizeSkyAtmosphere=0,VisualizeCalibrationColor=0,VisualizeCalibrationGrayscale=0,VisualizeCalibrationCustom=0,VirtualTexturePrimitives=0,VisualizeVolumetricCloudConservativeDensity=0,SingleLayerWaterRefractionFullPrecision=0",GameShowFlagsString="PostProcessing=0,Bloom=1,Tonemapper=1,AntiAliasing=1,TemporalAA=1,AmbientCubemap=1,EyeAdaptation=1,VisualizeHDR=0,LensFlares=1,GlobalIllumination=1,Vignette=1,Grain=1,AmbientOcclusion=1,Decals=1,CameraImperfections=1,OnScreenDebug=1,OverrideDiffuseAndSpecular=0,LightingOnlyOverride=0,ReflectionOverride=0,VisualizeBuffer=0,DirectLighting=1,DirectionalLights=1,PointLights=1,SpotLights=1,RectLights=1,ColorGrading=1,VectorFields=0,DepthOfField=1,GBufferHints=0,MotionBlur=0,CompositeEditorPrimitives=1,TestImage=0,VisualizeDOF=0,VertexColors=0,PhysicalMaterialMasks=0,Refraction=1,CameraInterpolation=1,SceneColorFringe=1,ToneCurve=1,SeparateTranslucency=1,ScreenPercentage=0,VisualizeMotionBlur=0,ReflectionEnvironment=1,VisualizeOutOfBoundsPixels=0,Diffuse=1,Specular=1,SelectionOutline=0,ScreenSpaceReflections=1,ContactShadows=1,RayTracedDistanceFieldShadows=1,CapsuleShadows=1,SubsurfaceScattering=1,VisualizeSSS=0,VolumetricLightmap=1,IndirectLightingCache=1,DebugAI=0,VisLog=1,Navigation=0,GameplayDebug=1,TexturedLightProfiles=1,LightFunctions=1,Tessellation=1,InstancedStaticMeshes=1,InstancedFoliage=1,HISMCOcclusionBounds=0,HISMCClusterTree=0,InstancedGrass=1,DynamicShadows=1,Particles=1,Niagara=1,SkeletalMeshes=1,BuilderBrush=1,Translucency=1,BillboardSprites=1,LOD=1,LightComplexity=0,ShaderComplexity=0,StationaryLightOverlap=0,LightMapDensity=0,StreamingBounds=0,Constraints=0,MassProperties=0,CameraFrustums=0,AudioRadius=0,ForceFeedbackRadius=1,BSPSplit=0,Brushes=1,Lighting=1,DeferredLighting=1,Editor=1,BSPTriangles=0,LargeVertices=0,Grid=0,Snap=0,MeshEdges=0,Cover=0,Splines=0,Selection=1,ModeWidgets=0,Bounds=0,HitProxies=0,PropertyColoration=0,LightInfluences=0,Pivot=1,ShadowFrustums=0,Wireframe=1,Materials=1,StaticMeshes=1,Landscape=1,LightRadius=0,Fog=1,Volumes=0,Game=0,LevelColoration=0,BSP=1,Collision=0,CollisionVisibility=0,CollisionPawn=0,LightShafts=1,PostProcessMaterial=1,Atmosphere=1,CameraAspectRatioBars=0,CameraSafeFrames=0,TextRender=1,Rendering=1,HMDDistortion=0,StereoRendering=0,DistanceCulledPrimitives=0,VisualizeLightCulling=0,PrecomputedVisibility=1,SkyLighting=1,VisualizeLPV=0,PreviewShadowsIndicator=1,PrecomputedVisibilityCells=0,VisualizeVolumetricLightmap=0,VolumeLightingSamples=0,Paper2DSprites=1,VisualizeDistanceFieldAO=0,VisualizeMeshDistanceFields=0,VisualizeGlobalDistanceField=0,ScreenSpaceAO=1,DistanceFieldAO=1,VolumetricFog=1,VisualizeSSR=0,VisualizeShadingModels=0,VisualizeSenses=1,LODColoration=0,HLODColoration=0,QuadOverdraw=0,ShaderComplexityWithQuadOverdraw=0,PrimitiveDistanceAccuracy=0,MeshUVDensityAccuracy=0,MaterialTextureScaleAccuracy=0,OutputMaterialTextureScales=0,RequiredTextureResolution=0,WidgetComponents=1,Bones=0,ServerDrawDebug=0,MediaPlanes=1,VREditing=1,OcclusionMeshes=0,PathTracing=0,RayTracingDebug=0,VisualizeSkyAtmosphere=0,VisualizeCalibrationColor=0,VisualizeCalibrationGrayscale=0,VisualizeCalibrationCustom=0,VirtualTexturePrimitives=0,VisualizeVolumetricCloudConservativeDensity=0,SingleLayerWaterRefractionFullPrecision=0",BufferVisualizationMode="",RayTracingDebugVisualizationMode="",ExposureSettings=(FixedEV100=1.000000,bFixed=False),FOVAngle=90.000000,FarViewPlane=0.000000,bIsRealtime=False,bShowOnScreenStats=True,EnabledStats=,bShowFullToolbar=True))
 GridEnabled=False
@@ -143,10 +143,10 @@ MRUItem7=/Game/KIA_Game/Levels/LV_Seaside_rush
 
 [ContentBrowser]
 <<<<<<< HEAD
-ContentBrowserTab1.SelectedPaths=/Game/KIA_Game/Game_BP/TimeTrial
+ContentBrowserTab1.SelectedPaths=/Game/KIA_Game/template/template_BP/BasicAI
 =======
-ContentBrowserTab1.SelectedPaths=/Game/KIA_Game/Assets_KIA/Blueprints/Race_Light
->>>>>>> 019e8b794aea1eebc3ac709c5a2c94ad1da556f2
+ContentBrowserTab1.SelectedPaths=/Game/KIA_Game/Assets_KIA/Materials/Level
+>>>>>>> 8bc3a9f2b43509ddf837498fb74e6382479a6032
 ContentBrowserTab1.SourcesExpanded=True
 ContentBrowserTab1.Locked=False
 ContentBrowserTab1.VerticalSplitter.SlotSize0=0.250000
@@ -204,62 +204,62 @@ LastLevel=/Game/KIA_Game/Levels/Game_Level_1
 [AssetEditorSubsystem]
 CleanShutdown=True
 <<<<<<< HEAD
-OpenAssetsAtExit=/Game/KIA_Game/minimap/PlayerIcon_WB.PlayerIcon_WB
-OpenAssetsAtExit=/Game/KIA_Game/minimap/Minimap_WB.Minimap_WB
-OpenAssetsAtExit=/Game/KIA_Game/template/template_BP/BP_KartPawnBase.BP_KartPawnBase
-OpenAssetsAtExit=/Game/KIA_Game/Assets_KIA/Blueprints/RaceGa.RaceGa
+OpenAssetsAtExit=/Game/KIA_Game/template/template_BP/BasicAI/BP_KartPawnBase_Ai.BP_KartPawnBase_Ai
 OpenAssetsAtExit=/Game/KIA_Game/template/template_BP/BP_KartPawnBase_Child.BP_KartPawnBase_Child
-OpenAssetsAtExit=/Game/KIA_Game/Game_BP/TimeTrial/BP_PlayerController.BP_PlayerController
 
 [ContentBrowserRecent]
-MRUItem0=/Game/KIA_Game/Game_BP/TimeTrial/BP_PlayerController
-MRUItem1=/Game/KIA_Game/Assets_KIA/Blueprints/Trainkart_BP
-MRUItem2=/Game/KIA_Game/template/template_BP/BP_KartPawnBase_Child
-MRUItem3=/Game/KIA_Game/template/template_BP/BP_KartPawnBase
-MRUItem4=/Game/KIA_Game/Assets_KIA/Blueprints/RaceGa
-MRUItem5=/Game/KIA_Game/minimap/Minimap_WB
-MRUItem6=/Game/KIA_Game/Levels/Game_Level_1
-MRUItem7=/Game/KIA_Game/minimap/PlayerIcon_WB
-MRUItem8=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree_01_Mesh
-MRUItem9=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree_02_Mesh
-MRUItem10=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Street_light/Street_Light2_Mesh
-MRUItem11=/Game/KIA_Game/Assets_KIA/Materials/Cars/Train_Car/Train_Car_Exhausts_Mat
-MRUItem12=/Game/KIA_Game/Assets_KIA/Materials/Cars/Train_Car/Train_Car_Cabin_Mat
-MRUItem13=/Game/KIA_Game/Assets_KIA/Materials/Cars/Train_Car/Train_Car_Wheels_Mat
-MRUItem14=/Game/KIA_Game/Levels/LV_racetrack2
-MRUItem15=/Game/KIA_Game/Levels/LV_racetrack
-MRUItem16=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Houses/End_House_Left_Mesh
-MRUItem17=/Game/KIA_Game/Assets_KIA/Decal/starting_postion/DEC_StartPos
-MRUItem18=/Game/KIA_Game/template/template_BP/WG_GameHUD
-MRUItem19=/Game/KIA_Game/Assets_KIA/Blueprints/Race_Light/BP_raceLight
+MRUItem0=/Game/KIA_Game/template/template_BP/BP_KartPawnBase_Child
+MRUItem1=/Game/KIA_Game/template/template_BP/BasicAI/BP_KartPawnBase_Ai
+MRUItem2=/Game/KIA_Game/Levels/Game_Level_1
+MRUItem3=/Game/KIA_Game/template/template_BP/BP_SplineTrackActor
+MRUItem4=/Game/KIA_Game/template/template_BP/BP_KartPawnBase
+MRUItem5=/Game/KIA_Game/Assets_KIA/Meshes/Tracks/Track1/Track1_Mesh
+MRUItem6=/Game/KIA_Game/Levels/LV_racetrack2
+MRUItem7=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag_PhysicsAsset
+MRUItem8=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag
+MRUItem9=/Game/KIA_Game/Assets_KIA/Materials/Scenery/Flag/Flag_Cloth_Mat
+MRUItem10=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag_Skeleton
+MRUItem11=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag2_Skeleton
+MRUItem12=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag2_PhysicsAsset
+MRUItem13=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag2
+MRUItem14=/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/caustic_Inst
+MRUItem15=/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/caustic
+MRUItem16=/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/caustic_output
+MRUItem17=/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/Water_syle_Inst
+MRUItem18=/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/Water_syle
+MRUItem19=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/paddleboat/paddle
 =======
-OpenAssetsAtExit=/Game/KIA_Game/Assets_KIA/Blueprints/Race_Light/BP_raceLight.BP_raceLight
+SuppressRestorePreviouslyOpenAssetsNotification=True
+OpenAssetsAtExit=/Game/KIA_Game/Assets_KIA/particles/Nag_sno.Nag_sno
+OpenAssetsAtExit=/Game/KIA_Game/Assets_KIA/Materials/Level/LVMAT_seaside_rush_Mat.LVMAT_seaside_rush_Mat
+OpenAssetsAtExit=/Game/KIA_Game/Assets_KIA/Materials/Level/c15780aa-c80e-4664-be16-eaf755f2f12a.c15780aa-c80e-4664-be16-eaf755f2f12a
+OpenAssetsAtExit=/Game/KIA_Game/Assets_KIA/Materials/Level/LVMAT_seaside_rush_Inst_Mat.LVMAT_seaside_rush_Inst_Mat
 
 [ContentBrowserRecent]
-MRUItem0=/Game/KIA_Game/Assets_KIA/Blueprints/Race_Light/BP_raceLight
-MRUItem1=/Game/KIA_Game/Levels/LV_racetrack2
-MRUItem2=/Game/KIA_Game/template/template_BP/BP_KartPawnBase_Child
-MRUItem3=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree_01_Mesh
-MRUItem4=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree_02_Mesh
-MRUItem5=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Street_light/Street_Light2_Mesh
-MRUItem6=/Game/KIA_Game/Assets_KIA/Materials/Cars/Train_Car/Train_Car_Exhausts_Mat
-MRUItem7=/Game/KIA_Game/Assets_KIA/Materials/Cars/Train_Car/Train_Car_Cabin_Mat
-MRUItem8=/Game/KIA_Game/Assets_KIA/Materials/Cars/Train_Car/Train_Car_Wheels_Mat
-MRUItem9=/Game/KIA_Game/Levels/Game_Level_1
-MRUItem10=/Game/KIA_Game/Levels/LV_racetrack
-MRUItem11=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Houses/End_House_Left_Mesh
-MRUItem12=/Game/KIA_Game/Assets_KIA/Decal/starting_postion/DEC_StartPos
-MRUItem13=/Game/KIA_Game/template/template_BP/WG_GameHUD
-MRUItem14=/Game/KIA_Game/template/template_BP/BP_KartPawnBase
-MRUItem15=/Game/KIA_Game/Game_BP/TimeTrial/BP_PlayerController
-MRUItem16=/Game/KIA_Game/Game_BP/TimeTrial/BP_Tracker
-MRUItem17=/Game/KIA_Game/Game_BP/TimeTrial/WID_HUD
-MRUItem18=/Game/KIA_Game/Game_BP/TimeTrial/BP_TimeConvertor
-MRUItem19=/Game/KIA_Game/Assets_KIA/Blueprints/RaceGa
->>>>>>> 019e8b794aea1eebc3ac709c5a2c94ad1da556f2
+MRUItem0=/Game/KIA_Game/Assets_KIA/Materials/Level/LVMAT_seaside_rush_Inst_Mat
+MRUItem1=/Game/KIA_Game/Assets_KIA/Materials/Level/c15780aa-c80e-4664-be16-eaf755f2f12a
+MRUItem2=/Game/KIA_Game/Assets_KIA/Materials/Level/LVMAT_seaside_rush_Mat
+MRUItem3=/Game/KIA_Game/Levels/LV_racetrack2
+MRUItem4=/Game/KIA_Game/Assets_KIA/particles/Nag_Part
+MRUItem5=/Game/KIA_Game/Assets_KIA/particles/snow
+MRUItem6=/Game/KIA_Game/Assets_KIA/particles/download__1_
+MRUItem7=/Game/KIA_Game/template/template_BP/BP_KartPawnBase_Child
+MRUItem8=/Game/KIA_Game/Assets_KIA/Meshes/Tracks/Track1/Track1_Mesh
+MRUItem9=/Game/KIA_Game/template/template_BP/BP_KartPawnBase
+MRUItem10=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag_PhysicsAsset
+MRUItem11=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag
+MRUItem12=/Game/KIA_Game/Assets_KIA/Materials/Scenery/Flag/Flag_Cloth_Mat
+MRUItem13=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag_Skeleton
+MRUItem14=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag2_Skeleton
+MRUItem15=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag2_PhysicsAsset
+MRUItem16=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag2
+MRUItem17=/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/caustic_Inst
+MRUItem18=/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/caustic
+MRUItem19=/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/caustic_output
+>>>>>>> 8bc3a9f2b43509ddf837498fb74e6382479a6032
 
 [RootWindow]
-ScreenPosition=X=0.800 Y=0.800
+ScreenPosition=X=0.000 Y=0.000
 WindowSize=X=1528.000 Y=856.000
 InitiallyMaximized=True
 
@@ -277,16 +277,12 @@ FourPanes2x2.Viewport 1.bIsMaximized=True
 FourPanes2x2.Viewport 1.MaximizedViewport=FourPanes2x2.Viewport 1.Viewport1
 
 [Directories2]
-<<<<<<< HEAD
 UNR=../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Content/KIA_Game/Levels
-=======
-UNR=C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/KIA_Game/Levels
->>>>>>> 019e8b794aea1eebc3ac709c5a2c94ad1da556f2
 BRUSH=C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/
 FBX=C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/
 FBXAnim=C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/
-GenericImport=../../../../../3d/test2.fbx
-GenericExport=../../../../../../Users/franc/Downloads/MinimapTarget.HDR
+GenericImport=C:/Users/keiro/Downloads/download (1).png
+GenericExport=../../../../../../Users/franc/Downloads/MinimapTargetRaceTrack3.HDR
 GenericOpen=C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/
 GenericSave=C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/
 MeshImportExport=C:/Users/keiro/Documents/GitHub/RacingGame/KIA_Game_Project/Content/
@@ -1183,7 +1179,7 @@ MovieSceneCapture.TimeStamp=2022.02.10-16.41.45
 MovieSceneCapture.LastCompileMethod=External
 PhysicsAssetEditor.TimeStamp=2021.12.15-17.24.27
 PhysicsAssetEditor.LastCompileMethod=External
-StaticMeshEditor.TimeStamp=2021.12.15-17.24.27
+StaticMeshEditor.TimeStamp=2022.02.10-16.41.56
 StaticMeshEditor.LastCompileMethod=External
 ExternalImagePicker.TimeStamp=2021.12.15-17.24.20
 ExternalImagePicker.LastCompileMethod=Unknown
@@ -1193,6 +1189,8 @@ TextureEditor.TimeStamp=2021.12.07-14.28.31
 TextureEditor.LastCompileMethod=Unknown
 HierarchicalLODUtilities.TimeStamp=2022.02.10-16.41.39
 HierarchicalLODUtilities.LastCompileMethod=External
+ClothingSystemEditorInterface.TimeStamp=2021.12.07-14.28.12
+ClothingSystemEditorInterface.LastCompileMethod=Unknown
 
 [/Script/UnrealEd.PersonaOptions]
 bAutoAlignFloorToMesh=True
@@ -1208,13 +1206,13 @@ bFlattenSkeletonHierarchyWhenFiltering=False
 bHideParentsWhenFiltering=True
 bAllowPreviewMeshCollectionsToSelectFromDifferentSkeletons=True
 bAllowPreviewMeshCollectionsToUseCustomAnimBP=False
-bAllowMeshSectionSelection=False
+bAllowMeshSectionSelection=True
 NumFolderFiltersInAssetBrowser=2
 AssetEditorOptions=(Context="SkeletonEditor",ViewportConfigs[0]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[1]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[2]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[3]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""))
 AssetEditorOptions=(Context="SkeletalMeshEditor",ViewportConfigs[0]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[1]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[2]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[3]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""))
 AssetEditorOptions=(Context="AnimationEditor",ViewportConfigs[0]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[1]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[2]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[3]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""))
 AssetEditorOptions=(Context="AnimationBlueprintEditor",ViewportConfigs[0]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[1]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[2]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[3]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""))
-AssetEditorOptions=(Context="PhysicsAssetEditor",ViewportConfigs[0]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[1]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[2]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[3]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""))
+AssetEditorOptions=(Context="PhysicsAssetEditor",ViewportConfigs[0]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=6,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[1]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[2]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""),ViewportConfigs[3]=(ViewModeIndex=VMI_Lit,ViewFOV=53.430000,CameraSpeedSetting=4,CameraSpeedScalar=1.000000,CameraFollowMode=None,CameraFollowBoneName=""))
 CurveEditorSnapInterval=0.010000
 TimelineScrubSnapValue=1000
 TimelineDisplayFormat=Frames
@@ -1223,6 +1221,7 @@ bTimelineDisplayFormatSecondary=True
 bTimelineDisplayCurveKeys=False
 TimelineEnabledSnaps=CompositeSegment
 TimelineEnabledSnaps=MontageSection
+bShowGrid=True
 
 [DetailCategories]
 Trainkart_BP_C.TransformCommon=True
@@ -1760,7 +1759,7 @@ MaterialExpressionSceneTexture.MaterialExpression=True
 StaticMeshActor.MaterialParameters=True
 StaticMeshActor.HLOD=True
 StaticMeshActor.Mobile=True
-StaticMeshActor.AssetUserData=False
+StaticMeshActor.AssetUserData=True
 SkeletalMeshComponent.SkeletalMesh=True
 SkeletalMeshComponent.Optimization=True
 SkeletalMeshComponent.MaterialParameters=True
@@ -1769,7 +1768,7 @@ SkeletalMeshComponent.Mobile=True
 MaterialExpressionMax.MaterialExpressionMax=True
 MaterialExpressionMax.MaterialExpression=True
 MaterialEditorInstanceConstant.ParameterGroups=True
-MaterialEditorInstanceConstant.General=True
+MaterialEditorInstanceConstant.General=False
 MaterialEditorInstanceConstant.Previewing=True
 MaterialExpressionIf.MaterialExpressionIf=True
 MaterialExpressionIf.MaterialExpression=True
@@ -2518,6 +2517,92 @@ Minimap_WB_C.Accessibility=True
 Minimap_WB_C.Clipping=True
 Minimap_WB_C.Navigation=True
 Minimap_WB_C.Localization=True
+LandscapeGrassType.Grass=True
+LandscapeGrassType.Scalability=True
+SceneCaptureComponent2D.TransformCommon=True
+SceneCaptureComponent2D.Projection=True
+SceneCaptureComponent2D.SceneCapture=True
+SceneCaptureComponent2D.PostProcessVolume=True
+SceneCaptureComponent2D.Lens=True
+SceneCaptureComponent2D.Color Grading=True
+SceneCaptureComponent2D.Rendering Features=True
+SceneCaptureComponent2D.Rendering=True
+SceneCaptureComponent2D.Tags=True
+SceneCaptureComponent2D.Activation=True
+SceneCaptureComponent2D.Cooking=True
+MaterialExpressionVertexColor.MaterialExpression=True
+MaterialExpressionDepthFade.MaterialExpressionDepthFade=True
+MaterialExpressionDepthFade.MaterialExpression=True
+MaterialExpressionClamp.MaterialExpressionClamp=True
+MaterialExpressionClamp.MaterialExpression=True
+MaterialExpressionComment.MaterialExpressionComment=True
+MaterialExpressionComment.MaterialExpression=True
+MaterialExpressionAppendVector.MaterialExpression=True
+MaterialExpressionSine.MaterialExpressionSine=True
+MaterialExpressionSine.MaterialExpression=True
+MaterialExpressionVertexNormalWS.MaterialExpression=True
+MaterialExpressionWorldPosition.UMaterialExpressionWorldPosition=True
+MaterialExpressionWorldPosition.MaterialExpression=True
+MaterialExpressionDistanceToNearestSurface.MaterialExpression=True
+MaterialExpressionDivide.MaterialExpressionDivide=True
+MaterialExpressionDivide.MaterialExpression=True
+MaterialExpressionSaturate.MaterialExpression=True
+MaterialExpressionTime.MaterialExpressionTime=True
+MaterialExpressionTime.MaterialExpression=True
+MaterialExpressionFresnel.MaterialExpressionFresnel=True
+MaterialExpressionFresnel.MaterialExpression=True
+MaterialExpressionBlendMaterialAttributes.MaterialAttributes=True
+MaterialExpressionBlendMaterialAttributes.MaterialExpression=True
+MeshPaintModeSettings.Visualization=True
+SpotLight.TransformCommon=True
+SpotLight.Light=True
+SpotLight.Rendering=True
+SpotLight.Lightmass=True
+SpotLight.Performance=True
+SpotLight.LightFunction=True
+SpotLight.Light Profiles=True
+SpotLight.DistanceFieldShadows=True
+SpotLight.RayTracing=True
+SpotLight.Tags=True
+SpotLight.Cooking=True
+SpotLight.Actor=True
+FbxImportUI.Animation=True
+SkeletalMeshClothBuildParams.Basic=True
+SkeletalMeshClothBuildParams.Collision=True
+ClothingAssetCommon.Config=True
+ClothingAssetCommon.Import=True
+ClothPainterSettings.ClothPainting=True
+ClothPainterSettings.View=True
+ClothPainterSettings.Visualization=True
+ClothPaintTool_BrushSettings.ToolSettings=True
+PaintBrushSettings.Brush=True
+WindDirectionalSource.Actor=True
+WindDirectionalSource.Replication=True
+WindDirectionalSource.Cooking=True
+WindDirectionalSource.Activation=True
+WindDirectionalSource.Tags=True
+WindDirectionalSource.Rendering=True
+WindDirectionalSource.WindDirectionalSourceComponent=True
+WindDirectionalSource.TransformCommon=True
+LandscapeEditorObject.Edit Layers=True
+LandscapeEditorObject.Edit Layer Blueprint Brushes=True
+<<<<<<< HEAD
+BP_SplineTrackActor_C.TransformCommon=True
+BP_AISplinePathActor_C.TransformCommon=True
+BP_AISplinePathActor_C.Default=True
+BP_AISplinePathActor_C.Rendering=True
+BP_AISplinePathActor_C.Replication=True
+BP_AISplinePathActor_C.Collision=True
+BP_AISplinePathActor_C.Input=True
+BP_AISplinePathActor_C.Actor=True
+BP_KartPawnBase_Ai_C.TransformCommon=True
+=======
+MaterialExpressionParticleSpeed.MaterialExpression=True
+MaterialExpressionParticleMotionBlurFade.MaterialExpression=True
+MaterialExpressionPixelDepth.MaterialExpression=True
+MaterialExpressionSphereMask.MaterialExpressionSphereMask=True
+MaterialExpressionSphereMask.MaterialExpression=True
+>>>>>>> 8bc3a9f2b43509ddf837498fb74e6382479a6032
 
 [DetailPropertyExpansion]
 PreviewMeshCollection="\"Object.SkeletalMeshes\" "
@@ -2534,7 +2619,7 @@ NavMovementComponent="\"Object.MechanicalSetup.EngineSetup\" "
 MovementComponent="\"Object.MechanicalSetup.EngineSetup\" "
 ActorComponent=
 PostProcessVolume="\"Object.PostProcessVolumeSettings.Settings.SceneColorTint\" \"Object.PostProcessVolumeSettings.Settings.Bloom1Tint\" \"Object.PostProcessVolumeSettings.Settings.Bloom2Tint\" \"Object.PostProcessVolumeSettings.Settings.Bloom3Tint\" \"Object.PostProcessVolumeSettings.Settings.Bloom4Tint\" \"Object.PostProcessVolumeSettings.Settings.Bloom5Tint\" \"Object.PostProcessVolumeSettings.Settings.Bloom6Tint\" \"Object.PostProcessVolumeSettings.Settings.BloomDirtMaskTint\" \"Object.PostProcessVolumeSettings.Settings.AmbientCubemapTint\" \"Object.PostProcessVolumeSettings.Settings.LensFlareTint\" \"Object.PostProcessVolumeSettings.Settings.LensFlareTints\" \"Object.PostProcessVolumeSettings.Settings.LensFlareTints.LensFlareTints[0]\" \"Object.PostProcessVolumeSettings.Settings.LensFlareTints.LensFlareTints[1]\" \"Object.PostProcessVolumeSettings.Settings.LensFlareTints.LensFlareTints[2]\" \"Object.PostProcessVolumeSettings.Settings.LensFlareTints.LensFlareTints[3]\" \"Object.PostProcessVolumeSettings.Settings.LensFlareTints.LensFlareTints[4]\" \"Object.PostProcessVolumeSettings.Settings.LensFlareTints.LensFlareTints[5]\" \"Object.PostProcessVolumeSettings.Settings.LensFlareTints.LensFlareTints[6]\" \"Object.PostProcessVolumeSettings.Settings.LensFlareTints.LensFlareTints[7]\" \"Object.PostProcessVolumeSettings.Settings.IndirectLightingColor\" \"Object.PostProcessVolumeSettings.Settings.WeightedBlendables\" \"Object.PostProcessVolumeSettings.Settings.WeightedBlendables.Array\" \"Object.BrushBuilder.BrushBuilder.Object.BrushSettings\" "
-StaticMeshActor="\"Object.StaticMeshActor.StaticMeshComponent.Object.Lighting.LightmassSettings\" \"Object.StaticMeshActor.StaticMeshComponent.Object.Lighting.LightingChannels\" \"Object.StaticMeshActor.StaticMeshComponent.Object.Collision.BodyInstance\" \"Object.StaticMeshActor.StaticMeshComponent.Object.Collision.BodyInstance.WalkableSlopeOverride\" "
+StaticMeshActor="\"Object.StaticMeshActor.StaticMeshComponent.Object.Rendering.OverrideMaterials\" \"Object.StaticMeshActor.StaticMeshComponent.Object.Rendering.CustomPrimitiveData\" \"Object.StaticMeshActor.StaticMeshComponent.Object.Lighting.LightmassSettings\" \"Object.StaticMeshActor.StaticMeshComponent.Object.Lighting.LightingChannels\" \"Object.StaticMeshActor.StaticMeshComponent.Object.Collision.BodyInstance\" \"Object.StaticMeshActor.StaticMeshComponent.Object.Collision.BodyInstance.WalkableSlopeOverride\" "
 SkeletalMeshComponent=
 SkinnedMeshComponent=
 MeshComponent=
@@ -2542,7 +2627,7 @@ PrimitiveComponent=
 SceneComponent=
 Landscape="\"Object.Lighting.LightingChannels\" \"Object.Lightmass.LightmassSettings\" \"Object.Collision.BodyInstance\" "
 LandscapeProxy="\"Object.Lighting.LightingChannels\" \"Object.Lightmass.LightmassSettings\" \"Object.Collision.BodyInstance\" "
-MaterialExpressionLandscapeLayerBlend="\"Object.Layers\" \"Object.Layers.Layers[1]\" "
+MaterialExpressionLandscapeLayerBlend="\"Object.Layers\" \"Object.Layers.Layers[1]\" \"Object.Layers.Layers[3]\" "
 MaterialExpression=
 StaticMeshComponent=
 Trainkart_BP_C=
@@ -2590,7 +2675,7 @@ NiagaraComponent="\"Object.Lighting.LightingChannels\" "
 FXSystemComponent="\"Object.Lighting.LightingChannels\" "
 BoxComponent=
 ShapeComponent=
-StaticMesh=
+StaticMesh="\"Object.StaticMesh.BodySetup.Object.AggGeom\" \"Object.StaticMesh.BodySetup.Object.AggGeom.ConvexElems\" \"Object.StaticMesh.BodySetup.Object.DefaultInstance\" \"Object.ImportSettings.AssetImportData.Object.Transform.ImportRotation\" "
 StreamableRenderAsset=
 TextBlock="\"Object.Appearance.Font\" \"Object.Render Transform.RenderTransform\" \"Object.Render Transform.RenderTransform.Shear\" "
 TextLayoutWidget="\"Object.Appearance.Font\" \"Object.Render Transform.RenderTransform\" \"Object.Render Transform.RenderTransform.Shear\" "
@@ -2608,31 +2693,42 @@ Image="\"Object.Appearance.Brush\" \"Object.Render Transform.RenderTransform\" \
 Overlay="\"Object.Render Transform.RenderTransform\" \"Object.Render Transform.RenderTransform.Shear\" "
 PlayerIcon_WB_C="\"Object.Render Transform.RenderTransform\" \"Object.Render Transform.RenderTransform.Shear\" "
 Minimap_WB_C="\"Object.Render Transform.RenderTransform\" \"Object.Render Transform.RenderTransform.Shear\" "
+ClothingAssetCommon="\"Object.Config.ClothConfigs\" "
+ClothingAssetBase="\"Object.Config.ClothConfigs\" "
 
 [PlacementMode]
-RecentlyPlaced=/Script/Engine.SceneCapture2D;
-RecentlyPlaced=/Script/Engine.SphereReflectionCapture;/Engine/Transient.ActorFactorySphereReflectionCapture_0
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Houses/Middle_House_Mesh.Middle_House_Mesh;
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Houses/End_House_Right_Mesh.End_House_Right_Mesh;
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Houses/End_House_Left_Mesh.End_House_Left_Mesh;
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Audience_Stands/Audience_Stand_Middle_Mesh.Audience_Stand_Middle_Mesh;
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Audience_Stands/Audience_Stand_End_Mesh.Audience_Stand_End_Mesh;
-RecentlyPlaced=/Game/KIA_Game/Game_BP/TimeTrial/BP_Tracker.BP_Tracker;
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Blueprints/speedPad/PadTrigger.PadTrigger;
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Blueprints/speedPad/onlyPadTexture.onlyPadTexture;
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Blueprints/speedPad/SpeedPadTemplate.SpeedPadTemplate;
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Blueprints/Trainkart_BPTemplate.Trainkart_BPTemplate;
+<<<<<<< HEAD
+RecentlyPlaced=/Game/KIA_Game/template/template_BP/BasicAI/BP_KartPawnBase_Ai.BP_KartPawnBase_Ai;
+RecentlyPlaced=/Game/KIA_Game/template/template_BP/BP_SplineTrackActor.BP_SplineTrackActor;
+RecentlyPlaced=/Game/KIA_Game/template/template_BP/BasicAI/BP_AISplinePathActor.BP_AISplinePathActor;
+=======
+RecentlyPlaced=/Engine/BasicShapes/Plane.Plane;/Engine/Transient.ActorFactoryBasicShape_0
+RecentlyPlaced=/Game/KIA_Game/Assets_KIA/particles/Nag_Part.Nag_Part;
+>>>>>>> 8bc3a9f2b43509ddf837498fb74e6382479a6032
 RecentlyPlaced=/Game/KIA_Game/template/template_BP/BP_KartPawnBase_Child.BP_KartPawnBase_Child;
-RecentlyPlaced=/Game/KIA_Game/template/template_BP/BP_KartPawnBase.BP_KartPawnBase;
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Cars/Train_Kart/Train_Kart_Mesh.Train_Kart_Mesh;
+RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag.flag;
+RecentlyPlaced=/Script/Engine.WindDirectionalSource;
+RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag2.flag2;
+RecentlyPlaced=/Script/Engine.SpotLight;/Engine/Transient.ActorFactorySpotLight_0
+RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/paddleboat/paddle.paddle;
+RecentlyPlaced=/Script/Engine.PointLight;/Engine/Transient.ActorFactoryPointLight_0
+RecentlyPlaced=/Script/Engine.SphereReflectionCapture;/Engine/Transient.ActorFactorySphereReflectionCapture_0
+RecentlyPlaced=/Engine/BasicShapes/Cube.Cube;/Engine/Transient.ActorFactoryBasicShape_0
+RecentlyPlaced=/Script/Engine.ExponentialHeightFog;/Engine/Transient.ActorFactoryExponentialHeightFog_0
+RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/Water_syle_Inst.Water_syle_Inst;
+RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/water.water;
 RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Race_Lights/Race_Lights_Mesh.Race_Lights_Mesh;
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Blueprints/speedPad/SpeedPad.SpeedPad;
-RecentlyPlaced=/Game/KIA_Game/audio/get_set.get_set;
-RecentlyPlaced=/Game/KIA_Game/Game_BP/TimeTrial/BP_CheckPoint.BP_CheckPoint;
-RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Blueprints/Race_Light/BP_raceLight.BP_raceLight;
+RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Bush1_Mesh.Bush1_Mesh;
+RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree1_Mesh.Tree1_Mesh;
+RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree2_Mesh.Tree2_Mesh;
+<<<<<<< HEAD
+=======
+RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree_Collection1_Mesh.Tree_Collection1_Mesh;
+RecentlyPlaced=/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree3_Mesh.Tree3_Mesh;
+>>>>>>> 8bc3a9f2b43509ddf837498fb74e6382479a6032
 
 [SelectionDetails]
-PreserveScaleRatio=True
+PreserveScaleRatio=False
 DecalSize_PreserveScaleRatio=False
 
 [PluginBrowser]
@@ -2682,6 +2778,9 @@ Contexts=(Name="AnimationBlueprintEditor.Viewport0",Commands=)
 Contexts=(Name="AnimationBlueprintEditor",Commands=)
 Contexts=(Name="SkeletalMeshEditor",Commands=)
 Contexts=(Name="SkeletalMeshEditor.Viewport0",Commands=)
+Contexts=(Name="SkeletonEditor",Commands=)
+Contexts=(Name="SkeletonEditor.Viewport0",Commands=)
+Contexts=(Name="SkeletonTree",Commands=)
 
 [/Script/UnrealEd.AnimationBlueprintEditorOptions]
 bHideUnrelatedNodes=False
@@ -2865,6 +2964,35 @@ OnlyBuildVisibility=False
 /Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree_02_Mesh.Tree_02_Mesh=1
 /Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree_01_Mesh.Tree_01_Mesh=1
 /Game/KIA_Game/Levels/LV_racetrack2.LV_racetrack2:PersistentLevel.LV_racetrack2=1
+/Game/KIA_Game/Assets_KIA/Materials/Level/Landscape_Grass_Type.Landscape_Grass_Type=1
+/Game/KIA_Game/Assets_KIA/Materials/Level/LVMAT_seaside_rush_Mat.LVMAT_seaside_rush_Mat=1
+/Game/KIA_Game/Assets_KIA/Meshes/Scenery/grass/Grass.Grass=1
+/Game/KIA_Game/Assets_KIA/Materials/Scenery/Grass/Grass_Mat_Inst.Grass_Mat_Inst=1
+/Game/KIA_Game/Assets_KIA/Materials/Scenery/Grass/Grass_Mat.Grass_Mat=1
+/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree1_Mesh.Tree1_Mesh=1
+/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree_Collection1_Mesh.Tree_Collection1_Mesh=1
+/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree3_Mesh.Tree3_Mesh=1
+/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Tree2_Mesh.Tree2_Mesh=1
+/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Bush3_Mesh.Bush3_Mesh=1
+/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Bush2_Mesh.Bush2_Mesh=1
+/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Trees/Bush1_Mesh.Bush1_Mesh=1
+/Game/KIA_Game/Assets_KIA/Materials/Invisible.Invisible=1
+/Game/KIA_Game/Assets_KIA/Materials/Scenery/Trees/Tree_Leaves_Mat_Inst.Tree_Leaves_Mat_Inst=1
+/Game/KIA_Game/Assets_KIA/Materials/Scenery/Trees/Tree_Leaves_Mat.Tree_Leaves_Mat=1
+/Game/KIA_Game/Assets_KIA/Decal/starting_line/DEC_start_Line.DEC_start_Line=1
+/Engine/BasicShapes/Plane.Plane=1
+/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/Water_syle.Water_syle=1
+/Game/KIA_Game/Assets_KIA/Materials/Scenery/water/Water_syle_Inst.Water_syle_Inst=1
+/Game/KIA_Game/Assets_KIA/Textures/Level/NewBlueprint.NewBlueprint=1
+/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag.flag=1
+/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag_PhysicsAsset.flag_PhysicsAsset=1
+/Game/KIA_Game/Assets_KIA/Meshes/Scenery/Flag/flag_Skeleton.flag_Skeleton=1
+/Game/KIA_Game/Assets_KIA/Materials/Scenery/Flag/Flag_Cloth_Mat.Flag_Cloth_Mat=1
+<<<<<<< HEAD
+/Game/KIA_Game/Assets_KIA/Meshes/Tracks/Track1/Track1_Mesh.Track1_Mesh=1
+=======
+/Game/KIA_Game/Assets_KIA/particles/snow.snow=1
+>>>>>>> 8bc3a9f2b43509ddf837498fb74e6382479a6032
 
 [MaterialEditor]
 PrimType=1
@@ -2925,7 +3053,7 @@ bMaterialQualityUsed[2]=0
 bMaterialQualityUsed[3]=0
 
 [MessageLog]
-LastLogListing=PIE
+LastLogListing=LightingResults
 
 [DetailMultiObjectNodeExpansion]
 CryptoKeysSettings=True
@@ -3009,23 +3137,23 @@ WmfMediaSettings=True
 
 [DetailCustomWidgetExpansion]
 PostProcessVolume=PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,
-BrushComponent=
+BrushComponent=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
 StaticMeshActor=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,
 SkeletalMeshComponent=
-SceneComponent=
-MaterialEditorInstanceConstant=MaterialEditorInstanceConstant.ParameterGroups.Global Scalar Parameter Values,MaterialEditorInstanceConstant.ParameterGroups.Global Vector Parameter Values,
+SceneComponent=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,
+MaterialEditorInstanceConstant=MaterialEditorInstanceConstant.ParameterGroups.Global Scalar Parameter Values,MaterialEditorInstanceConstant.ParameterGroups.Global Vector Parameter Values,MaterialEditorInstanceConstant.General.LightmassSettings,MaterialEditorInstanceConstant.ParameterGroups.water,MaterialEditorInstanceConstant.ParameterGroups.Normal,MaterialEditorInstanceConstant.ParameterGroups.Waves,MaterialEditorInstanceConstant.ParameterGroups.Distance Field,
 MaterialInstanceConstant=
 Landscape=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
 Trainkart_BP_C=SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
 BP_Sky_Sphere_C=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
 LandscapeEditorObject=LandscapeEditorObject.Target Layers.TargetLayers,
 LightmassImportanceVolume=PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
-StaticMesh=StaticMesh.ImportSettings.Material,StaticMesh.ImportSettings.Mesh,
+StaticMesh=StaticMesh.ImportSettings.Material,StaticMesh.ImportSettings.Mesh,StaticMesh.LOD0.MeshBuildSettings,StaticMesh.LOD0.MeshReductionSettings,StaticMesh.ImportSettings.Transform,StaticMesh.ImportSettings.Miscellaneous,StaticMesh.ImportSettings.File Path,
 AssetViewerSettings=AssetViewerSettings.Settings.Lighting,
-Actor=
+Actor=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,
 PersonaPreviewSceneDescription=AssetViewerSettings.Settings.Lighting,
 SkeletalMesh=SkeletalMesh.LOD0.SkeletalMeshSectionListNameLOD_0,SkeletalMesh.LOD0.LOD Info,
-StaticMeshComponent=StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,PostProcessVolume.Lens.Lens,
+StaticMeshComponent=
 K2Node_VariableGet=SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
 PreviewMeshCollection=
 VolumetricLightmapDensityVolume=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,PostProcessVolume.Lens.Lens
@@ -3122,7 +3250,7 @@ LapCheck=SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Re
 PrimitiveComponent=
 RaceCompleteCheck_8=SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,
 RaceCompleteCheck=SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
-BillboardComponent=SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
+BillboardComponent=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
 K2Node_Tunnel=K2Node_Tunnel.Inputs.InputArgument0,
 BP_savegame_C=
 BP_raceLight_C=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,
@@ -3135,17 +3263,27 @@ traceMove=SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.R
 traceMove_11=SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
 BP_KartPawnBase_C=
 WG_GameHUD_C=
-BP_KartPawnBase_Ai_C=
+BP_KartPawnBase_Ai_C=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,
 BP_KartPawnBase_Child_C=StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,PostProcessVolume.Lens.Lens,
 Trainkart_BPTemplate_C=StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,PostProcessVolume.Lens.Lens,
 SpeedPadTemplate_C=SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
-onlyPadTexture_C=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,
+onlyPadTexture_C=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,PostProcessVolume.Lens.Lens,
 PadTrigger_C=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
 WID_HUD_C=
 KillZVolume=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
 SceneCapture2D=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,SkeletalMeshComponent.Rendering.LOD,PostProcessVolume.Lens.Lens,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
 Character=
 PlayerIcon_WB_C=
+<<<<<<< HEAD
+BlockingVolume=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,
+BP_SplineTrackActor_C=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
+BP_AISplinePathActor_C=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
+=======
+BlockingVolume=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
+LandscapeComponent=
+LandscapeGizmoRenderComponent=
+LandscapeGizmoActiveActor=StaticMeshActor.Physics.ConstraintsGroup,StaticMeshActor.Rendering.TextureStreaming,StaticMeshActor.Rendering.RayTracing,StaticMeshActor.Rendering.LOD,PostProcessVolume.Lens.Lens,SkeletalMeshComponent.Rendering.LOD,SkeletalMeshComponent.Physics.ConstraintsGroup,SkeletalMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.LOD,StaticMeshComponent.Physics.ConstraintsGroup,StaticMeshComponent.Rendering.TextureStreaming,StaticMeshComponent.Rendering.RayTracing,
+>>>>>>> 8bc3a9f2b43509ddf837498fb74e6382479a6032
 
 [SuppressableDialogs]
 Warning_CompileErrorsInMaterial=False
@@ -3159,16 +3297,16 @@ bDrawGrid=False
 PrimType=1
 
 [LandscapeEdit]
-ToolStrength=0.095239
-BrushRadius=172.279388
-BrushFalloff=0.571429
+ToolStrength=0.457143
+BrushRadius=3048.427246
+BrushFalloff=1.000000
 ErosionNoiseMode=0
 AlphaBrushAutoRotate=True
 WorldSpacePatternBrushSettings.Origin=X=0.000 Y=0.000
 WorldSpacePatternBrushSettings.bCenterTextureOnOrigin=False
 WorldSpacePatternBrushSettings.RepeatSize=3200.000000
 bUseFlattenTarget=True
-FlattenTarget=-103.125000
+FlattenTarget=0.000000
 TerraceSmooth=0.000100
 TerraceInterval=1.000000
 RampWidth=2045.844116
@@ -3198,7 +3336,7 @@ LodDistance7=0.000000
 MinimumLodNumber=0
 LodNumber=0
 bImportAnimations=False
-bImportMaterials=True
+bImportMaterials=False
 bImportTextures=True
 
 [FBX_Import_UI_Option_FbxStaticMeshImportData]
@@ -3211,7 +3349,7 @@ bBuildReversedIndexBuffer=True
 bGenerateLightmapUVs=True
 bOneConvexHullPerUCX=True
 bAutoGenerateCollision=True
-bCombineMeshes=False
+bCombineMeshes=True
 bTransformVertexToAbsolute=True
 bBakePivotInVertex=False
 bImportMeshLODs=False
@@ -3302,6 +3440,8 @@ StaticMeshActor.StaticMesh=True
 StaticMeshActor.Rendering=True
 PointLightComponent.Light=True
 StaticMeshActor.Collision=False
+FbxImportUI.Mesh=False
+BoxComponent.Collision=True
 
 [/Script/UnrealEd.EditorLoadingSavingSettings]
 bSCCUseGlobalSettings=False
@@ -3407,4 +3547,9 @@ PaletteThumbnailScale=0.300000
 IsInSingleInstantiationMode=False
 IsInSpawnInCurrentLevelMode=False
 SingleInstantiationPlacementMode=0
+
+[MeshPaintEdit]
+DefaultBrushRadius=245.028000
+DefaultBrushStrength=0.295238
+DefaultBrushFalloff=0.157143
 
