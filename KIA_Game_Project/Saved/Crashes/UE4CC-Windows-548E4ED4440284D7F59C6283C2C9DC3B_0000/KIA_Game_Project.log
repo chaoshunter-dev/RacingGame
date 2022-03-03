@@ -1,0 +1,1538 @@
+﻿Log file open, 03/03/22 14:36:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: KIA_Game_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.200591
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 5800H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=Lactione -epicuserid=7df09c29b974459bbbc8327cccf2b3af -epiclocale=fr -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2022.03.03-14.36.43:244][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.03-14.36.43:244][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.03-14.36.43:245][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.03-14.36.43:245][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.03-14.36.43:245][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.03-14.36.43:245][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.03-14.36.43:245][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.03-14.36.43:245][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.03-14.36.43:245][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.03-14.36.43:245][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2022.03.03-14.36.43:245][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2022.03.03-14.36.43:248][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:248][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.03-14.36.43:248][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.03-14.36.43:249][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.03-14.36.43:249][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.03-14.36.43:249][  0]LogHAL: Display: Platform has ~ 16 GB [16483872768 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.03-14.36.43:249][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.03-14.36.43:249][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.03-14.36.43:249][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:249][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.03-14.36.43:250][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Engine.ini]
+[2022.03.03-14.36.43:250][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Config/Windows/Editor.ini]
+[2022.03.03-14.36.43:251][  0]LogInit: Computer: FRANCOIS
+[2022.03.03-14.36.43:251][  0]LogInit: User: franc
+[2022.03.03-14.36.43:251][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.03.03-14.36.43:251][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.03-14.36.43:251][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.03.03-14.36.43:251][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.03-14.36.43:251][  0]LogMemory: Process Physical Memory: 149.44 MB used, 149.44 MB peak
+[2022.03.03-14.36.43:251][  0]LogMemory: Process Virtual Memory: 132.19 MB used, 132.19 MB peak
+[2022.03.03-14.36.43:251][  0]LogMemory: Physical Memory: 8891.75 MB used,  6828.50 MB free, 15720.25 MB total
+[2022.03.03-14.36.43:251][  0]LogMemory: Virtual Memory: 134209344.00 MB used,  8387.33 MB free, 134217728.00 MB total
+[2022.03.03-14.36.43:437][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.03-14.36.43:479][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.03-14.36.43:479][  0]LogInit: Using OS detected language (fr-FR).
+[2022.03.03-14.36.43:479][  0]LogInit: Using OS detected locale (fr-BE).
+[2022.03.03-14.36.43:482][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2022.03.03-14.36.43:482][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.03.03-14.36.43:482][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.03.03-14.36.43:482][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.03.03-14.36.43:482][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.03.03-14.36.43:482][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.03.03-14.36.43:483][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.03.03-14.36.43:483][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.03.03-14.36.43:483][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.03-14.36.43:496][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.03-14.36.43:509][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.03-14.36.43:509][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.03-14.36.43:617][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.03-14.36.43:653][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.03-14.36.43:653][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.03-14.36.43:653][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.03-14.36.43:653][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.03-14.36.43:743][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (Feature Level 11_0)
+[2022.03.03-14.36.43:743][  0]LogD3D11RHI:       3990/0/7860 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.03-14.36.43:784][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.03.03-14.36.43:784][  0]LogD3D11RHI:       496/0/7860 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI:       0/0/7860 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI:     SubSysId    : a6e1028
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI:     DedicatedVideoMemory : 4183818240 bytes
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI:     SharedSystemMemory : 8241936384 bytes
+[2022.03.03-14.36.43:787][  0]LogD3D11RHI:     AdapterLuid : 0 68435
+[2022.03.03-14.36.43:794][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.03-14.36.43:794][  0]LogD3D11RHI:     GPU DeviceId: 0x25a0 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.03-14.36.43:794][  0]LogWindows: EnumDisplayDevices:
+[2022.03.03-14.36.43:794][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.03.03-14.36.43:794][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.03.03-14.36.43:794][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.03.03-14.36.43:794][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.03.03-14.36.43:794][  0]LogWindows:    4. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.03.03-14.36.43:795][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0)
+[2022.03.03-14.36.43:795][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:   Driver Version: 462.70 (internal:27.21.14.6270, unified:462.70)
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:      Driver Date: 5-25-2021
+[2022.03.03-14.36.43:795][  0]LogRHI: Texture pool is 2793 MB (70% of 3990 MB)
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:     SubSysId    : a6e1028
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:     DedicatedVideoMemory : 4183818240 bytes
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:     SharedSystemMemory : 8241936384 bytes
+[2022.03.03-14.36.43:795][  0]LogD3D11RHI:     AdapterLuid : 0 68435
+[2022.03.03-14.36.43:854][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.03-14.36.43:854][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.03-14.36.43:854][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.03-14.36.43:867][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.03-14.36.43:892][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.03-14.36.44:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.03-14.36.44:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.03-14.36.44:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.03-14.36.44:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.03-14.36.44:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.03-14.36.44:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.03-14.36.44:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.03-14.36.44:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.03-14.36.44:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.03-14.36.44:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.03-14.36.44:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.03-14.36.44:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.03-14.36.44:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.03-14.36.44:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.03-14.36.44:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.03-14.36.44:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.03-14.36.44:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.03-14.36.44:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.03-14.36.44:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.03-14.36.44:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.03-14.36.44:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.03-14.36.44:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.03-14.36.44:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.03-14.36.44:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.03-14.36.44:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.03-14.36.44:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.03-14.36.44:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.03-14.36.44:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.03-14.36.44:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.03-14.36.44:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.03-14.36.44:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.03-14.36.44:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.03-14.36.44:346][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.03-14.36.44:357][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.03-14.36.44:399][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.03-14.36.44:441][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.03-14.36.44:441][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Intermediate/Shaders/WorkingDirectory/4020/).
+[2022.03.03-14.36.44:441][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/franc/AppData/Local/Temp/UnrealShaderWorkingDir/5A9A4B4A4EFCA36A5DDAAABF5B1211B8/'.
+[2022.03.03-14.36.44:441][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.03-14.36.44:442][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.03-14.36.44:442][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.03-14.36.45:037][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.03-14.36.45:088][  0]LogDerivedDataCache: Loaded boot cache 0.05s 118MB C:/Users/franc/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.03-14.36.45:088][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/franc/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.03-14.36.45:088][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.03-14.36.45:088][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.03-14.36.45:088][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.03-14.36.45:088][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.03-14.36.45:103][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.03-14.36.45:104][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.03-14.36.45:104][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.03-14.36.45:110][  0]LogDerivedDataCache: Speed tests for C:/Users/franc/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.03-14.36.45:110][  0]LogDerivedDataCache: Display: Performance to C:/Users/franc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1614.88MBs, RandomWriteSpeed=177.94MBs. Assigned SpeedClass 'Local'
+[2022.03.03-14.36.45:110][  0]LogDerivedDataCache: Using Local data cache path C:/Users/franc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.03-14.36.45:110][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.03-14.36.45:110][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.03-14.36.45:148][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.03-14.36.45:148][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.03-14.36.45:168][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2022.03.03-14.36.45:368][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.03-14.36.45:368][  0]LogInit: Active device profile: [00000197C13A5100][00000197C06E59C0 49] Windows
+[2022.03.03-14.36.45:368][  0]LogInit: Profiles: [00000197C13A5100][00000197C06E59C0 49] Windows, [00000197C1356700][00000197C0B81B40 49] WindowsNoEditor, [00000197C13A6200][00000197C0B84140 49] WindowsServer, [00000197C1355900][00000197B9D1C2C0 49] WindowsClient, [00000197C13A5700][00000197B9D20440 49] IOS, [00000197C1356900][00000197B9D245C0 49] iPadAir, [00000197C13A7C00][00000197C2564740 49] iPadAir2, [00000197C12ED400][00000197C0CC2A00 49] IPadPro, [00000197C12ED500][00000197C2568A40 49] iPadAir3, [00000197C1357A00][00000197C257CBC0 49] iPadAir4, [00000197C12EE300][00000197C0CC6D40 49] iPadMini2, [00000197C1357100][00000197C06E8E80 49] iPadMini3, [00000197C12EEF00][00000197C0B8CFC0 49] iPadMini4, [00000197C1355E00][00000197C0BA1100 49] iPadMini5, [00000197C1309000][00000197C226D3C0 49] iPhone6, [00000197C1309100][00000197C225F400 49] iPodTouch6, [00000197C13A7900][00000197BD6256C0 49] iPhone7, [00000197C13A6900][00000197BD61D700 49] iPodTouch7, [00000197C12ED000][00000197BD669880 49] iPhone5S, [00000197C13A6F00][00000197C0CEFA00 49] iPhone6Plus, [00000197C12EF600][00000197C0D0BB80 49] iPhone6S, [00000197C13A4C00][00000197C1E0A180 49] iPhone6SPlus, [00000197C13A5D00][00000197C1E0E300 49] iPhone7Plus, [00000197C1308800][00000197C1E18480 49] iPhoneSE, [00000197C13A4400][00000197C1E1C600 49] iPhone8, [00000197C1308900][00000197C2956780 49] iPhone8Plus, [00000197C130AE00][00000197C296C900 49] iPhoneX, [00000197C12EDD00][00000197C2980A80 49] iPhoneXS, [00000197C130A700][00000197C2984C00 49] iPhoneXSMax, [00000197C12EDC00][00000197C2988D80 49] iPhoneXR, [00000197C130A800][00000197C298CF00 49] iPhone11, [00000197C12ECF00][00000197C225B040 49] iPhone11Pro, [00000197C1308B00][00000197B9CB3180 49] iPhone11ProMax, [00000197C12ECD00][00000197B9CB72C0 49] iPhoneSE2, [00000197C1308E00][00000197B9CBF440 49] iPhone12Mini, [00000197C13A7800][00000197B9CC35C0 49] iPhone12, [00000197C130B000][00000197B9CC7740 49] iPhone12Pro, [00000197C13A7700][00000197B9CDF8C0 49] iPhone12ProMax, [00000197C1309E00][00000197C2165A40 49] iPadPro105, [00000197C13A5300][00000197C2169BC0 49] iPadPro129, [00000197C130BE00][00000197C216C1C0 49] iPadPro97, [00000197C13A5C00][00000197B9CE2340 49] iPadPro2_129, [00000197C130A000][00000197B9CE64C0 49] iPad5, [00000197C13A6300][00000197ADEFC640 49] iPad6, [00000197C130BB00][00000197ADF007C0 49] iPad7, [00000197C13A5E00][00000197ADF04940 49] iPad8, [00000197C1308A00][00000197B9CF8AC0 49] iPadPro11, [00000197C13A6600][00000197C2530C40 49] iPadPro2_11, [00000197C1308F00][00000197C2534DC0 49] iPadPro3_129, [00000197C13A6800][00000197C2538F40 49] iPadPro4_129, [00000197C130BC00][00000197C253D0C0 49] AppleTV, [00000197C13A5A00][00000197B9CBB200 49] AppleTV4K, [00000197C130A600][00000197C2541340 49] TVOS, [00000197C13A6100][00000197B9CEB480 49] Mac, [00000197C130AF00][00000197C255B5C0 49] MacClient, [00000197C13A6A00][00000197C2207740 49] MacNoEditor, [00000197C130AC00][00000197C220B8C0 49] MacServer, [00000197C13A7000][00000197C220FA40 49] Linux, [00000197C1308400][00000197B9CEFBC0 49] LinuxAArch64, [00000197C13A4700][00000197C22121C0 49] LinuxNoEditor, [00000197C130B700][00000197C2216340 49] LinuxAArch64NoEditor, [00000197C13A7B00][00000197C221A4C0 49] LinuxClient, [00000197C130B400][00000197C221E640 49] LinuxAArch64Client, [00000197C13A7E00][00000197C1E067C0 49] LinuxServer, [00000197C1308700][00000197C0CF2940 49] LinuxAArch64Server, [00000197C13A5F00][00000197C0CEAAC0 49] Android, [00000197C130AA00][00000197C06D4C40 49] Android_Low, [00000197C13A6D00][00000197C2256DC0 49] Android_Mid, [00000197C1309F00][00000197C2252F40 49] Android_High, [00000197C13A6B00][00000197C224F0C0 49] Android_Default, [00000197C1308100][00000197C0B95240 49] Android_Adreno4xx, [00000197C13A4500][00000197C255F380 49] Android_Adreno5xx_Low, [00000197C1309400][00000197C0B914C0 49] Android_Adreno5xx, [00000197C13A7400][00000197C0B89600 49] Android_Adreno6xx, [00000197C130A300][00000197C06D9740 49] Android_Adreno6xx_Vulkan, [00000197C13A7D00][00000197C22238C0 49] Android_Mali_T6xx, [00000197C1308200][00000197C2227A40 49] Android_Mali_T7xx, [00000197C13A7600][00000197C222BBC0 49] Android_Mali_T8xx, [00000197C130B200][00000197C222E1C0 49] Android_Mali_G71, [00000197C12EF100][00000197C2232340 49] Android_Mali_G72, [00000197C1356F00][00000197C22364C0 49] Android_Mali_G72_Vulkan, [00000197C12EEB00][00000197C223A640 49] Android_Mali_G76, [00000197C1354500][00000197C223E7C0 49] Android_Mali_G76_Vulkan, [00000197C12ECC00][00000197C2242940 49] Android_Mali_G77, [00000197C1354600][00000197C2246AC0 49] Android_Mali_G77_Vulkan, [00000197C12EE400][00000197C224AC40 49] Android_Mali_G78, [00000197C1354D00][00000197BD628DC0 49] Android_Mali_G78_Vulkan, [00000197C12EFD00][00000197BD62CF40 49] Android_Mali_G710, [00000197C1356B00][00000197BD6310C0 49] Android_Mali_G710_Vulkan, [00000197C12EEA00][00000197BD635240 49] Android_Vulkan_SM5, [00000197C1355A00][00000197BD6393C0 49] Android_PowerVR_G6xxx, [00000197C12EC500][00000197BD63D540 49] Android_PowerVR_GT7xxx, [00000197C1354200][00000197BD621680 49] Android_PowerVR_GE8xxx, [00000197C12EFB00][00000197BD6417C0 49] Android_PowerVR_GM9xxx, [00000197C1356100][00000197BD645900 49] Android_PowerVR_GM9xxx_Vulkan, [00000197C12EDF00][00000197BD64DA80 49] Android_TegraK1, [00000197C1354A00][00000197BD651C00 49] Android_Unknown_Vulkan, [00000197C12EF900][00000197BD654200 49] Lumin, [00000197C1355100][00000197BD658380 49] Lumin_Desktop, [00000197C12EE000][00000197BD65C500 49] HoloLens, 
+[2022.03.03-14.36.45:487][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.03-14.36.45:487][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.03-14.36.45:487][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.03-14.36.45:487][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.03-14.36.45:487][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.03-14.36.45:501][  0]LogNetVersion: KIA_Game_Project 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2241242739)
+[2022.03.03-14.36.45:792][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.03-14.36.45:837][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.03-14.36.45:842][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.03.03-14.36.45:842][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.03.03-14.36.45:842][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.03-14.36.46:135][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EE63964B4CCB5714BEA15EB54321846B | Instance: 2ADA9BC84FA432873D1DA4AA880FDE9C (FRANCOIS-4020).
+[2022.03.03-14.36.46:172][  0]LogPython: Using Python 3.7.7
+[2022.03.03-14.36.46:679][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.03-14.36.46:689][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.03-14.36.46:862][  0]SourceControl: Source control is disabled
+[2022.03.03-14.36.46:862][  0]SourceControl: Source control is disabled
+[2022.03.03-14.36.46:866][  0]SourceControl: Source control is disabled
+[2022.03.03-14.36.46:882][  0]SourceControl: Source control is disabled
+[2022.03.03-14.36.46:890][  0]SourceControl: Source control is disabled
+[2022.03.03-14.36.46:893][  0]LogUProjectInfo: Found projects:
+[2022.03.03-14.36.46:901][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.03-14.36.46:901][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.03-14.36.46:901][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.03-14.36.47:127][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.03-14.36.47:194][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.03-14.36.47:232][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.03-14.36.47:232][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.03-14.36.47:344][  0]LogCollectionManager: Loaded 0 collections in 0.001190 seconds
+[2022.03.03-14.36.47:371][  0]LogFileCache: Scanning file cache for directory 'C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Collections/' took 0.00s
+[2022.03.03-14.36.47:371][  0]LogFileCache: Scanning file cache for directory 'C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Content/Developers/franc/Collections/' took 0.00s
+[2022.03.03-14.36.47:371][  0]LogFileCache: Scanning file cache for directory 'C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Content/Collections/' took 0.00s
+[2022.03.03-14.36.47:371][  0]LogOcInput: OculusInput pre-init called
+[2022.03.03-14.36.47:560][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::Handle is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2022.03.03-14.36.47:560][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::VendorID is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2022.03.03-14.36.47:560][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::ProductID is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2022.03.03-14.36.47:560][  0]LogClass: Display: 3 Uninitialized script struct members found including 0 object properties
+[2022.03.03-14.36.47:561][  0]LogEngine: Initializing Engine...
+[2022.03.03-14.36.47:564][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.03-14.36.47:564][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.03-14.36.47:564][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.03-14.36.47:565][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.03-14.36.47:665][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.03-14.36.47:676][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.03-14.36.47:682][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.03-14.36.47:687][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.03-14.36.47:688][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.03-14.36.47:688][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.03-14.36.47:689][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.03-14.36.47:689][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.03-14.36.47:689][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.03-14.36.47:689][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.03-14.36.47:689][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.03-14.36.47:689][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.03-14.36.47:689][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.03-14.36.47:689][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.03-14.36.47:689][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.03-14.36.47:689][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.03-14.36.47:689][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.03-14.36.47:689][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.03-14.36.47:689][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.03-14.36.47:760][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.03-14.36.47:760][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.03-14.36.47:771][  0]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.03-14.36.47:774][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.03-14.36.47:776][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.03-14.36.47:776][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.03-14.36.47:776][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.03-14.36.47:777][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.03-14.36.47:777][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.03-14.36.47:778][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.03-14.36.47:778][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.03-14.36.47:778][  0]LogInit: FAudioDevice initialized.
+[2022.03.03-14.36.47:778][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.03-14.36.47:778][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.03-14.36.47:843][  0]LogDerivedDataCache: Saved boot cache 0.07s 118MB C:/Users/franc/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.03-14.36.47:845][  0]LogInit: Texture streaming: Enabled
+[2022.03.03-14.36.47:862][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.03.03-14.36.47:867][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.03-14.36.47:867][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.03-14.36.47:871][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.03-14.36.47:904][  0]LogInit: Transaction tracking system initialized
+[2022.03.03-14.36.47:932][  0]BlueprintLog: New page: Editor Load
+[2022.03.03-14.36.48:014][  0]LocalizationService: Localization service is disabled
+[2022.03.03-14.36.48:046][  0]TimingProfiler: Initialize
+[2022.03.03-14.36.48:046][  0]TimingProfiler: OnSessionChanged
+[2022.03.03-14.36.48:046][  0]LoadingProfiler: Initialize
+[2022.03.03-14.36.48:047][  0]LoadingProfiler: OnSessionChanged
+[2022.03.03-14.36.48:047][  0]NetworkingProfiler: Initialize
+[2022.03.03-14.36.48:047][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.03-14.36.48:047][  0]MemoryProfiler: Initialize
+[2022.03.03-14.36.48:047][  0]MemoryProfiler: OnSessionChanged
+[2022.03.03-14.36.48:117][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.03-14.36.48:118][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.03-14.36.48:118][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.03-14.36.48:203][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.03-14.36.48:203][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.03-14.36.48:426][  0]LogFileCache: Scanning file cache for directory 'C:/Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Content/' took 0.02s
+[2022.03.03-14.36.48:561][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.03-14.36.48:565][  0]SourceControl: Source control is disabled
+[2022.03.03-14.36.48:565][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.301
+[2022.03.03-14.36.48:565][  0]Cmd: MAP LOAD FILE="../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.03-14.36.48:565][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2022.03.03-14.36.48:565][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.03-14.36.48:565][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,125ms to complete.
+[2022.03.03-14.36.48:565][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 0.000
+[2022.03.03-14.36.48:567][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.303
+[2022.03.03-14.36.48:666][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-14.36.48:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-14.36.48:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-14.36.48:681][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-14.36.48:695][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3824 classes and 931 folders.
+[2022.03.03-14.36.48:709][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.03-14.36.48:710][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.03-14.36.48:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.03-14.36.48:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.03.03-14.36.48:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.03.03-14.36.48:711][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.03-14.36.48:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.03-14.36.48:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.03.03-14.36.48:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.03-14.36.48:712][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.03-14.36.48:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.03-14.36.48:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.03.03-14.36.48:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.03.03-14.36.48:712][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.03-14.36.48:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.03-14.36.48:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.03.03-14.36.48:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.03.03-14.36.48:712][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.03-14.36.48:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.03-14.36.48:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.03.03-14.36.48:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.03.03-14.36.48:713][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.03-14.36.48:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.03-14.36.48:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.03-14.36.48:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.03.03-14.36.48:713][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.03-14.36.48:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.03-14.36.48:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.03.03-14.36.48:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.03.03-14.36.48:714][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.03-14.36.48:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.03-14.36.48:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.03.03-14.36.48:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.03-14.36.48:714][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.03-14.36.48:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.03-14.36.48:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.03.03-14.36.48:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.03-14.36.48:715][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.03-14.36.48:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.03-14.36.48:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.03.03-14.36.48:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.03-14.36.48:715][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.03-14.36.48:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.03-14.36.48:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.03.03-14.36.48:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.03-14.36.48:716][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.03-14.36.48:716][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:716][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.03-14.36.48:716][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:716][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.03.03-14.36.48:716][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.03-14.36.48:716][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.03-14.36.48:716][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:716][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.03-14.36.48:716][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:716][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.03.03-14.36.48:716][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.03-14.36.48:717][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.03-14.36.48:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.03-14.36.48:717][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:717][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.03.03-14.36.48:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.03.03-14.36.48:717][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.03-14.36.48:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.03-14.36.48:717][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:717][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.03.03-14.36.48:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.03-14.36.48:718][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.03-14.36.48:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.03-14.36.48:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.03.03-14.36.48:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.03.03-14.36.48:718][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.03-14.36.48:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.03-14.36.48:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.03-14.36.48:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.03-14.36.48:718][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.03-14.36.48:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.03-14.36.48:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.03.03-14.36.48:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.03.03-14.36.48:719][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.03-14.36.48:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.03-14.36.48:719][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:719][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.03.03-14.36.48:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.03-14.36.48:719][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.03-14.36.48:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.03-14.36.48:719][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:719][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.03.03-14.36.48:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.03-14.36.48:720][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.03-14.36.48:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.03-14.36.48:720][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:720][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.03.03-14.36.48:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.03-14.36.48:720][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.03-14.36.48:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.03-14.36.48:720][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:720][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.03.03-14.36.48:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.03.03-14.36.48:721][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.03-14.36.48:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.03-14.36.48:721][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:721][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.03.03-14.36.48:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.03.03-14.36.48:721][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.03-14.36.48:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.03-14.36.48:721][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:721][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.03.03-14.36.48:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.03-14.36.48:722][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.03-14.36.48:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.03-14.36.48:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.03.03-14.36.48:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.03.03-14.36.48:722][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.03-14.36.48:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.03-14.36.48:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.03-14.36.48:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.03-14.36.48:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.03.03-14.36.48:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.03.03-14.36.48:773][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.03-14.36.48:774][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.03.03-14.36.48:897][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.03-14.36.48:898][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.03-14.36.48:900][  0]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.03-14.36.48:976][  0]LogRenderer: Reallocating scene render targets to support 904x420 Format 10 NumSamples 1 (Frame:1).
+[2022.03.03-14.36.49:495][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.03-14.36.49:573][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.03-14.36.49:573][  0]LogLoad: (Engine Initialization) Total time: 7.31 seconds
+[2022.03.03-14.36.49:573][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.03-14.36.49:592][  0]LogRawInputWindows: Warning: Found device 11 devices
+[2022.03.03-14.36.49:592][  0]LogRawInputWindows: Warning: Found device 11 devices
+[2022.03.03-14.36.49:592][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2022.03.03-14.36.49:592][  0]LogRawInputWindows: Warning: Found device 11 devices
+[2022.03.03-14.36.49:592][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2022.03.03-14.36.49:628][  0]LogAssetRegistry: Asset discovery search completed in 4.4609 seconds
+[2022.03.03-14.36.49:633][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.03.03-14.36.49:634][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.03-14.36.49:641][  0]LogSlate: Took 0.001001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.03.03-14.37.14:532][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.03.03-14.37.14:538][490]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.03-14.37.14:577][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\Assets\Meshes\SK_Bomb.uasset: Failed to load '/Game/Assets/Materials/M_Bomb': Can't find file.
+[2022.03.03-14.37.14:577][490]LoadErrors: Failed to load /Game/KIA_Game/template/Assets/Meshes/SK_Bomb.SK_Bomb Referenced by Bomb_Mesh_GEN_VARIABLE
+[2022.03.03-14.37.14:577][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\Assets\Meshes\SK_Bomb.uasset: Failed to load '/Game/Assets/Materials/M_Bomb': Can't find file.
+[2022.03.03-14.37.14:577][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\Assets\Meshes\SK_Bomb.uasset: Failed to load '/Game/Assets/Materials/M_Bomb': Can't find file.
+[2022.03.03-14.37.14:578][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\Assets\Materials\M_Bomb.uasset: Failed to load '/Game/Assets/Textures/T_BombBall': Can't find file.
+[2022.03.03-14.37.14:578][490]LoadErrors: Failed to load /Game/KIA_Game/template/Assets/Materials/M_Bomb.M_Bomb Referenced by Bomb_Mesh_GEN_VARIABLE
+[2022.03.03-14.37.14:578][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\Assets\Materials\M_Bomb.uasset: Failed to load '/Game/Assets/Textures/T_BombBall': Can't find file.
+[2022.03.03-14.37.14:578][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\Assets\Materials\M_Bomb.uasset: Failed to load '/Game/Assets/Textures/T_BombBall': Can't find file.
+[2022.03.03-14.37.14:636][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Fonts/Font_Digital_Font': Can't find file.
+[2022.03.03-14.37.14:637][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Fonts/Font_Digital_Font': Can't find file.
+[2022.03.03-14.37.14:637][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Materials/M_RearView': Can't find file.
+[2022.03.03-14.37.14:637][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Materials/M_RearView': Can't find file.
+[2022.03.03-14.37.14:637][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Fonts/Font_Digital_Font': Can't find file.
+[2022.03.03-14.37.14:637][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Materials/M_RearView': Can't find file.
+[2022.03.03-14.37.14:638][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Textures/T_Circle': Can't find file.
+[2022.03.03-14.37.14:638][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Textures/T_Circle': Can't find file.
+[2022.03.03-14.37.14:638][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Textures/T_RearViewMirorMask': Can't find file.
+[2022.03.03-14.37.14:638][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Textures/T_RearViewMirorMask': Can't find file.
+[2022.03.03-14.37.14:638][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Textures/T_Circle': Can't find file.
+[2022.03.03-14.37.14:638][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Textures/T_RearViewMirorMask': Can't find file.
+[2022.03.03-14.37.14:639][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Textures/T_RearViewMirorMask': Can't find file.
+[2022.03.03-14.37.14:639][490]LoadErrors: Failed to load /Game/Assets/Textures/T_RearViewMirorMask.RearViewMirorMask Referenced by Border_53
+[2022.03.03-14.37.14:639][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Fonts/Font_Digital_Font': Can't find file.
+[2022.03.03-14.37.14:639][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Materials/M_RearView': Can't find file.
+[2022.03.03-14.37.14:639][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Fonts/Font_Digital_Font': Can't find file.
+[2022.03.03-14.37.14:640][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Materials/M_RearView': Can't find file.
+[2022.03.03-14.37.14:640][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Textures/T_Circle': Can't find file.
+[2022.03.03-14.37.14:640][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Textures/T_RearViewMirorMask': Can't find file.
+[2022.03.03-14.37.14:640][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Textures/T_Circle': Can't find file.
+[2022.03.03-14.37.14:640][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Textures/T_RearViewMirorMask': Can't find file.
+[2022.03.03-14.37.14:641][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Fonts/Font_Digital_Font': Can't find file.
+[2022.03.03-14.37.14:641][490]LoadErrors: Failed to load /Game/Assets/Fonts/Font_Digital_Font.Font_Digital_Font Referenced by Speed_Text
+[2022.03.03-14.37.14:641][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Textures/T_Circle': Can't find file.
+[2022.03.03-14.37.14:641][490]LoadErrors: Failed to load /Game/Assets/Textures/T_Circle.T_Circle Referenced by Circle_Image
+[2022.03.03-14.37.14:641][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Fonts/Font_Digital_Font': Can't find file.
+[2022.03.03-14.37.14:641][490]LoadErrors: Failed to load /Game/Assets/Fonts/Font_Digital_Font.Font_Digital_Font Referenced by KMH_Text
+[2022.03.03-14.37.14:641][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Assets_KIA\Blueprints\Trainkart_BP.uasset: Failed to load '/Game/Assets/Materials/M_RearView': Can't find file.
+[2022.03.03-14.37.14:641][490]LoadErrors: Failed to load /Game/Assets/Materials/M_RearView.M_RearView Referenced by Image_0
+[2022.03.03-14.37.15:052][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\Assets\Meshes\SK_Bomb.uasset: Failed to load '/Game/Assets/Materials/M_Bomb': Can't find file.
+[2022.03.03-14.37.15:053][490]LoadErrors: Failed to load /Game/Assets/Materials/M_Bomb.M_Bomb Referenced by SK_Bomb
+[2022.03.03-14.37.15:053][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\Assets\Materials\M_Bomb.uasset: Failed to load '/Game/Assets/Textures/T_BombBall': Can't find file.
+[2022.03.03-14.37.15:053][490]LoadErrors: Failed to load /Game/Assets/Textures/T_BombBall.T_BombBall Referenced by MaterialExpressionTextureSample_0
+[2022.03.03-14.37.15:110][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Textures/T_RearViewMirorMask': Can't find file.
+[2022.03.03-14.37.15:111][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Textures/T_Circle': Can't find file.
+[2022.03.03-14.37.15:111][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Materials/M_RearView': Can't find file.
+[2022.03.03-14.37.15:111][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Fonts/Font_Digital_Font': Can't find file.
+[2022.03.03-14.37.15:111][490]LogLinker: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\WG_GameHUD.uasset: Failed to load '/Game/Assets/Fonts/Font_Digital_Font': Can't find file.
+[2022.03.03-14.37.15:185][490]LogMaterial: Display: Missing cached shadermap for M_Bomb in PCD3D_SM5, Default, SM5 (DDC key hash: 90DBDAD8697405D0F25555525B9588CC02609DB4), compiling. 
+[2022.03.03-14.37.15:186][490]LogMaterial: Warning: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\template\Assets\Materials\M_Bomb.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.03-14.37.15:186][490]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.03-14.37.15:420][490]LogAssetEditorSubsystem: Opening Asset editor for World /Game/KIA_Game/Levels/Game_Level_1.Game_Level_1
+[2022.03.03-14.37.15:420][490]Cmd: MAP LOAD FILE="../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Content/KIA_Game/Levels/Game_Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.03-14.37.15:420][490]LightingResults: New page: Lighting Build
+[2022.03.03-14.37.15:421][490]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2022.03.03-14.37.15:421][490]LoadErrors: New page: Loading map: Game_Level_1.umap
+[2022.03.03-14.37.15:444][490]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.03-14.37.15:444][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-14.37.15:445][490]MapCheck: New page: Map Check
+[2022.03.03-14.37.15:445][490]LightingResults: New page: Lighting Build
+[2022.03.03-14.37.15:468][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.03-14.37.15:476][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.03.03-14.37.15:476][490]LogAudio: Display: Audio Device (ID: 1) registered with world 'Game_Level_1'.
+[2022.03.03-14.37.15:548][490]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.03-14.37.15:548][490]LogAIModule: Creating AISystem for world Game_Level_1
+[2022.03.03-14.37.15:557][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.03-14.37.15:563][490]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.03-14.37.15:563][490]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,117ms to complete.
+[2022.03.03-14.37.15:563][490]LogFileHelpers: Loading map 'Game_Level_1' took 0.144
+[2022.03.03-14.37.25:502][ 78]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/KIA_Game/Game_BP/PowerUp/Item_WID_HUD.Item_WID_HUD
+[2022.03.03-14.37.25:592][ 78]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.03.03-14.37.26:582][ 78]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.03-14.37.28:443][187]LogSlate: Window 'Item_WID_HUD' being destroyed
+[2022.03.03-14.37.44:791][160]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger.PowerUpTrigger
+[2022.03.03-14.37.45:278][161]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.03-14.37.51:714][543]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KIA_Game/template/template_BP/BP_KartPawnBase.BP_KartPawnBase
+[2022.03.03-14.38.50:381][  3]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/KIA_Game/minimap/Minimap_WB.Minimap_WB
+[2022.03.03-14.39.08:645][ 81]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.03-14.39.08:645][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-14.39.08:653][ 81]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.03-14.39.08:653][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-14.39.17:342][598]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-14.39.17:412][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.03.03-14.39.17:458][598]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.03-14.40.17:461][184]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-14.40.17:507][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.03.03-14.41.00:646][755]LogSavePackage: Moving '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/PowerUpTrigger0918DB1E4EA918354C7462BD6AC4B59B.tmp' to '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Content/KIA_Game/Game_BP/PowerUp/PowerUpTrigger.uasset'
+[2022.03.03-14.41.00:663][755]AssetCheck: New page: Asset Save: PowerUpTrigger
+[2022.03.03-14.41.00:663][755]LogContentValidation: Display: Validating Blueprint /Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger.PowerUpTrigger
+[2022.03.03-14.41.20:062][839]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.03-14.41.49:965][620]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-14.41.49:968][620]LogClass: Warning: Type mismatch in PowerUpImage of PowerUpTrigger_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2022.03.03-14.41.50:010][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.03.03-14.44.26:308][ 18]BlueprintLog: New page: Compile Item_WID_HUD
+[2022.03.03-14.44.26:341][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.03.03-14.44.28:987][175]BlueprintLog: New page: Compile Item_WID_HUD
+[2022.03.03-14.44.29:014][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.03.03-14.48.51:581][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.03.03-14.48.51:701][763]LogSavePackage: Moving '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Game_Level_1_Auto1F108FA7B471A65F8582D4D91BA15B3F2.tmp' to '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Levels/Game_Level_1_Auto1.umap'
+[2022.03.03-14.48.51:703][763]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/KIA_Game/Levels/Game_Level_1' took 0.152
+[2022.03.03-14.48.51:703][763]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.152
+[2022.03.03-14.48.51:703][763]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger] ([2] browsable assets)...
+[2022.03.03-14.48.51:722][763]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger.PowerUpTrigger]
+[2022.03.03-14.48.51:722][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger]
+[2022.03.03-14.48.51:740][763]LogSavePackage: Moving '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/PowerUpTrigger_Auto149D1368A4AEF82DBDE2D06B8042043DF.tmp' to '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger_Auto1.uasset'
+[2022.03.03-14.48.51:742][763]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KIA_Game/Game_BP/PowerUp/Item_WID_HUD] ([2] browsable assets)...
+[2022.03.03-14.48.51:742][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/KIA_Game/Game_BP/PowerUp/Item_WID_HUD]
+[2022.03.03-14.48.51:745][763]LogSavePackage: Moving '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Item_WID_HUD_Auto189EE7BCE45F8F513ACC5139B4B5830E7.tmp' to '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Game_BP/PowerUp/Item_WID_HUD_Auto1.uasset'
+[2022.03.03-14.48.51:746][763]LogFileHelpers: Auto-saving content packages took 0.043
+[2022.03.03-14.50.33:690][629]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-14.50.33:733][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.03.03-14.54.15:004][993]LogRenderer: Reallocating scene render targets to support 1128x524 Format 10 NumSamples 1 (Frame:4137).
+[2022.03.03-14.54.34:069][129]BlueprintLog: New page: Compile Item_WID_HUD
+[2022.03.03-14.54.34:103][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.03.03-14.56.12:927][ 23]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-14.56.12:970][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.03.03-14.57.13:330][627]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-14.57.13:374][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.03.03-14.57.41:898][322]BlueprintLog: New page: Compile Item_WID_HUD
+[2022.03.03-14.57.41:929][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.03.03-14.58.33:056][368]BlueprintLog: New page: Compile Item_WID_HUD
+[2022.03.03-14.58.33:058][368]LogBlueprint: Error: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Game_BP\PowerUp\Item_WID_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:BrushDelegate ' on Widget ' Image_40 ': Member:GetBrush_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2022.03.03-14.58.33:085][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.03.03-14.59.06:335][352]BlueprintLog: New page: Compile Item_WID_HUD
+[2022.03.03-14.59.06:337][352]LogBlueprint: Error: [AssetLog] C:\Users\franc\Documents\UnrealProject\RacingGame\KIA_Game_Project\Content\KIA_Game\Game_BP\PowerUp\Item_WID_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:BrushDelegate ' on Widget ' Image_40 ': Member:GetBrush_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2022.03.03-14.59.06:364][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.03.03-15.00.04:185][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.03.03-15.00.04:294][409]LogSavePackage: Moving '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Game_Level_1_Auto217962F264FE50BC7ACC4D8873DD563F2.tmp' to '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Levels/Game_Level_1_Auto2.umap'
+[2022.03.03-15.00.04:296][409]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/KIA_Game/Levels/Game_Level_1' took 0.141
+[2022.03.03-15.00.04:296][409]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.141
+[2022.03.03-15.00.04:296][409]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger] ([2] browsable assets)...
+[2022.03.03-15.00.04:306][409]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger.PowerUpTrigger]
+[2022.03.03-15.00.04:306][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger]
+[2022.03.03-15.00.04:323][409]LogSavePackage: Moving '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/PowerUpTrigger_Auto2AA6F20C4493CFD4DD51C72AC129EF80E.tmp' to '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger_Auto2.uasset'
+[2022.03.03-15.00.04:325][409]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KIA_Game/Game_BP/PowerUp/Item_WID_HUD] ([2] browsable assets)...
+[2022.03.03-15.00.04:325][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/KIA_Game/Game_BP/PowerUp/Item_WID_HUD]
+[2022.03.03-15.00.04:330][409]LogSavePackage: Moving '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Item_WID_HUD_Auto26CAE5C4E4B6F705591BDD5BA6BBBFDF6.tmp' to '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Game_BP/PowerUp/Item_WID_HUD_Auto2.uasset'
+[2022.03.03-15.00.04:331][409]LogFileHelpers: Auto-saving content packages took 0.035
+[2022.03.03-15.07.10:673][131]LogEditorTransaction: Undo Delete current selection
+[2022.03.03-15.07.17:839][546]BlueprintLog: New page: Compile Item_WID_HUD
+[2022.03.03-15.07.17:871][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.03.03-15.08.44:661][519]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-15.08.44:707][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.03.03-15.08.59:240][386]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-15.08.59:281][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.03.03-15.09.09:591][  1]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-15.09.09:635][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.03.03-15.09.37:154][205]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-15.09.37:199][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.03.03-15.12.14:231][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.03.03-15.12.14:336][ 40]LogSavePackage: Moving '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Game_Level_1_Auto316113E9C4834163565CEC2B069242D46.tmp' to '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Levels/Game_Level_1_Auto3.umap'
+[2022.03.03-15.12.14:338][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/KIA_Game/Levels/Game_Level_1' took 0.133
+[2022.03.03-15.12.14:338][ 40]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.133
+[2022.03.03-15.12.14:338][ 40]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger] ([2] browsable assets)...
+[2022.03.03-15.12.14:351][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger.PowerUpTrigger]
+[2022.03.03-15.12.14:352][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger]
+[2022.03.03-15.12.14:369][ 40]LogSavePackage: Moving '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/PowerUpTrigger_Auto391C50DDA40E88C4046F21A9A1B1428F0.tmp' to '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger_Auto3.uasset'
+[2022.03.03-15.12.14:371][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KIA_Game/Game_BP/PowerUp/Item_WID_HUD] ([4] browsable assets)...
+[2022.03.03-15.12.14:371][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/KIA_Game/Game_BP/PowerUp/Item_WID_HUD]
+[2022.03.03-15.12.14:375][ 40]LogSavePackage: Moving '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Item_WID_HUD_Auto3B37AB243496D50DD00419ABAC192C538.tmp' to '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Game_BP/PowerUp/Item_WID_HUD_Auto3.uasset'
+[2022.03.03-15.12.14:376][ 40]LogFileHelpers: Auto-saving content packages took 0.038
+[2022.03.03-15.12.38:686][484]BlueprintLog: New page: Compile Item_WID_HUD
+[2022.03.03-15.12.38:717][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.03.03-15.13.37:142][ 67]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-15.13.37:187][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.03.03-15.14.07:316][101]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.03-15.14.07:324][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.03-15.14.07:324][101]PIE: New page: PIE session: Game_Level_1 (3 mars 2022 à 15:14:07)
+[2022.03.03-15.14.07:326][101]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.03-15.14.07:327][101]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.03-15.14.07:327][101]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.03-15.14.07:349][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021534s)
+[2022.03.03-15.14.07:349][101]LogAIModule: Creating AISystem for world Game_Level_1
+[2022.03.03-15.14.07:350][101]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2022.03.03-15.14.07:350][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/Game_Level_1.Game_Level_1 to /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 (0.022578s)
+[2022.03.03-15.14.07:375][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.03.03-15.14.07:377][101]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.03-15.14.07:377][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.03-15.14.07:377][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.03-15.14.07:377][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.03-15.14.07:377][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.03-15.14.07:377][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.03-15.14.07:377][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.03-15.14.07:377][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.03-15.14.07:377][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.03-15.14.07:377][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.03-15.14.07:377][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.03-15.14.07:377][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.03-15.14.07:377][101]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.03-15.14.07:379][101]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.03-15.14.07:379][101]LogAudioMixer: Display: 1: FrontRight
+[2022.03.03-15.14.07:385][101]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.03-15.14.07:385][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.03-15.14.07:385][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.03-15.14.07:385][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.03-15.14.07:386][101]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.03-15.14.07:386][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.03-15.14.07:386][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.03-15.14.07:387][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.03-15.14.07:387][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.03-15.14.07:387][101]LogInit: FAudioDevice initialized.
+[2022.03.03-15.14.07:387][101]LogAudio: Display: Audio Device (ID: 2) registered with world 'Game_Level_1'.
+[2022.03.03-15.14.07:392][101]LogLoad: Game class is 'RaceGa_C'
+[2022.03.03-15.14.07:397][101]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 up for play (max tick rate 60) at 2022.03.03-15.14.07
+[2022.03.03-15.14.07:397][101]LogWorld: Bringing up level for play took: 0.003394
+[2022.03.03-15.14.07:397][101]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.03.03-15.14.07:403][101]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.03-15.14.07:405][101]Cmd: t.MaxFPS 60
+[2022.03.03-15.14.07:406][101]t.MaxFPS = "60"
+[2022.03.03-15.14.07:406][101]Cmd: t.MaxFPS 60
+[2022.03.03-15.14.07:406][101]t.MaxFPS = "60"
+[2022.03.03-15.14.07:407][101]PIE: Server logged in
+[2022.03.03-15.14.07:408][101]PIE: Play in editor total start time 0,085 seconds.
+[2022.03.03-15.14.11:688][341]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 642.516846
+[2022.03.03-15.14.12:187][371]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1160.771606
+[2022.03.03-15.14.12:688][401]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1559.984253
+[2022.03.03-15.14.13:187][431]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1871.133057
+[2022.03.03-15.14.13:588][455]LogScript: Warning: Accessed None trying to read property ItemHUDRef
+	PowerUpTrigger_C /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1:PersistentLevel.PowerUp_2
+	Function /Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger.PowerUpTrigger_C:ExecuteUbergraph_PowerUpTrigger:00DD
+[2022.03.03-15.14.13:588][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemHUDRef". Blueprint:  PowerUpTrigger Function:  Execute Ubergraph Power Up Trigger Graph:  EventGraph Node:  Get Icon
+[2022.03.03-15.14.13:688][461]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1921.761475
+[2022.03.03-15.14.14:187][491]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1475.033447
+[2022.03.03-15.14.14:687][521]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 923.92804
+[2022.03.03-15.14.15:187][551]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 383.620148
+[2022.03.03-15.14.15:687][581]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 473.595337
+[2022.03.03-15.14.16:187][611]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 919.572876
+[2022.03.03-15.14.16:687][641]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1083.567139
+[2022.03.03-15.14.16:771][646]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] Hello
+[2022.03.03-15.14.17:037][662]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	BP_KartPawnBase_Child_C /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1:PersistentLevel.BP_KartPawnBase_Child_3
+	Function /Game/KIA_Game/template/template_BP/BP_KartPawnBase.BP_KartPawnBase_C:ExecuteUbergraph_BP_KartPawnBase:1395
+[2022.03.03-15.14.17:037][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  BP_KartPawnBase Function:  Execute Ubergraph BP Kart Pawn Base Graph:  EventGraph Node:  Set World Scale 3D
+[2022.03.03-15.14.17:187][671]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1292.047852
+[2022.03.03-15.14.17:687][701]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1481.541626
+[2022.03.03-15.14.18:187][731]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 579.273438
+[2022.03.03-15.14.18:687][761]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 195.134506
+[2022.03.03-15.14.19:187][791]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1012.315186
+[2022.03.03-15.14.19:687][821]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 594.474182
+[2022.03.03-15.14.20:187][851]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 305.171478
+[2022.03.03-15.14.20:688][881]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 137.009399
+[2022.03.03-15.14.21:187][911]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 394.418884
+[2022.03.03-15.14.21:688][941]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 857.399353
+[2022.03.03-15.14.22:188][971]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 62.584126
+[2022.03.03-15.14.22:689][  1]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 668.855225
+[2022.03.03-15.14.23:189][ 31]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 998.537109
+[2022.03.03-15.14.23:688][ 61]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1100.112549
+[2022.03.03-15.14.24:189][ 91]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 934.203613
+[2022.03.03-15.14.24:281][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-15.14.24:281][ 94]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.03-15.14.24:282][ 94]LogWorld: UWorld::CleanupWorld for Game_Level_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.03-15.14.24:282][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-15.14.24:291][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.03-15.14.24:297][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-15.14.24:327][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.03-15.14.24:327][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.03-15.14.24:328][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.03-15.14.24:330][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-15.14.24:364][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.03.03-15.14.24:396][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.03-15.15.44:132][416]LogEditorTransaction: Undo Move Node
+[2022.03.03-15.16.00:761][402]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-15.16.00:816][402]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.03.03-15.16.02:278][487]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.03-15.16.02:284][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.03-15.16.02:284][487]PIE: New page: PIE session: Game_Level_1 (3 mars 2022 à 15:16:02)
+[2022.03.03-15.16.02:285][487]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.03-15.16.02:305][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020813s)
+[2022.03.03-15.16.02:306][487]LogAIModule: Creating AISystem for world Game_Level_1
+[2022.03.03-15.16.02:306][487]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2022.03.03-15.16.02:306][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/Game_Level_1.Game_Level_1 to /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 (0.021718s)
+[2022.03.03-15.16.02:337][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.03.03-15.16.02:338][487]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.03-15.16.02:338][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.03-15.16.02:338][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.03-15.16.02:338][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.03-15.16.02:338][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.03-15.16.02:338][487]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.03-15.16.02:338][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.03-15.16.02:338][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.03-15.16.02:338][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.03-15.16.02:338][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.03-15.16.02:339][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.03-15.16.02:339][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.03-15.16.02:339][487]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.03-15.16.02:340][487]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.03-15.16.02:340][487]LogAudioMixer: Display: 1: FrontRight
+[2022.03.03-15.16.02:346][487]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.03-15.16.02:347][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.03-15.16.02:347][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.03-15.16.02:347][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.03-15.16.02:347][487]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.03-15.16.02:347][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.03-15.16.02:347][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.03-15.16.02:348][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.03-15.16.02:348][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.03-15.16.02:348][487]LogInit: FAudioDevice initialized.
+[2022.03.03-15.16.02:348][487]LogAudio: Display: Audio Device (ID: 3) registered with world 'Game_Level_1'.
+[2022.03.03-15.16.02:357][487]LogLoad: Game class is 'RaceGa_C'
+[2022.03.03-15.16.02:362][487]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 up for play (max tick rate 60) at 2022.03.03-15.16.02
+[2022.03.03-15.16.02:362][487]LogWorld: Bringing up level for play took: 0.003416
+[2022.03.03-15.16.02:362][487]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.03.03-15.16.02:366][487]Cmd: t.MaxFPS 60
+[2022.03.03-15.16.02:367][487]t.MaxFPS = "60"
+[2022.03.03-15.16.02:367][487]Cmd: t.MaxFPS 60
+[2022.03.03-15.16.02:367][487]t.MaxFPS = "60"
+[2022.03.03-15.16.02:368][487]PIE: Server logged in
+[2022.03.03-15.16.02:368][487]PIE: Play in editor total start time 0,085 seconds.
+[2022.03.03-15.16.06:201][715]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 641.899597
+[2022.03.03-15.16.06:702][745]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1159.228516
+[2022.03.03-15.16.07:201][775]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1559.352051
+[2022.03.03-15.16.07:701][805]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1865.311523
+[2022.03.03-15.16.08:201][835]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1650.403809
+[2022.03.03-15.16.08:701][865]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1284.803955
+[2022.03.03-15.16.09:202][895]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 994.289917
+[2022.03.03-15.16.09:702][925]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 650.664307
+[2022.03.03-15.16.10:035][945]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] Hello
+[2022.03.03-15.16.10:202][955]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 327.129517
+[2022.03.03-15.16.10:702][985]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 139.552765
+[2022.03.03-15.16.11:202][ 15]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 691.811035
+[2022.03.03-15.16.11:702][ 45]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 852.609009
+[2022.03.03-15.16.12:202][ 75]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 619.349731
+[2022.03.03-15.16.12:702][105]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 238.580154
+[2022.03.03-15.16.13:202][135]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 542.297058
+[2022.03.03-15.16.13:702][165]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1042.468384
+[2022.03.03-15.16.14:202][195]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1059.990845
+[2022.03.03-15.16.14:701][225]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 97.846199
+[2022.03.03-15.16.15:202][255]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 664.485229
+[2022.03.03-15.16.15:702][285]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1154.83374
+[2022.03.03-15.16.16:202][315]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1395.246338
+[2022.03.03-15.16.16:702][345]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1732.835571
+[2022.03.03-15.16.17:202][375]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1392.63916
+[2022.03.03-15.16.17:702][405]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 815.772522
+[2022.03.03-15.16.18:202][435]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 415.870544
+[2022.03.03-15.16.18:702][465]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 127.019089
+[2022.03.03-15.16.19:202][495]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 343.278503
+[2022.03.03-15.16.19:702][525]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 132.425217
+[2022.03.03-15.16.20:202][555]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 552.151672
+[2022.03.03-15.16.20:702][585]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1016.294983
+[2022.03.03-15.16.21:202][615]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1446.975708
+[2022.03.03-15.16.21:702][645]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1368.410767
+[2022.03.03-15.16.22:202][675]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1057.592285
+[2022.03.03-15.16.22:702][705]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 822.521057
+[2022.03.03-15.16.23:018][724]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] Hello
+[2022.03.03-15.16.23:202][735]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 606.835571
+[2022.03.03-15.16.23:702][765]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 444.480286
+[2022.03.03-15.16.24:202][795]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 872.806702
+[2022.03.03-15.16.24:702][825]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1122.207031
+[2022.03.03-15.16.25:185][854]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	BP_KartPawnBase_Child_C /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1:PersistentLevel.BP_KartPawnBase_Child_3
+	Function /Game/KIA_Game/template/template_BP/BP_KartPawnBase.BP_KartPawnBase_C:ExecuteUbergraph_BP_KartPawnBase:1395
+[2022.03.03-15.16.25:186][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  BP_KartPawnBase Function:  Execute Ubergraph BP Kart Pawn Base Graph:  EventGraph Node:  Set World Scale 3D
+[2022.03.03-15.16.25:202][855]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 123.269402
+[2022.03.03-15.16.25:702][885]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 966.807373
+[2022.03.03-15.16.26:202][915]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 348.354034
+[2022.03.03-15.16.26:702][945]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 163.454865
+[2022.03.03-15.16.27:202][975]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1036.72937
+[2022.03.03-15.16.27:702][  5]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1716.251221
+[2022.03.03-15.16.28:202][ 35]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 428.189606
+[2022.03.03-15.16.28:702][ 65]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 119.65918
+[2022.03.03-15.16.29:202][ 95]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 0.000045
+[2022.03.03-15.16.29:702][125]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 0.000053
+[2022.03.03-15.16.29:811][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-15.16.29:811][129]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.03-15.16.29:811][129]LogWorld: UWorld::CleanupWorld for Game_Level_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.03-15.16.29:812][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-15.16.29:823][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.03-15.16.29:829][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-15.16.29:856][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.03-15.16.29:856][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.03-15.16.29:857][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.03-15.16.29:859][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-15.16.29:865][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.03.03-15.16.29:903][130]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.03.03-15.16.35:190][446]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.03-15.16.35:196][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.03-15.16.35:196][446]PIE: New page: PIE session: Game_Level_1 (3 mars 2022 à 15:16:35)
+[2022.03.03-15.16.35:196][446]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.03-15.16.35:218][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021241s)
+[2022.03.03-15.16.35:218][446]LogAIModule: Creating AISystem for world Game_Level_1
+[2022.03.03-15.16.35:218][446]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2022.03.03-15.16.35:218][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/Game_Level_1.Game_Level_1 to /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 (0.022208s)
+[2022.03.03-15.16.35:248][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.03.03-15.16.35:248][446]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.03-15.16.35:248][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.03-15.16.35:249][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.03-15.16.35:249][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.03-15.16.35:249][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.03-15.16.35:249][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.03-15.16.35:249][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.03-15.16.35:249][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.03-15.16.35:249][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.03-15.16.35:249][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.03-15.16.35:249][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.03-15.16.35:249][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.03-15.16.35:249][446]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.03-15.16.35:251][446]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.03-15.16.35:251][446]LogAudioMixer: Display: 1: FrontRight
+[2022.03.03-15.16.35:257][446]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.03-15.16.35:257][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.03-15.16.35:257][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.03-15.16.35:257][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.03-15.16.35:257][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.03-15.16.35:258][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.03-15.16.35:258][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.03-15.16.35:259][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.03-15.16.35:259][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.03-15.16.35:259][446]LogInit: FAudioDevice initialized.
+[2022.03.03-15.16.35:259][446]LogAudio: Display: Audio Device (ID: 4) registered with world 'Game_Level_1'.
+[2022.03.03-15.16.35:270][446]LogLoad: Game class is 'RaceGa_C'
+[2022.03.03-15.16.35:275][446]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 up for play (max tick rate 60) at 2022.03.03-15.16.35
+[2022.03.03-15.16.35:275][446]LogWorld: Bringing up level for play took: 0.003504
+[2022.03.03-15.16.35:275][446]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.03.03-15.16.35:280][446]Cmd: t.MaxFPS 60
+[2022.03.03-15.16.35:280][446]t.MaxFPS = "60"
+[2022.03.03-15.16.35:280][446]Cmd: t.MaxFPS 60
+[2022.03.03-15.16.35:280][446]t.MaxFPS = "60"
+[2022.03.03-15.16.35:281][446]PIE: Server logged in
+[2022.03.03-15.16.35:282][446]PIE: Play in editor total start time 0,087 seconds.
+[2022.03.03-15.16.38:964][665]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 641.851013
+[2022.03.03-15.16.39:465][695]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1161.402588
+[2022.03.03-15.16.39:964][725]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1565.262939
+[2022.03.03-15.16.40:465][755]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1851.455933
+[2022.03.03-15.16.40:964][785]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2089.880127
+[2022.03.03-15.16.41:464][815]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1609.24231
+[2022.03.03-15.16.41:965][845]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1574.194458
+[2022.03.03-15.16.42:331][867]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] Hello
+[2022.03.03-15.16.42:464][875]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1825.522339
+[2022.03.03-15.16.42:964][905]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1995.645264
+[2022.03.03-15.16.43:465][935]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1789.949829
+[2022.03.03-15.16.43:964][965]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1478.609009
+[2022.03.03-15.16.44:464][995]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 737.900513
+[2022.03.03-15.16.44:964][ 25]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 512.25
+[2022.03.03-15.16.45:464][ 55]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1027.915527
+[2022.03.03-15.16.45:964][ 85]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 694.129761
+[2022.03.03-15.16.46:465][115]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 348.425446
+[2022.03.03-15.16.46:964][145]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 257.724823
+[2022.03.03-15.16.47:464][175]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 498.547699
+[2022.03.03-15.16.47:964][205]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 274.021118
+[2022.03.03-15.16.48:464][235]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 265.278107
+[2022.03.03-15.16.48:964][265]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 27.186626
+[2022.03.03-15.16.49:464][295]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 344.586212
+[2022.03.03-15.16.49:965][325]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 266.536011
+[2022.03.03-15.16.50:464][355]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 207.065445
+[2022.03.03-15.16.50:964][385]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 160.81134
+[2022.03.03-15.16.51:464][415]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 198.033157
+[2022.03.03-15.16.51:969][444]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 788.253357
+[2022.03.03-15.16.52:470][474]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1253.577637
+[2022.03.03-15.16.52:969][504]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1633.802246
+[2022.03.03-15.16.53:469][534]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1826.416504
+[2022.03.03-15.16.53:569][540]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] Hello
+[2022.03.03-15.16.53:970][564]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 3166.259521
+[2022.03.03-15.16.54:469][594]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 4390.45752
+[2022.03.03-15.16.54:969][624]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 4970.918457
+[2022.03.03-15.16.55:470][654]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 4994.453125
+[2022.03.03-15.16.55:969][684]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 4874.664551
+[2022.03.03-15.16.56:470][714]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2658.288574
+[2022.03.03-15.16.56:969][744]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 762.675049
+[2022.03.03-15.16.57:469][774]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 928.028198
+[2022.03.03-15.16.57:969][804]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 857.736267
+[2022.03.03-15.16.58:200][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-15.16.58:200][816]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.03-15.16.58:200][816]LogWorld: UWorld::CleanupWorld for Game_Level_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.03-15.16.58:201][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-15.16.58:207][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.03-15.16.58:213][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-15.16.58:242][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-15.16.58:243][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.03-15.16.58:244][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.03-15.16.58:250][816]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.03.03-15.16.58:272][817]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.03.03-15.17.00:930][972]LogSavePackage: Moving '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Saved/PowerUpTriggerDC35270449D4A13CA45CAC903A676B02.tmp' to '../../../../../../Users/franc/Documents/UnrealProject/RacingGame/KIA_Game_Project/Content/KIA_Game/Game_BP/PowerUp/PowerUpTrigger.uasset'
+[2022.03.03-15.17.00:945][972]AssetCheck: New page: Asset Save: PowerUpTrigger
+[2022.03.03-15.17.00:945][972]LogContentValidation: Display: Validating Blueprint /Game/KIA_Game/Game_BP/PowerUp/PowerUpTrigger.PowerUpTrigger
+[2022.03.03-15.17.28:917][644]BlueprintLog: New page: Compile PowerUpTrigger
+[2022.03.03-15.17.28:968][644]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.03.03-15.17.55:691][240]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KIA_Game/template/template_BP/BP_KartPawnBase_Child.BP_KartPawnBase_Child
+[2022.03.03-15.18.20:251][664]BlueprintLog: New page: Compile BP_KartPawnBase_Child
+[2022.03.03-15.18.20:319][664]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.03.03-15.20.07:340][483]BlueprintLog: New page: Compile BP_KartPawnBase_Child
+[2022.03.03-15.20.07:404][483]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.03.03-15.20.11:094][699]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.03-15.20.11:101][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.03-15.20.11:101][699]PIE: New page: PIE session: Game_Level_1 (3 mars 2022 à 15:20:11)
+[2022.03.03-15.20.11:102][699]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.03-15.20.11:123][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021903s)
+[2022.03.03-15.20.11:124][699]LogAIModule: Creating AISystem for world Game_Level_1
+[2022.03.03-15.20.11:124][699]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2022.03.03-15.20.11:124][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/Game_Level_1.Game_Level_1 to /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 (0.022903s)
+[2022.03.03-15.20.11:159][699]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.03.03-15.20.11:160][699]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.03-15.20.11:160][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.03-15.20.11:160][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.03-15.20.11:160][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.03-15.20.11:160][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.03-15.20.11:160][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.03-15.20.11:160][699]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.03-15.20.11:160][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.03-15.20.11:160][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.03-15.20.11:160][699]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.03-15.20.11:160][699]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.03-15.20.11:160][699]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.03-15.20.11:160][699]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.03-15.20.11:162][699]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.03-15.20.11:162][699]LogAudioMixer: Display: 1: FrontRight
+[2022.03.03-15.20.11:168][699]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.03-15.20.11:168][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.03-15.20.11:168][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.03-15.20.11:168][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.03-15.20.11:169][699]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.03-15.20.11:169][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.03-15.20.11:169][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.03-15.20.11:170][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.03-15.20.11:170][699]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.03-15.20.11:170][699]LogInit: FAudioDevice initialized.
+[2022.03.03-15.20.11:170][699]LogAudio: Display: Audio Device (ID: 5) registered with world 'Game_Level_1'.
+[2022.03.03-15.20.11:180][699]LogLoad: Game class is 'RaceGa_C'
+[2022.03.03-15.20.11:185][699]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 up for play (max tick rate 60) at 2022.03.03-15.20.11
+[2022.03.03-15.20.11:185][699]LogWorld: Bringing up level for play took: 0.003823
+[2022.03.03-15.20.11:185][699]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.03.03-15.20.11:190][699]Cmd: t.MaxFPS 60
+[2022.03.03-15.20.11:190][699]t.MaxFPS = "60"
+[2022.03.03-15.20.11:190][699]Cmd: t.MaxFPS 60
+[2022.03.03-15.20.11:190][699]t.MaxFPS = "60"
+[2022.03.03-15.20.11:191][699]PIE: Server logged in
+[2022.03.03-15.20.11:192][699]PIE: Play in editor total start time 0,092 seconds.
+[2022.03.03-15.20.14:980][924]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 641.883301
+[2022.03.03-15.20.15:480][954]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1161.369873
+[2022.03.03-15.20.15:980][984]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1558.474121
+[2022.03.03-15.20.16:481][ 14]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1870.187744
+[2022.03.03-15.20.16:981][ 44]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1811.1521
+[2022.03.03-15.20.17:481][ 74]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 806.207214
+[2022.03.03-15.20.17:981][104]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 565.819336
+[2022.03.03-15.20.18:481][134]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 878.631348
+[2022.03.03-15.20.18:980][164]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 877.893311
+[2022.03.03-15.20.19:481][194]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 618.580017
+[2022.03.03-15.20.19:981][224]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1025.05603
+[2022.03.03-15.20.20:480][254]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1440.603271
+[2022.03.03-15.20.20:981][284]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1780.301392
+[2022.03.03-15.20.21:197][297]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] Hello
+[2022.03.03-15.20.21:198][297]LogScript: Warning: Accessed None trying to read property ItemHUDRef
+	BP_KartPawnBase_Child_C /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1:PersistentLevel.BP_KartPawnBase_Child_3
+	Function /Game/KIA_Game/template/template_BP/BP_KartPawnBase_Child.BP_KartPawnBase_Child_C:ExecuteUbergraph_BP_KartPawnBase_Child:0081
+[2022.03.03-15.20.21:198][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemHUDRef". Blueprint:  BP_KartPawnBase_Child Function:  Execute Ubergraph BP Kart Pawn Base Child Graph:  EventGraph Node:  Set Visibility
+[2022.03.03-15.20.21:480][314]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2046.819458
+[2022.03.03-15.20.21:981][344]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1645.391113
+[2022.03.03-15.20.22:480][374]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 988.960144
+[2022.03.03-15.20.22:981][404]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 467.960022
+[2022.03.03-15.20.23:481][434]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 532.553223
+[2022.03.03-15.20.23:981][464]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1040.345947
+[2022.03.03-15.20.24:480][494]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1417.311279
+[2022.03.03-15.20.24:981][524]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1675.730469
+[2022.03.03-15.20.25:331][545]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	BP_KartPawnBase_Child_C /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1:PersistentLevel.BP_KartPawnBase_Child_3
+	Function /Game/KIA_Game/template/template_BP/BP_KartPawnBase.BP_KartPawnBase_C:ExecuteUbergraph_BP_KartPawnBase:1395
+[2022.03.03-15.20.25:331][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  BP_KartPawnBase Function:  Execute Ubergraph BP Kart Pawn Base Graph:  EventGraph Node:  Set World Scale 3D
+[2022.03.03-15.20.25:481][554]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1288.473877
+[2022.03.03-15.20.25:981][584]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1406.11499
+[2022.03.03-15.20.26:480][614]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 633.319214
+[2022.03.03-15.20.26:980][644]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 320.306427
+[2022.03.03-15.20.27:481][674]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 531.722778
+[2022.03.03-15.20.27:981][704]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 665.088013
+[2022.03.03-15.20.28:481][734]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 385.948975
+[2022.03.03-15.20.28:981][764]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 361.246552
+[2022.03.03-15.20.29:310][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-15.20.29:310][782]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.03-15.20.29:310][782]LogWorld: UWorld::CleanupWorld for Game_Level_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.03-15.20.29:311][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-15.20.29:325][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.03-15.20.29:331][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-15.20.29:361][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.03-15.20.29:361][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.03-15.20.29:362][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.03-15.20.29:364][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-15.20.29:370][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.03.03-15.20.29:406][783]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.03.03-15.21.09:960][212]BlueprintLog: New page: Compile BP_KartPawnBase_Child
+[2022.03.03-15.21.10:025][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.03.03-15.22.15:625][114]LogBlueprint: Warning: Blueprint BP_KartPawnBase_Child (child of/implements BP_KartPawnBase) has a member variable with a conflicting name (ItemHUDRef). Changing to ItemHUDRef_0.
+[2022.03.03-15.22.15:638][114]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.03.03-15.22.15:694][114]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.055 s
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: 
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: Ensure condition failed: !FBlueprintCompileReinstancer::IsReinstClass(OwnerClass) [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetReinstanceUtilities.cpp] [Line: 1763]
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: OwnerClass should not be 'REINST_'! This means that a REINST class was parented to another REINST class, causing unwanted recursion!
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: Stack: 
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2af448c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2a75bd78 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe286ce3bd UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe286ce501 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe286a4627 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2864c02f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2864bd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2a6d7752 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2a6ebadd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe289bc941 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe28978727 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2bdc40e4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2bda9167 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2bd50448 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2bd2f527 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2bdb1bf6 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2bdb3008 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2bcb1114 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2bb02112 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2bb65087 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe2bb58756 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe7929bcc8 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe792892b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe7929e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe79284410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffecad81c4c USER32.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffecad80ea6 USER32.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffe7929fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ff6e9747621 UE4Editor.exe!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ff6e9760fcc UE4Editor.exe!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ff6e97610ba UE4Editor.exe!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ff6e97640dd UE4Editor.exe!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ff6e9775984 UE4Editor.exe!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ff6e977853a UE4Editor.exe!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffeca2854e0 KERNEL32.DLL!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: [Callstack] 0x00007ffecbb2485b ntdll.dll!UnknownFunction []
+[2022.03.03-15.22.15:694][114]LogOutputDevice: Error: 
