@@ -1878,3 +1878,397 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.11-15.56.46:289][373]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/Minimap_WB5FA457B74AF971DEC3F81CBB93F7732D.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Content/KIA_Game/minimap/Minimap_WB.uasset'
 [2022.03.11-15.56.46:301][373]AssetCheck: New page: Asset Save: Minimap_WB
 [2022.03.11-15.56.46:301][373]LogContentValidation: Display: Validating WidgetBlueprint /Game/KIA_Game/minimap/Minimap_WB.Minimap_WB
+[2022.03.11-16.04.13:944][ 27]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KIA_Game/template/template_BP/BP_KartPawnBase.BP_KartPawnBase
+[2022.03.11-16.04.28:332][831]LogBlueprint: Warning: [AssetLog] C:\Users\franc\Documents\Unreal Projects\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\BP_KartPawnBase.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Respawn  and was replaced as a Custom Event!
+[2022.03.11-16.06.07:736][673]BlueprintLog: New page: Compile BP_KartPawnBase
+[2022.03.11-16.06.07:761][673]LogBlueprint: Warning: [AssetLog] C:\Users\franc\Documents\Unreal Projects\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\BP_KartPawnBase.uasset: [Compiler] Get Input Axis references unknown Axis 'MoveForward' for  Get MoveForward
+[2022.03.11-16.06.07:775][673]LogBlueprint: Warning: [AssetLog] C:\Users\franc\Documents\Unreal Projects\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\BP_KartPawnBase.uasset: [Compiler] Get Input Axis references unknown Axis 'MoveRight' for  Get MoveRight
+[2022.03.11-16.06.07:868][673]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2022.03.11-16.06.43:184][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.03.11-16.06.44:173][ 92]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/LV_racetrack2_Auto3E880A9AD4D1DBF374124D095701FD283.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Levels/LV_racetrack2_Auto3.umap'
+[2022.03.11-16.06.44:175][ 92]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/KIA_Game/Levels/LV_racetrack2' took 1.029
+[2022.03.11-16.06.44:176][ 92]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.029
+[2022.03.11-16.06.44:176][ 92]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/KIA_Game/template/template_BP/BP_KartPawnBase] ([2] browsable assets)...
+[2022.03.11-16.06.44:199][ 92]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/KIA_Game/template/template_BP/BP_KartPawnBase.BP_KartPawnBase]
+[2022.03.11-16.06.44:199][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/KIA_Game/template/template_BP/BP_KartPawnBase]
+[2022.03.11-16.06.44:403][ 92]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/BP_KartPawnBase_Auto381AD6DB349CE769650BB30B482C43C50.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/template/template_BP/BP_KartPawnBase_Auto3.uasset'
+[2022.03.11-16.06.44:405][ 92]LogFileHelpers: Auto-saving content packages took 0.229
+[2022.03.11-16.11.06:766][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.03.11-16.11.07:954][381]LogSlate: Window 'Save Content' being destroyed
+[2022.03.11-16.11.08:176][381]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/BP_KartPawnBaseD38746A14A0E5F210ACB908DAB463D38.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Content/KIA_Game/template/template_BP/BP_KartPawnBase.uasset'
+[2022.03.11-16.11.08:207][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.11-16.11.09:183][381]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/LV_racetrack2EC6530024128635A3B5ACA9FB6BAAFF7.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Content/KIA_Game/Levels/LV_racetrack2.umap'
+[2022.03.11-16.11.09:194][381]LogFileHelpers: Saving map 'LV_racetrack2' took 1.017
+[2022.03.11-16.11.09:536][381]LogAssetEditorSubsystem: Opening Asset editor for World /Game/KIA_Game/Levels/Game_Level_1.Game_Level_1
+[2022.03.11-16.11.09:537][381]Cmd: MAP LOAD FILE="../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Content/KIA_Game/Levels/Game_Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.11-16.11.09:537][381]LightingResults: New page: Lighting Build
+[2022.03.11-16.11.09:537][381]LoadErrors: New page: Loading map: Game_Level_1.umap
+[2022.03.11-16.11.09:584][381]LogWorld: UWorld::CleanupWorld for LV_racetrack2, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-16.11.09:584][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-16.11.09:584][381]MapCheck: New page: Map Check
+[2022.03.11-16.11.09:585][381]LightingResults: New page: Lighting Build
+[2022.03.11-16.11.09:618][381]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-16.11.09:692][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.03.11-16.11.09:707][381]LogAudio: Display: Audio Device (ID: 1) registered with world 'Game_Level_1'.
+[2022.03.11-16.11.09:792][381]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.11-16.11.09:792][381]LogAIModule: Creating AISystem for world Game_Level_1
+[2022.03.11-16.11.09:828][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.03.11-16.11.09:836][381]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.11-16.11.09:836][381]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,129ms to complete.
+[2022.03.11-16.11.09:836][381]LogFileHelpers: Loading map 'Game_Level_1' took 0.299
+[2022.03.11-16.11.09:856][381]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-16.11.09:856][381]LogContentValidation: Display: Validating Blueprint /Game/KIA_Game/template/template_BP/BP_KartPawnBase.BP_KartPawnBase
+[2022.03.11-16.11.09:856][381]LogContentValidation: Display: Validating World /Game/KIA_Game/Levels/LV_racetrack2.LV_racetrack2
+[2022.03.11-16.11.54:987][579]LogActorFactory: Actor Factory created Track1_Mesh
+[2022.03.11-16.11.56:578][674]LogActorFactory: Actor Factory created Track1_Mesh
+[2022.03.11-16.12.27:109][503]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.11-16.12.28:528][587]LogEditorViewport: Clicking on Actor (LMB): SceneCapture2D (SceneCapture2D1)
+[2022.03.11-16.13.01:773][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Track1_Mesh)
+[2022.03.11-16.13.18:420][569]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.11-16.13.19:491][632]LogEditorViewport: Clicking on Actor (LMB): SceneCapture2D (SceneCapture2D1)
+[2022.03.11-16.13.32:944][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Track1_Mesh)
+[2022.03.11-16.13.42:393][996]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.11-16.13.45:049][154]Cmd: EDIT COPY
+[2022.03.11-16.13.51:508][154]LogSlate: Window 'Message' being destroyed
+[2022.03.11-16.13.51:514][154]Message dialog closed, result: No, title: Message, text: Landscape has large number(64) of components, so it will use large amount memory to copy it to the clipboard. Do you want to proceed?
+[2022.03.11-16.14.00:853][709]Cmd: EDIT PASTE
+[2022.03.11-16.14.02:538][810]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.11-16.14.16:563][650]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.11-16.14.17:550][709]Cmd: EDIT COPY
+[2022.03.11-16.14.18:929][709]LogSlate: Window 'Message' being destroyed
+[2022.03.11-16.14.18:935][709]Message dialog closed, result: Yes, title: Message, text: Landscape has large number(64) of components, so it will use large amount memory to copy it to the clipboard. Do you want to proceed?
+[2022.03.11-16.14.34:399][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Track1_Mesh)
+[2022.03.11-16.15.46:574][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Track1_Mesh)
+[2022.03.11-16.15.47:529][994]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.11-16.15.48:781][ 68]Cmd: TRANSACTION UNDO
+[2022.03.11-16.15.48:783][ 68]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.15.50:225][144]Cmd: TRANSACTION UNDO
+[2022.03.11-16.15.50:225][144]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.15.51:610][225]Cmd: TRANSACTION UNDO
+[2022.03.11-16.15.51:610][225]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.15.54:293][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Track1_Mesh)
+[2022.03.11-16.16.01:049][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Track1_Mesh)
+[2022.03.11-16.19.05:342][315]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.03.11-16.19.09:989][315]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.11-16.19.10:091][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.03.11-16.19.10:129][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.03.11-16.19.10:159][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.03.11-16.19.53:581][914]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.03.11-16.20.11:377][962]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.11:377][962]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.11:675][969]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.11:675][969]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.11:883][973]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.11:883][973]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.12:100][980]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.12:101][980]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.12:296][989]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.12:296][989]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.12:496][  1]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.12:496][  1]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.12:674][  9]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.12:674][  9]LogEditorTransaction: Undo Set Location
+[2022.03.11-16.20.12:858][ 20]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.12:858][ 20]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.13:045][ 29]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.13:045][ 29]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.13:245][ 39]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.13:245][ 39]LogEditorTransaction: Undo Edit Ortho Width
+[2022.03.11-16.20.13:479][ 53]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.13:479][ 53]LogEditorTransaction: Undo Edit Ortho Width
+[2022.03.11-16.20.13:679][ 65]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.13:679][ 65]LogEditorTransaction: Undo Edit Ortho Width
+[2022.03.11-16.20.13:879][ 77]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.13:879][ 77]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.14:085][ 87]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.14:085][ 87]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.14:318][101]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.14:318][101]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.14:652][121]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.14:652][121]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.14:885][135]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.14:885][135]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.15:135][150]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.15:135][150]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.15:418][167]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.15:418][167]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.15:669][182]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.15:669][182]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.15:918][197]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.15:918][197]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.16:181][212]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.16:181][212]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.16:458][223]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.16:458][223]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.18:441][342]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.18:441][342]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.19:038][377]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.19:038][377]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.19:773][421]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.19:773][421]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.20:432][458]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.20:433][458]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.21:083][497]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.21:083][497]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.21:799][540]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.21:799][540]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.22:416][577]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.22:416][577]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.23:174][621]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.23:174][621]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.23:807][658]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.23:807][658]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.24:490][699]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.24:490][699]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.25:406][754]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.25:406][754]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.26:214][800]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.26:214][800]LogEditorTransaction: Undo Edit Texture Target
+[2022.03.11-16.20.26:926][842]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.26:926][842]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.27:748][890]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.27:748][890]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-16.20.28:580][939]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.28:580][939]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.29:213][977]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.29:213][977]LogEditorTransaction: Undo Move Actors
+[2022.03.11-16.20.29:864][ 16]Cmd: TRANSACTION UNDO
+[2022.03.11-16.20.29:864][ 16]LogEditorTransaction: Undo Create Actors
+[2022.03.11-16.20.31:923][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.03.11-16.20.32:027][136]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/Game_Level_1DB459E574FBF14E6ADCB879F5A3CB5BA.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Content/KIA_Game/Levels/Game_Level_1.umap'
+[2022.03.11-16.20.32:052][136]AssetCheck: New page: Asset Save: Game_Level_1
+[2022.03.11-16.20.32:052][136]LogContentValidation: Display: Validating World /Game/KIA_Game/Levels/Game_Level_1.Game_Level_1
+[2022.03.11-16.20.37:508][464]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-16.20.37:517][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-16.20.37:517][464]PIE: New page: PIE session: Game_Level_1 (11 mars 2022 à 16:20:37)
+[2022.03.11-16.20.37:558][464]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.11-16.20.37:581][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023352s)
+[2022.03.11-16.20.37:582][464]LogAIModule: Creating AISystem for world Game_Level_1
+[2022.03.11-16.20.37:582][464]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2022.03.11-16.20.37:582][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/Game_Level_1.Game_Level_1 to /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 (0.024298s)
+[2022.03.11-16.20.37:617][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.03.11-16.20.37:618][464]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.11-16.20.37:619][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-16.20.37:619][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-16.20.37:619][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-16.20.37:619][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-16.20.37:619][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-16.20.37:619][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-16.20.37:619][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-16.20.37:619][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-16.20.37:619][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-16.20.37:619][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-16.20.37:619][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-16.20.37:619][464]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-16.20.37:621][464]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-16.20.37:621][464]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-16.20.37:628][464]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.11-16.20.37:628][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-16.20.37:628][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-16.20.37:628][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-16.20.37:629][464]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-16.20.37:629][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-16.20.37:629][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-16.20.37:630][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-16.20.37:630][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-16.20.37:630][464]LogInit: FAudioDevice initialized.
+[2022.03.11-16.20.37:630][464]LogAudio: Display: Audio Device (ID: 9) registered with world 'Game_Level_1'.
+[2022.03.11-16.20.37:635][464]LogLoad: Game class is 'RaceGa_C'
+[2022.03.11-16.20.37:639][464]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysX\src\NpShape.cpp 542) eINVALID_PARAMETER : PxShape::setFlag(s): triangle mesh, heightfield and plane shapes can only be simulation shapes if part of a PxRigidStatic!
+[2022.03.11-16.20.37:639][464]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysX\src\NpShape.cpp 542) eINVALID_PARAMETER : PxShape::setFlag(s): triangle mesh, heightfield and plane shapes can only be simulation shapes if part of a PxRigidStatic!
+[2022.03.11-16.20.37:639][464]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 up for play (max tick rate 60) at 2022.03.11-16.20.37
+[2022.03.11-16.20.37:639][464]LogWorld: Bringing up level for play took: 0.003535
+[2022.03.11-16.20.37:639][464]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.03.11-16.20.37:645][464]Cmd: t.MaxFPS 60
+[2022.03.11-16.20.37:646][464]t.MaxFPS = "60"
+[2022.03.11-16.20.37:646][464]Cmd: t.MaxFPS 60
+[2022.03.11-16.20.37:646][464]t.MaxFPS = "60"
+[2022.03.11-16.20.37:647][464]PIE: Server logged in
+[2022.03.11-16.20.37:647][464]PIE: Play in editor total start time 0,133 seconds.
+[2022.03.11-16.20.41:671][703]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 640.71344
+[2022.03.11-16.20.42:170][733]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1152.7854
+[2022.03.11-16.20.42:671][763]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1551.888062
+[2022.03.11-16.20.43:171][793]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1835.127808
+[2022.03.11-16.20.43:672][823]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2066.409668
+[2022.03.11-16.20.44:171][853]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2215.480469
+[2022.03.11-16.20.44:671][883]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2198.697021
+[2022.03.11-16.20.45:171][913]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2259.854492
+[2022.03.11-16.20.45:670][943]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2400.74707
+[2022.03.11-16.20.45:756][948]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.45:770][949]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.45:788][950]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.45:804][951]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.45:821][952]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.45:837][953]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.45:854][954]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.45:871][955]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.45:888][956]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.45:905][957]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.45:921][958]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.45:938][959]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.20.46:172][973]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 284.237213
+[2022.03.11-16.20.46:671][  3]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 881.628174
+[2022.03.11-16.20.47:181][ 32]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1346.142822
+[2022.03.11-16.20.47:680][ 62]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1707.77478
+[2022.03.11-16.20.48:180][ 92]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1988.696777
+[2022.03.11-16.20.48:680][122]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2199.675537
+[2022.03.11-16.20.49:181][152]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2354.258789
+[2022.03.11-16.20.49:681][182]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2483.296387
+[2022.03.11-16.20.50:181][212]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2563.01416
+[2022.03.11-16.20.50:680][242]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2578.651367
+[2022.03.11-16.20.51:181][272]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2498.0354
+[2022.03.11-16.20.51:681][302]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2545.367676
+[2022.03.11-16.20.52:181][332]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2587.768066
+[2022.03.11-16.20.52:680][362]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2578.52002
+[2022.03.11-16.20.53:180][392]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2594.849609
+[2022.03.11-16.20.53:680][422]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2584.412109
+[2022.03.11-16.20.54:181][452]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2520.739014
+[2022.03.11-16.20.54:681][482]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2502.546387
+[2022.03.11-16.20.55:180][512]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2522.196533
+[2022.03.11-16.20.55:680][542]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2402.937744
+[2022.03.11-16.20.56:180][572]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2306.739014
+[2022.03.11-16.20.56:680][602]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2255.846436
+[2022.03.11-16.20.57:180][632]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2401.22876
+[2022.03.11-16.20.57:681][662]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2520.985107
+[2022.03.11-16.20.58:180][692]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2596.269043
+[2022.03.11-16.20.58:680][722]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2582.145752
+[2022.03.11-16.20.58:778][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-16.20.58:778][725]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.11-16.20.58:779][725]LogWorld: UWorld::CleanupWorld for Game_Level_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-16.20.58:780][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-16.20.58:790][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-16.20.58:797][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-16.20.58:826][725]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-16.20.58:827][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-16.20.58:828][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-16.20.58:829][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-16.20.58:834][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.03.11-16.20.58:883][726]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.03.11-16.21.42:905][363]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-16.21.42:905][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-16.22.07:360][821]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KIA_Game/template/template_BP/BP_KartPawnBase.BP_KartPawnBase
+[2022.03.11-16.22.27:398][991]BlueprintLog: New page: Compile BP_KartPawnBase
+[2022.03.11-16.22.27:427][991]LogBlueprint: Warning: [AssetLog] C:\Users\franc\Documents\Unreal Projects\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\BP_KartPawnBase.uasset: [Compiler] Get Input Axis references unknown Axis 'MoveForward' for  Get MoveForward
+[2022.03.11-16.22.27:441][991]LogBlueprint: Warning: [AssetLog] C:\Users\franc\Documents\Unreal Projects\RacingGame\KIA_Game_Project\Content\KIA_Game\template\template_BP\BP_KartPawnBase.uasset: [Compiler] Get Input Axis references unknown Axis 'MoveRight' for  Get MoveRight
+[2022.03.11-16.22.27:544][991]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.03.11-16.22.30:269][138]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-16.22.30:276][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-16.22.30:276][138]PIE: New page: PIE session: Game_Level_1 (11 mars 2022 à 16:22:30)
+[2022.03.11-16.22.30:326][138]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.11-16.22.30:349][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022810s)
+[2022.03.11-16.22.30:349][138]LogAIModule: Creating AISystem for world Game_Level_1
+[2022.03.11-16.22.30:349][138]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2022.03.11-16.22.30:349][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/Game_Level_1.Game_Level_1 to /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 (0.023796s)
+[2022.03.11-16.22.30:385][138]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.03.11-16.22.30:387][138]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.03.11-16.22.30:387][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-16.22.30:387][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-16.22.30:387][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-16.22.30:387][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-16.22.30:387][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-16.22.30:387][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-16.22.30:387][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-16.22.30:387][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-16.22.30:387][138]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-16.22.30:387][138]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-16.22.30:387][138]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-16.22.30:387][138]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-16.22.30:389][138]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-16.22.30:389][138]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-16.22.30:395][138]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.11-16.22.30:395][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-16.22.30:395][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-16.22.30:395][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-16.22.30:396][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-16.22.30:396][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-16.22.30:396][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-16.22.30:397][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-16.22.30:397][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-16.22.30:397][138]LogInit: FAudioDevice initialized.
+[2022.03.11-16.22.30:397][138]LogAudio: Display: Audio Device (ID: 10) registered with world 'Game_Level_1'.
+[2022.03.11-16.22.30:404][138]LogLoad: Game class is 'RaceGa_C'
+[2022.03.11-16.22.30:408][138]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysX\src\NpShape.cpp 542) eINVALID_PARAMETER : PxShape::setFlag(s): triangle mesh, heightfield and plane shapes can only be simulation shapes if part of a PxRigidStatic!
+[2022.03.11-16.22.30:408][138]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysX\src\NpShape.cpp 542) eINVALID_PARAMETER : PxShape::setFlag(s): triangle mesh, heightfield and plane shapes can only be simulation shapes if part of a PxRigidStatic!
+[2022.03.11-16.22.30:408][138]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1.Game_Level_1 up for play (max tick rate 60) at 2022.03.11-16.22.30
+[2022.03.11-16.22.30:408][138]LogWorld: Bringing up level for play took: 0.003351
+[2022.03.11-16.22.30:408][138]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.03.11-16.22.30:412][138]Cmd: t.MaxFPS 60
+[2022.03.11-16.22.30:413][138]t.MaxFPS = "60"
+[2022.03.11-16.22.30:413][138]Cmd: t.MaxFPS 60
+[2022.03.11-16.22.30:413][138]t.MaxFPS = "60"
+[2022.03.11-16.22.30:414][138]PIE: Server logged in
+[2022.03.11-16.22.30:414][138]PIE: Play in editor total start time 0,14 seconds.
+[2022.03.11-16.22.34:269][367]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 638.996582
+[2022.03.11-16.22.34:769][397]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1151.280029
+[2022.03.11-16.22.35:270][427]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1549.282715
+[2022.03.11-16.22.35:769][457]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1855.681519
+[2022.03.11-16.22.36:270][487]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2060.869141
+[2022.03.11-16.22.36:770][517]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2142.351318
+[2022.03.11-16.22.37:270][547]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2306.567139
+[2022.03.11-16.22.37:770][577]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2378.590088
+[2022.03.11-16.22.38:220][604]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:237][605]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:252][606]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:269][607]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:270][607]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2449.793213
+[2022.03.11-16.22.38:286][608]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:303][609]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:319][610]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:336][611]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:353][612]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:370][613]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:386][614]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:403][615]PIE: Warning: BP_KartPawnBase_Child_3.Kart_Collision has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2022.03.11-16.22.38:769][637]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 458.476868
+[2022.03.11-16.22.39:270][667]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1017.184021
+[2022.03.11-16.22.39:769][697]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1451.853882
+[2022.03.11-16.22.40:269][727]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1769.348877
+[2022.03.11-16.22.40:770][757]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1974.768555
+[2022.03.11-16.22.41:270][787]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2120.447021
+[2022.03.11-16.22.41:770][817]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2264.673096
+[2022.03.11-16.22.42:269][847]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2386.756592
+[2022.03.11-16.22.42:769][877]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2513.013428
+[2022.03.11-16.22.43:269][907]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2591.022217
+[2022.03.11-16.22.43:769][937]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2587.790527
+[2022.03.11-16.22.44:269][967]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2585.25293
+[2022.03.11-16.22.44:769][997]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2593.401123
+[2022.03.11-16.22.45:269][ 27]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2486.522461
+[2022.03.11-16.22.45:770][ 57]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2375.737061
+[2022.03.11-16.22.46:270][ 87]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2413.460449
+[2022.03.11-16.22.46:769][117]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2396.040039
+[2022.03.11-16.22.47:269][147]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2435.735352
+[2022.03.11-16.22.47:770][177]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2351.54834
+[2022.03.11-16.22.48:270][207]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2462.246338
+[2022.03.11-16.22.48:770][237]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2474.404785
+[2022.03.11-16.22.49:270][267]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2397.583008
+[2022.03.11-16.22.49:770][297]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2501.813965
+[2022.03.11-16.22.50:270][327]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2597.553955
+[2022.03.11-16.22.50:770][357]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2567.888428
+[2022.03.11-16.22.51:270][387]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2585.153809
+[2022.03.11-16.22.51:770][417]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2579.979004
+[2022.03.11-16.22.52:270][447]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2537.469727
+[2022.03.11-16.22.52:770][477]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2572.915771
+[2022.03.11-16.22.53:168][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-16.22.53:168][499]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_Game_Level_1
+[2022.03.11-16.22.53:169][499]LogWorld: UWorld::CleanupWorld for Game_Level_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-16.22.53:169][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-16.22.53:180][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-16.22.53:186][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-16.22.53:217][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-16.22.53:217][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-16.22.53:218][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-16.22.53:220][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-16.22.53:227][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.03.11-16.22.53:267][500]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.03.11-16.22.57:608][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.03.11-16.22.57:659][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.03.11-16.22.57:760][758]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/Game_Level_121A5502348E6DB3751BA978BF8064144.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Content/KIA_Game/Levels/Game_Level_1.umap'
+[2022.03.11-16.22.57:768][758]LogFileHelpers: Saving map 'Game_Level_1' took 0.139
+[2022.03.11-16.22.57:970][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.03.11-16.22.59:089][758]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/LV_racetrack21AE664844BA2C8A959671182F51394DA.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Content/KIA_Game/Levels/LV_racetrack2.umap'
+[2022.03.11-16.22.59:149][758]LogFileHelpers: Saving map 'LV_racetrack2' took 1.382
+[2022.03.11-16.22.59:365][758]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/BP_KartPawnBaseDA34032F42A72DE30FD21B8A16BF0A84.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Content/KIA_Game/template/template_BP/BP_KartPawnBase.uasset'
+[2022.03.11-16.22.59:391][758]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-16.22.59:391][758]LogContentValidation: Display: Validating Blueprint /Game/KIA_Game/template/template_BP/BP_KartPawnBase.BP_KartPawnBase
+[2022.03.11-16.22.59:391][758]LogContentValidation: Display: Validating World /Game/KIA_Game/Levels/LV_racetrack2.LV_racetrack2
+[2022.03.11-16.22.59:391][758]LogContentValidation: Display: Validating World /Game/KIA_Game/Levels/Game_Level_1.Game_Level_1
