@@ -1433,3 +1433,448 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.11-15.23.30:426][469]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/SlowDownZone3261F5BE47FB4577D2B397A4BCD57EBB.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Content/KIA_Game/Game_BP/SlowDown/SlowDownZone.uasset'
 [2022.03.11-15.23.30:438][469]AssetCheck: New page: Asset Save: SlowDownZone
 [2022.03.11-15.23.30:438][469]LogContentValidation: Display: Validating Blueprint /Game/KIA_Game/Game_BP/SlowDown/SlowDownZone.SlowDownZone
+[2022.03.11-15.25.33:815][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (End_House_Right_Mesh22)
+[2022.03.11-15.25.35:134][997]LogEditorViewport: Clicking on Actor (LMB): SceneCapture2D (SceneCapture2D1)
+[2022.03.11-15.29.06:681][177]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/KIA_Game/minimap/Minimap_WB.Minimap_WB
+[2022.03.11-15.34.31:089][559]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2022.03.11-15.34.32:038][559]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/LV_racetrack2_Auto152633C9340E95D8B995CB580AE59B448.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Levels/LV_racetrack2_Auto1.umap'
+[2022.03.11-15.34.32:040][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/KIA_Game/Levels/LV_racetrack2' took 1.011
+[2022.03.11-15.34.32:040][559]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.011
+[2022.03.11-15.38.28:089][832]BlueprintLog: New page: Compile Minimap_WB
+[2022.03.11-15.38.28:137][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.03.11-15.39.48:753][551]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.03.11-15.39.50:732][657]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.03.11-15.39.50:736][657]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.03.11-15.41.32:918][552]LogContentBrowser: Attempting asset rename: LV_racetrack2 -> LV_racetrack2
+[2022.03.11-15.42.14:068][  4]BlueprintLog: New page: Compile Minimap_WB
+[2022.03.11-15.42.14:107][  4]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.03.11-15.42.17:152][166]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-15.42.17:162][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-15.42.17:162][166]PIE: New page: PIE session: LV_racetrack2 (11 mars 2022 à 15:42:17)
+[2022.03.11-15.42.17:162][166]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.42.17:290][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127553s)
+[2022.03.11-15.42.17:291][166]LogAIModule: Creating AISystem for world LV_racetrack2
+[2022.03.11-15.42.17:291][166]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2022.03.11-15.42.17:291][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/LV_racetrack2.LV_racetrack2 to /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 (0.128657s)
+[2022.03.11-15.42.17:320][166]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2022.03.11-15.42.17:321][166]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.11-15.42.17:321][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.42.17:321][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.42.17:321][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.42.17:321][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.42.17:321][166]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.42.17:321][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.42.17:321][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.42.17:321][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.42.17:321][166]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.42.17:321][166]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.42.17:321][166]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.42.17:321][166]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.42.17:323][166]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.42.17:323][166]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.42.17:330][166]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.11-15.42.17:331][166]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.42.17:331][166]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.42.17:331][166]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.42.17:331][166]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.42.17:331][166]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.42.17:331][166]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.42.17:332][166]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.42.17:332][166]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.42.17:332][166]LogInit: FAudioDevice initialized.
+[2022.03.11-15.42.17:332][166]LogAudio: Display: Audio Device (ID: 3) registered with world 'LV_racetrack2'.
+[2022.03.11-15.42.17:341][166]LogLoad: Game class is 'RaceGa_C'
+[2022.03.11-15.42.17:526][166]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysX\src\NpShape.cpp 542) eINVALID_PARAMETER : PxShape::setFlag(s): triangle mesh, heightfield and plane shapes can only be simulation shapes if part of a PxRigidStatic!
+[2022.03.11-15.42.17:527][166]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 up for play (max tick rate 60) at 2022.03.11-15.42.17
+[2022.03.11-15.42.17:528][166]LogWorld: Bringing up level for play took: 0.186858
+[2022.03.11-15.42.17:528][166]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.03.11-15.42.17:535][166]Cmd: t.MaxFPS 60
+[2022.03.11-15.42.17:535][166]t.MaxFPS = "60"
+[2022.03.11-15.42.17:536][166]PIE: Server logged in
+[2022.03.11-15.42.17:537][166]PIE: Play in editor total start time 0,377 seconds.
+[2022.03.11-15.42.20:089][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.42.20:089][312]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.42.20:090][312]LogWorld: UWorld::CleanupWorld for LV_racetrack2, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.42.20:095][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.42.20:109][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-15.42.20:150][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.42.20:178][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-15.42.20:178][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.42.20:179][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.42.20:181][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.42.20:195][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.03.11-15.42.20:238][313]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.03.11-15.43.36:807][855]BlueprintLog: New page: Compile Minimap_WB
+[2022.03.11-15.43.36:841][855]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.03.11-15.45.29:230][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.03.11-15.45.30:210][173]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/LV_racetrack2_Auto2683439274E51FD2D88714A84090FD011.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/Levels/LV_racetrack2_Auto2.umap'
+[2022.03.11-15.45.30:212][173]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/KIA_Game/Levels/LV_racetrack2' took 1.013
+[2022.03.11-15.45.30:212][173]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.013
+[2022.03.11-15.45.30:213][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KIA_Game/minimap/Minimap_WB] ([2] browsable assets)...
+[2022.03.11-15.45.30:213][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/KIA_Game/minimap/Minimap_WB]
+[2022.03.11-15.45.30:226][173]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/Minimap_WB_Auto2926183C744818835C11C3FBD403CA05D.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/Autosaves/Game/KIA_Game/minimap/Minimap_WB_Auto2.uasset'
+[2022.03.11-15.45.30:228][173]LogFileHelpers: Auto-saving content packages took 0.016
+[2022.03.11-15.51.00:740][310]BlueprintLog: New page: Compile Minimap_WB
+[2022.03.11-15.51.00:777][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2022.03.11-15.51.13:952][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-15.51.13:960][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-15.51.13:960][ 27]PIE: New page: PIE session: LV_racetrack2 (11 mars 2022 à 15:51:13)
+[2022.03.11-15.51.13:960][ 27]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.51.14:091][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131006s)
+[2022.03.11-15.51.14:091][ 27]LogAIModule: Creating AISystem for world LV_racetrack2
+[2022.03.11-15.51.14:092][ 27]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2022.03.11-15.51.14:092][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/LV_racetrack2.LV_racetrack2 to /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 (0.132091s)
+[2022.03.11-15.51.14:122][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.03.11-15.51.14:124][ 27]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.11-15.51.14:125][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.51.14:125][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.51.14:125][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.51.14:125][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.51.14:125][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.51.14:125][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.51.14:125][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.51.14:125][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.51.14:125][ 27]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.51.14:125][ 27]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.51.14:125][ 27]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.51.14:125][ 27]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.51.14:127][ 27]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.51.14:127][ 27]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.51.14:134][ 27]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.11-15.51.14:134][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.51.14:134][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.51.14:134][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.51.14:135][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.51.14:135][ 27]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.51.14:135][ 27]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.51.14:136][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.51.14:136][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.51.14:136][ 27]LogInit: FAudioDevice initialized.
+[2022.03.11-15.51.14:136][ 27]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV_racetrack2'.
+[2022.03.11-15.51.14:143][ 27]LogLoad: Game class is 'RaceGa_C'
+[2022.03.11-15.51.14:332][ 27]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysX\src\NpShape.cpp 542) eINVALID_PARAMETER : PxShape::setFlag(s): triangle mesh, heightfield and plane shapes can only be simulation shapes if part of a PxRigidStatic!
+[2022.03.11-15.51.14:332][ 27]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 up for play (max tick rate 60) at 2022.03.11-15.51.14
+[2022.03.11-15.51.14:334][ 27]LogWorld: Bringing up level for play took: 0.190674
+[2022.03.11-15.51.14:334][ 27]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.03.11-15.51.14:340][ 27]Cmd: t.MaxFPS 60
+[2022.03.11-15.51.14:340][ 27]t.MaxFPS = "60"
+[2022.03.11-15.51.14:341][ 27]PIE: Server logged in
+[2022.03.11-15.51.14:342][ 27]PIE: Play in editor total start time 0,384 seconds.
+[2022.03.11-15.51.18:500][270]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 643.345459
+[2022.03.11-15.51.19:007][299]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1155.476807
+[2022.03.11-15.51.19:511][326]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1446.463989
+[2022.03.11-15.51.20:024][355]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1765.52124
+[2022.03.11-15.51.20:524][382]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1974.314331
+[2022.03.11-15.51.21:029][410]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2143.358887
+[2022.03.11-15.51.21:539][440]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2318.931641
+[2022.03.11-15.51.22:044][469]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2414.625488
+[2022.03.11-15.51.22:550][496]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2529.470947
+[2022.03.11-15.51.23:058][522]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2598.501709
+[2022.03.11-15.51.23:575][548]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2600.99707
+[2022.03.11-15.51.24:087][574]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2593.983887
+[2022.03.11-15.51.24:599][600]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2491.064209
+[2022.03.11-15.51.25:112][625]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2308.204834
+[2022.03.11-15.51.25:627][649]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1890.55542
+[2022.03.11-15.51.26:128][672]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1756.706909
+[2022.03.11-15.51.26:646][696]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1992.655396
+[2022.03.11-15.51.27:148][720]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2204.477295
+[2022.03.11-15.51.27:519][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.51.27:519][736]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.51.27:520][736]LogWorld: UWorld::CleanupWorld for LV_racetrack2, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.51.27:525][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.51.27:537][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-15.51.27:587][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.51.27:615][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.51.27:616][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.51.27:617][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.51.27:627][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.03.11-15.51.27:672][737]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.03.11-15.51.47:926][869]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-15.51.47:934][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-15.51.47:934][869]PIE: New page: PIE session: LV_racetrack2 (11 mars 2022 à 15:51:47)
+[2022.03.11-15.51.47:934][869]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.51.48:064][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129159s)
+[2022.03.11-15.51.48:064][869]LogAIModule: Creating AISystem for world LV_racetrack2
+[2022.03.11-15.51.48:064][869]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2022.03.11-15.51.48:065][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/LV_racetrack2.LV_racetrack2 to /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 (0.130240s)
+[2022.03.11-15.51.48:095][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.03.11-15.51.48:097][869]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.11-15.51.48:097][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.51.48:097][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.51.48:097][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.51.48:097][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.51.48:098][869]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.51.48:098][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.51.48:098][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.51.48:098][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.51.48:098][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.51.48:098][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.51.48:098][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.51.48:098][869]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.51.48:100][869]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.51.48:100][869]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.51.48:106][869]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.11-15.51.48:106][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.51.48:106][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.51.48:106][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.51.48:107][869]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.51.48:107][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.51.48:107][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.51.48:108][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.51.48:108][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.51.48:108][869]LogInit: FAudioDevice initialized.
+[2022.03.11-15.51.48:108][869]LogAudio: Display: Audio Device (ID: 5) registered with world 'LV_racetrack2'.
+[2022.03.11-15.51.48:114][869]LogLoad: Game class is 'RaceGa_C'
+[2022.03.11-15.51.48:301][869]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysX\src\NpShape.cpp 542) eINVALID_PARAMETER : PxShape::setFlag(s): triangle mesh, heightfield and plane shapes can only be simulation shapes if part of a PxRigidStatic!
+[2022.03.11-15.51.48:301][869]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 up for play (max tick rate 60) at 2022.03.11-15.51.48
+[2022.03.11-15.51.48:302][869]LogWorld: Bringing up level for play took: 0.186801
+[2022.03.11-15.51.48:303][869]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.11-15.51.48:308][869]Cmd: t.MaxFPS 60
+[2022.03.11-15.51.48:308][869]t.MaxFPS = "60"
+[2022.03.11-15.51.48:309][869]PIE: Server logged in
+[2022.03.11-15.51.48:309][869]PIE: Play in editor total start time 0,376 seconds.
+[2022.03.11-15.51.52:738][122]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 0.0
+[2022.03.11-15.51.53:253][152]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 0.0
+[2022.03.11-15.51.53:757][181]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 307.047302
+[2022.03.11-15.51.54:263][210]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 897.737976
+[2022.03.11-15.51.54:773][239]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 959.80426
+[2022.03.11-15.51.55:283][268]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 738.102783
+[2022.03.11-15.51.55:785][297]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 572.685364
+[2022.03.11-15.51.56:088][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.51.56:088][313]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.51.56:089][313]LogWorld: UWorld::CleanupWorld for LV_racetrack2, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.51.56:094][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.51.56:105][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-15.51.56:143][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.51.56:174][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-15.51.56:174][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.51.56:175][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.51.56:177][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.51.56:184][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.03.11-15.51.56:229][314]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.11-15.52.02:939][676]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-15.52.02:947][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-15.52.02:948][676]PIE: New page: PIE session: LV_racetrack2 (11 mars 2022 à 15:52:02)
+[2022.03.11-15.52.02:948][676]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.52.03:082][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.134514s)
+[2022.03.11-15.52.03:083][676]LogAIModule: Creating AISystem for world LV_racetrack2
+[2022.03.11-15.52.03:083][676]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2022.03.11-15.52.03:083][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/LV_racetrack2.LV_racetrack2 to /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 (0.135548s)
+[2022.03.11-15.52.03:113][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.03.11-15.52.03:116][676]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.11-15.52.03:116][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.52.03:116][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.52.03:116][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.52.03:116][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.52.03:116][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.52.03:116][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.52.03:116][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.52.03:116][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.52.03:116][676]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.52.03:116][676]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.52.03:116][676]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.52.03:116][676]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.52.03:118][676]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.52.03:118][676]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.52.03:124][676]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.11-15.52.03:125][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.52.03:125][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.52.03:125][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.52.03:125][676]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.52.03:125][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.52.03:125][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.52.03:126][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.52.03:126][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.52.03:126][676]LogInit: FAudioDevice initialized.
+[2022.03.11-15.52.03:126][676]LogAudio: Display: Audio Device (ID: 6) registered with world 'LV_racetrack2'.
+[2022.03.11-15.52.03:136][676]LogLoad: Game class is 'RaceGa_C'
+[2022.03.11-15.52.03:324][676]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysX\src\NpShape.cpp 542) eINVALID_PARAMETER : PxShape::setFlag(s): triangle mesh, heightfield and plane shapes can only be simulation shapes if part of a PxRigidStatic!
+[2022.03.11-15.52.03:324][676]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 up for play (max tick rate 60) at 2022.03.11-15.52.03
+[2022.03.11-15.52.03:325][676]LogWorld: Bringing up level for play took: 0.188209
+[2022.03.11-15.52.03:325][676]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.11-15.52.03:330][676]Cmd: t.MaxFPS 60
+[2022.03.11-15.52.03:330][676]t.MaxFPS = "60"
+[2022.03.11-15.52.03:331][676]PIE: Server logged in
+[2022.03.11-15.52.03:332][676]PIE: Play in editor total start time 0,386 seconds.
+[2022.03.11-15.52.07:019][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.52.07:019][884]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.52.07:019][884]LogWorld: UWorld::CleanupWorld for LV_racetrack2, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.52.07:024][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.52.07:034][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-15.52.07:077][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.52.07:102][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.52.07:104][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.52.07:105][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.52.07:122][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.03.11-15.52.07:167][885]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.11-15.52.08:795][964]LogSlate: Window 'Minimap_WB' being destroyed
+[2022.03.11-15.52.56:176][803]BlueprintLog: New page: Compile Minimap_WB
+[2022.03.11-15.52.56:211][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.03.11-15.52.57:829][882]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-15.52.57:837][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-15.52.57:837][882]PIE: New page: PIE session: LV_racetrack2 (11 mars 2022 à 15:52:57)
+[2022.03.11-15.52.57:837][882]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.52.57:965][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128216s)
+[2022.03.11-15.52.57:966][882]LogAIModule: Creating AISystem for world LV_racetrack2
+[2022.03.11-15.52.57:966][882]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2022.03.11-15.52.57:966][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/LV_racetrack2.LV_racetrack2 to /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 (0.129288s)
+[2022.03.11-15.52.57:996][882]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.03.11-15.52.57:997][882]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.11-15.52.57:997][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.52.57:997][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.52.57:997][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.52.57:997][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.52.57:997][882]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.52.57:997][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.52.57:997][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.52.57:997][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.52.57:997][882]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.52.57:997][882]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.52.57:997][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.52.57:997][882]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.52.57:999][882]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.52.57:999][882]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.52.58:005][882]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.11-15.52.58:006][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.52.58:006][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.52.58:006][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.52.58:006][882]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.52.58:006][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.52.58:006][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.52.58:007][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.52.58:007][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.52.58:007][882]LogInit: FAudioDevice initialized.
+[2022.03.11-15.52.58:007][882]LogAudio: Display: Audio Device (ID: 7) registered with world 'LV_racetrack2'.
+[2022.03.11-15.52.58:016][882]LogLoad: Game class is 'RaceGa_C'
+[2022.03.11-15.52.58:201][882]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysX\src\NpShape.cpp 542) eINVALID_PARAMETER : PxShape::setFlag(s): triangle mesh, heightfield and plane shapes can only be simulation shapes if part of a PxRigidStatic!
+[2022.03.11-15.52.58:201][882]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 up for play (max tick rate 60) at 2022.03.11-15.52.58
+[2022.03.11-15.52.58:203][882]LogWorld: Bringing up level for play took: 0.185863
+[2022.03.11-15.52.58:203][882]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.11-15.52.58:208][882]Cmd: t.MaxFPS 60
+[2022.03.11-15.52.58:208][882]t.MaxFPS = "60"
+[2022.03.11-15.52.58:209][882]PIE: Server logged in
+[2022.03.11-15.52.58:210][882]PIE: Play in editor total start time 0,375 seconds.
+[2022.03.11-15.53.02:297][122]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 653.290527
+[2022.03.11-15.53.02:812][152]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1168.43811
+[2022.03.11-15.53.03:320][181]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1562.943359
+[2022.03.11-15.53.03:831][210]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1851.694092
+[2022.03.11-15.53.04:342][238]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2082.616211
+[2022.03.11-15.53.04:855][268]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2266.189941
+[2022.03.11-15.53.05:367][298]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2423.761963
+[2022.03.11-15.53.05:884][327]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2522.668945
+[2022.03.11-15.53.06:400][355]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1982.737183
+[2022.03.11-15.53.06:758][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.53.06:758][371]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.53.06:759][371]LogWorld: UWorld::CleanupWorld for LV_racetrack2, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.53.06:764][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.53.06:774][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-15.53.06:814][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.53.06:842][371]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-15.53.06:844][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.53.06:846][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.53.06:847][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.53.06:860][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.03.11-15.53.06:902][372]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.11-15.56.07:413][388]BlueprintLog: New page: Compile Minimap_WB
+[2022.03.11-15.56.07:449][388]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.03.11-15.56.09:857][520]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-15.56.09:865][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-15.56.09:865][520]PIE: New page: PIE session: LV_racetrack2 (11 mars 2022 à 15:56:09)
+[2022.03.11-15.56.09:866][520]LogPlayLevel: Creating play world package: /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.56.09:994][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128016s)
+[2022.03.11-15.56.09:994][520]LogAIModule: Creating AISystem for world LV_racetrack2
+[2022.03.11-15.56.09:995][520]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2022.03.11-15.56.09:995][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KIA_Game/Levels/LV_racetrack2.LV_racetrack2 to /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 (0.129083s)
+[2022.03.11-15.56.10:025][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.03.11-15.56.10:026][520]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.11-15.56.10:026][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.56.10:026][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.56.10:026][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.56.10:026][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.56.10:026][520]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.56.10:026][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.56.10:026][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.56.10:026][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.56.10:026][520]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.56.10:026][520]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.56.10:026][520]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.56.10:026][520]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.56.10:029][520]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.56.10:029][520]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.56.10:035][520]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2022.03.11-15.56.10:036][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.56.10:036][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.56.10:036][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.56.10:036][520]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.56.10:036][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.56.10:036][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.56.10:037][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.56.10:037][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.56.10:037][520]LogInit: FAudioDevice initialized.
+[2022.03.11-15.56.10:037][520]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV_racetrack2'.
+[2022.03.11-15.56.10:046][520]LogLoad: Game class is 'RaceGa_C'
+[2022.03.11-15.56.10:230][520]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysX\src\NpShape.cpp 542) eINVALID_PARAMETER : PxShape::setFlag(s): triangle mesh, heightfield and plane shapes can only be simulation shapes if part of a PxRigidStatic!
+[2022.03.11-15.56.10:231][520]LogWorld: Bringing World /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2.LV_racetrack2 up for play (max tick rate 60) at 2022.03.11-15.56.10
+[2022.03.11-15.56.10:232][520]LogWorld: Bringing up level for play took: 0.186314
+[2022.03.11-15.56.10:232][520]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.11-15.56.10:239][520]Cmd: t.MaxFPS 60
+[2022.03.11-15.56.10:239][520]t.MaxFPS = "60"
+[2022.03.11-15.56.10:240][520]PIE: Server logged in
+[2022.03.11-15.56.10:241][520]PIE: Play in editor total start time 0,378 seconds.
+[2022.03.11-15.56.14:186][750]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 654.397034
+[2022.03.11-15.56.14:687][779]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1139.837891
+[2022.03.11-15.56.15:204][809]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1498.404541
+[2022.03.11-15.56.15:719][838]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1719.672729
+[2022.03.11-15.56.16:223][866]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1972.4823
+[2022.03.11-15.56.16:733][894]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2114.166992
+[2022.03.11-15.56.17:234][923]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2268.726318
+[2022.03.11-15.56.17:738][952]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2389.36499
+[2022.03.11-15.56.18:250][980]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2514.677979
+[2022.03.11-15.56.18:760][  6]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2586.029297
+[2022.03.11-15.56.19:279][ 32]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2569.045166
+[2022.03.11-15.56.19:783][ 57]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2574.328125
+[2022.03.11-15.56.20:289][ 82]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 267.975159
+[2022.03.11-15.56.20:791][105]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 599.016541
+[2022.03.11-15.56.21:296][128]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1083.380493
+[2022.03.11-15.56.21:814][152]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 368.60498
+[2022.03.11-15.56.22:320][176]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 91.507019
+[2022.03.11-15.56.22:824][200]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 261.042664
+[2022.03.11-15.56.23:334][225]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 520.985352
+[2022.03.11-15.56.23:835][251]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 329.534058
+[2022.03.11-15.56.24:349][280]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 921.123779
+[2022.03.11-15.56.24:861][309]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1295.073242
+[2022.03.11-15.56.25:364][337]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1537.464966
+[2022.03.11-15.56.25:864][363]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1820.43103
+[2022.03.11-15.56.26:370][389]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1966.883911
+[2022.03.11-15.56.26:875][414]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2022.606567
+[2022.03.11-15.56.27:390][439]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 1947.549438
+[2022.03.11-15.56.27:899][465]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2119.930176
+[2022.03.11-15.56.28:403][491]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2293.313965
+[2022.03.11-15.56.28:915][518]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2345.394531
+[2022.03.11-15.56.29:424][546]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2392.61792
+[2022.03.11-15.56.29:931][573]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2374.835205
+[2022.03.11-15.56.30:437][599]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2307.077148
+[2022.03.11-15.56.30:946][626]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2381.629395
+[2022.03.11-15.56.31:452][651]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2424.940918
+[2022.03.11-15.56.31:959][676]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2778.638428
+[2022.03.11-15.56.32:471][702]LogBlueprintUserMessages: [BP_KartPawnBase_Child_3] 2150.779053
+[2022.03.11-15.56.32:508][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.56.32:508][702]LogWorld: BeginTearingDown for /Game/KIA_Game/Levels/UEDPIE_0_LV_racetrack2
+[2022.03.11-15.56.32:509][702]LogWorld: UWorld::CleanupWorld for LV_racetrack2, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.56.32:515][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.56.32:528][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-15.56.32:574][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.56.32:600][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-15.56.32:604][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.56.32:605][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.56.32:607][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.56.32:620][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.03.11-15.56.32:666][703]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.11-15.56.42:955][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.03.11-15.56.43:940][266]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/LV_racetrack2BF330041460B8E445FEE01AF42418FAE.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Content/KIA_Game/Levels/LV_racetrack2.umap'
+[2022.03.11-15.56.43:972][266]AssetCheck: New page: Asset Save: LV_racetrack2
+[2022.03.11-15.56.43:972][266]LogContentValidation: Display: Validating World /Game/KIA_Game/Levels/LV_racetrack2.LV_racetrack2
+[2022.03.11-15.56.46:248][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.03.11-15.56.46:289][373]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Saved/Minimap_WB5FA457B74AF971DEC3F81CBB93F7732D.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/RacingGame/KIA_Game_Project/Content/KIA_Game/minimap/Minimap_WB.uasset'
+[2022.03.11-15.56.46:301][373]AssetCheck: New page: Asset Save: Minimap_WB
+[2022.03.11-15.56.46:301][373]LogContentValidation: Display: Validating WidgetBlueprint /Game/KIA_Game/minimap/Minimap_WB.Minimap_WB
